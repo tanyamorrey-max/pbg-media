@@ -19,9 +19,10 @@
       "time": "18:30",
       "video": "1N_7in-ii6mqUnTT6NsfPKhWU1icAh_ht",
       "finished_photo": "1biHZcadZe7B8xbcYwC4FwigvU9_JnY24",
+      "finished_video": "1Lp2VP5AGxVAG8JYGOZshfksGKp8ibFmU",
       "item": {
-        "name": "NORAD postage style labels ",
-        "title": "NORAD postage style labels",
+        "name": "Postage Style Labels - NORAD - Making",
+        "title": "Postage Style Labels - NORAD",
         "product": "Personalised gift tags",
         "kind": "video",
         "mime": "video/mp4",
@@ -49,11 +50,11 @@
         "tiktok"
       ],
       "text": {
-        "hook": "3 ways to save time on Christmas gift labels",
+        "hook": "3 hours spent hand-writing Christmas labels by hand",
         "hook_score": 100,
         "hook_options": [
           {
-            "hook": "3 ways to save time on Christmas gift labels",
+            "hook": "3 hours spent hand-writing Christmas labels by hand",
             "score": 100,
             "parts": {
               "stakes": 30,
@@ -89,7 +90,7 @@
             "source": "template"
           },
           {
-            "hook": "Stop hand-writing all your Christmas gift tags",
+            "hook": "Nobody tells you how boring writing gift labels gets",
             "score": 92,
             "parts": {
               "stakes": 30,
@@ -101,7 +102,7 @@
             "source": "gemini"
           },
           {
-            "hook": "You don't have to hand-write every label this Christmas",
+            "hook": "Stop wasting hours writing tags for every present",
             "score": 92,
             "parts": {
               "stakes": 30,
@@ -110,23 +111,23 @@
               "short_and_clear": 15,
               "fits_buyer": 15
             },
-            "source": "template"
+            "source": "gemini"
           }
         ],
-        "body": "These printed gift tags are made for busy mums this Christmas. Just peel and stick to save time on hand-writing labels.",
-        "ig_caption": "3 ways to save time on Christmas gift labels\n\nThese printed gift tags are made for busy mums this Christmas. Just peel and stick to save time on hand-writing labels.\n\nSend this to the mum who does it all.\n\nFind them at thepolarbearsgrotto.co.uk",
-        "ask_kind": "send",
+        "body": "These printed gift tags are made for busy mums wrapping lots of presents. Just peel and stick, no hand-writing needed.",
+        "ig_caption": "3 hours spent hand-writing Christmas labels by hand\n\nThese printed gift tags are made for busy mums wrapping lots of presents. Just peel and stick, no hand-writing needed.\n\nWhich design would you pick? Tell me below.\n\nFind them at thepolarbearsgrotto.co.uk",
+        "ask_kind": "comment",
         "caption_source": "gemini",
-        "pin_title": "Personalised Christmas gift tags with hobbies and pictures",
-        "pin_description": "Personalised Christmas gift tags for busy mums who want to save time wrapping. Custom printed labels featuring favourite hobbies and pictures. Quick peel and stick tags for gifts. Order at thepolarbearsgrotto.co.uk",
-        "story_line": "Peel and stick Christmas gift tags",
-        "tip": "Write out your gift list early so you know how many tags you need.",
-        "tiktok_caption": "3 ways to save time on Christmas gift labels. These printed gift tags are made for busy mums this Christmas. thepolarbearsgrotto.co.uk #giftlabels #christmastags #giftwrapping #mumlife",
-        "ask_line": "Send this to the mum who does it all",
+        "pin_title": "Personalised gift tags for Christmas presents",
+        "pin_description": "Personalised gift tags help busy mums wrapping lots of presents. Add a picture of a hobby or favourite thing. Just peel and stick, no hand-writing needed. Great for Christmas gifts, present labels, and festive wrapping. thepolarbearsgrotto.co.uk",
+        "story_line": "No hand-writing christmas gift tags.",
+        "tip": "Write out your gift list early so you know exactly how many tags you need.",
+        "tiktok_caption": "3 hours spent hand-writing Christmas labels by hand. Personalised gift tags are made for busy mums wrapping lots of presents. thepolarbearsgrotto.co.uk #giftags #christmaswrapping #mumlifeuk #giftwrapping",
+        "ask_line": "Which design would you pick? Tell me below",
         "search_words": [
           "gift tags",
-          "labels",
-          "stick"
+          "label",
+          "tag"
         ],
         "qc_score": 100,
         "qc_parts": {
@@ -155,9 +156,10 @@
       "time": "18:30",
       "video": "15CifznLnGQO9DoD3ARtvDNFMSv3NXCn1",
       "finished_photo": "1oh9fu0XcmMmErMpsmEMOpUyxWAgS_W3X",
+      "finished_video": null,
       "item": {
-        "name": "gingerbread girl postage style Christmas label.mp4",
-        "title": "gingerbread girl postage style Christmas label",
+        "name": "Postage Style Christmas Label - Gingerbread Girl - Making.mp4",
+        "title": "Postage Style Christmas Label - Gingerbread Girl",
         "product": "Personalised gift tags",
         "kind": "video",
         "mime": "video/mp4",
@@ -185,9 +187,33 @@
         "tiktok"
       ],
       "text": {
-        "hook": "Nobody tells you how tiring gift labels are",
-        "hook_score": 92,
+        "hook": "3 reasons why hand-writing gift labels is a trap",
+        "hook_score": 100,
         "hook_options": [
+          {
+            "hook": "3 reasons why hand-writing gift labels is a trap",
+            "score": 100,
+            "parts": {
+              "stakes": 30,
+              "specific_detail": 20,
+              "curiosity": 20,
+              "short_and_clear": 15,
+              "fits_buyer": 15
+            },
+            "source": "gemini"
+          },
+          {
+            "hook": "1 tip for wrapping presents without the hand ache",
+            "score": 100,
+            "parts": {
+              "stakes": 30,
+              "specific_detail": 20,
+              "curiosity": 20,
+              "short_and_clear": 15,
+              "fits_buyer": 15
+            },
+            "source": "gemini"
+          },
           {
             "hook": "Nobody tells you how long 20 gift tags take to write",
             "score": 100,
@@ -223,59 +249,33 @@
               "fits_buyer": 15
             },
             "source": "template"
-          },
-          {
-            "hook": "Nobody tells you how tiring gift labels are",
-            "score": 92,
-            "parts": {
-              "stakes": 30,
-              "specific_detail": 12,
-              "curiosity": 20,
-              "short_and_clear": 15,
-              "fits_buyer": 15
-            },
-            "source": "gemini"
-          },
-          {
-            "hook": "Stop hand-writing all your Christmas gift tags",
-            "score": 92,
-            "parts": {
-              "stakes": 30,
-              "specific_detail": 12,
-              "curiosity": 20,
-              "short_and_clear": 15,
-              "fits_buyer": 15
-            },
-            "source": "gemini"
           }
         ],
-        "body": "These printed Christmas gift tags are made for busy mums. Just peel and stick to skip hand-writing labels on your presents.",
-        "ig_caption": "Nobody tells you how tiring gift labels are\n\nThese printed Christmas gift tags are made for busy mums. Just peel and stick to skip hand-writing labels on your presents.\n\nTell me in the comments: who's on your list this year?\n\nFind them at thepolarbearsgrotto.co.uk",
-        "ask_kind": "comment",
+        "body": "These printed gift tags feature a picture of their favourite thing or hobby. Just peel and stick, making them ideal for busy mums wrapping lots of presents.",
+        "ig_caption": "3 reasons why hand-writing gift labels is a trap\n\nThese printed gift tags feature a picture of their favourite thing or hobby. Just peel and stick, making them ideal for busy mums wrapping lots of presents.\n\nSave this for the next birthday on your list.\n\nFind them at thepolarbearsgrotto.co.uk",
+        "ask_kind": "save",
         "caption_source": "gemini",
-        "pin_title": "Christmas gift tags with gingerbread girl design",
-        "pin_description": "Gingerbread girl Christmas label for busy mums. These printed gift tags feature hobbies and pictures. Just peel and stick, no hand-writing. Save time on your holiday presents with quick stickers. thepolarbearsgrotto.co.uk",
-        "story_line": "Skip hand-writing Christmas tags with peel stickers",
-        "tip": "Write your gift list early so you know exactly how many labels you need.",
-        "tiktok_caption": "Nobody tells you how tiring gift labels are. These printed Christmas gift tags are made for busy mums to save time on holiday presents. thepolarbearsgrotto.co.uk #Christmastags #Giftlabels #Christmascrafts #Busymums",
-        "ask_line": "Tell me in the comments: who's on your list this year?",
+        "pin_title": "Personalised gift tags for Christmas present wrapping",
+        "pin_description": "Personalised gift tags featuring a picture of their favourite hobby. Just peel and stick, perfect for busy mums wrapping lots of presents without hand-writing labels. Add a thoughtful touch to your Christmas gifts this year by visiting thepolarbearsgrotto.co.uk.",
+        "story_line": "Peel and stick Christmas gift tags",
+        "tip": "Write out your gift list early so you know exactly how many tags you need.",
+        "tiktok_caption": "3 reasons why hand-writing gift labels is a trap. These printed gift tags are just what busy mums wrapping lots of presents need. thepolarbearsgrotto.co.uk #gifttags #christmaswrapping #personalisedgifts #mumlife",
+        "ask_line": "Save this for the next birthday on your list",
         "search_words": [
           "gift tags",
           "label",
           "sticker"
         ],
-        "qc_score": 88,
+        "qc_score": 100,
         "qc_parts": {
-          "hook": 28,
+          "hook": 30,
           "search_words": 20,
-          "one_ask": 5,
+          "one_ask": 15,
           "sounds_human": 15,
           "visual": 10,
           "channel_rules": 10
         },
-        "qc_notes": [
-          "caption needs exactly one ask"
-        ]
+        "qc_notes": []
       },
       "files": {
         "video": "reel-Fri.mp4",
@@ -293,10 +293,11 @@
       "time": "18:30",
       "video": "1p0Fq5SsIllmCxn6FBrLFyqAg_TiHwPh-",
       "finished_photo": "13EWM4NUVR8du-q0v8HIXci7ejpKwdUQq",
+      "finished_video": null,
       "item": {
-        "name": "rubber ducks colouring book.mp4",
-        "title": "rubber ducks colouring book",
-        "product": "Personalised colouring books",
+        "name": "Colouring Books - Rubber Ducks - Finished.mp4",
+        "title": "Colouring Books - Rubber Ducks",
+        "product": "Colouring books",
         "kind": "video",
         "mime": "video/mp4",
         "size": 36198551,
@@ -323,59 +324,59 @@
         "tiktok"
       ],
       "text": {
-        "hook": "Stop scrolling at 10pm. Colour something instead, mum",
-        "hook_score": 100,
+        "hook": "3 rainy-day saves for the school holidays",
+        "hook_score": 91,
         "hook_options": [
           {
-            "hook": "Nobody tells you mums need 20 minutes off too",
-            "score": 100,
+            "hook": "3 rainy-day saves for the school holidays",
+            "score": 91,
             "parts": {
               "stakes": 30,
               "specific_detail": 20,
               "curiosity": 20,
               "short_and_clear": 15,
-              "fits_buyer": 15
+              "fits_buyer": 6
             },
             "source": "template"
           },
           {
-            "hook": "Stop scrolling at 10pm. Colour something instead, mum",
-            "score": 100,
+            "hook": "Rainy days need a rubber duck colouring book",
+            "score": 79,
             "parts": {
               "stakes": 30,
               "specific_detail": 20,
-              "curiosity": 20,
+              "curiosity": 8,
               "short_and_clear": 15,
-              "fits_buyer": 15
+              "fits_buyer": 6
             },
-            "source": "template"
+            "source": "gemini"
           },
           {
-            "hook": "You don't have to earn a break, mum",
-            "score": 80,
+            "hook": "Nobody tells you how long school holidays feel",
+            "score": 71,
             "parts": {
               "stakes": 30,
               "specific_detail": 0,
               "curiosity": 20,
               "short_and_clear": 15,
-              "fits_buyer": 15
+              "fits_buyer": 6
             },
-            "source": "template"
+            "source": "gemini"
           },
           {
-            "hook": "Stop buying mum another candle she won't light",
-            "score": 80,
+            "hook": "Stop too much screen time today",
+            "score": 71,
             "parts": {
               "stakes": 30,
               "specific_detail": 0,
               "curiosity": 20,
               "short_and_clear": 15,
-              "fits_buyer": 15
+              "fits_buyer": 6
             },
-            "source": "template"
+            "source": "gemini"
           },
           {
-            "hook": "Nobody tells you how long the holidays are",
+            "hook": "You don't have to plan fancy party activities",
             "score": 71,
             "parts": {
               "stakes": 30,
@@ -387,24 +388,24 @@
             "source": "gemini"
           }
         ],
-        "body": "This rubber duck colouring book is made as something to give mums a break. It keeps kids busy during Christmas.",
-        "ig_caption": "Stop scrolling at 10pm. Colour something instead, mum\n\nThis rubber duck colouring book is made as something to give mums a break. It keeps kids busy during Christmas.\n\nSave this for the next birthday on your list.\n\nFind them at thepolarbearsgrotto.co.uk",
-        "ask_kind": "save",
+        "body": "This rubber duck colouring book is perfect for children. Use it on rainy days or during school holidays. It gives little ones screen-free fun.",
+        "ig_caption": "3 rainy-day saves for the school holidays\n\nThis rubber duck colouring book is perfect for children. Use it on rainy days or during school holidays. It gives little ones screen-free fun.\n\nSend this to someone who needs a rainy-day plan.\n\nFind them at thepolarbearsgrotto.co.uk",
+        "ask_kind": "send",
         "caption_source": "gemini",
-        "pin_title": "Rubber duck colouring book for kids",
-        "pin_description": "Rubber duck colouring book is a fun colouring book for kids. It is made as something to give mums a break over Christmas. Find quiet colouring books for kids at thepolarbearsgrotto.co.uk",
-        "story_line": "Get a break with this rubber duck book",
-        "tip": "Keep a spare colouring book handy for quiet moments at home.",
-        "tiktok_caption": "Stop scrolling at 10pm. Colour something instead, mum. This rubber duck colouring book is made as something to give mums a break. thepolarbearsgrotto.co.uk #colouringbook #rubberduck #mumlife #kidsgifts",
-        "ask_line": "Save this for the next birthday on your list",
+        "pin_title": "Rubber duck colouring book for children",
+        "pin_description": "Rubber duck colouring book for children. Perfect for rainy days, school holidays, travel, and quiet time. Keep little ones busy with fun pictures. Find it at thepolarbearsgrotto.co.uk",
+        "story_line": "Rubber duck colouring book for kids",
+        "tip": "Keep a spare colouring book in your bag for quiet time when you are out.",
+        "tiktok_caption": "3 rainy-day saves for the school holidays. A rubber duck colouring book for children to enjoy on rainy days. thepolarbearsgrotto.co.uk #colouringbook #rubberduck #kidsactivities #childrensbooks",
+        "ask_line": "Send this to someone who needs a rainy-day plan",
         "search_words": [
+          "colouring",
           "colouring book",
-          "rubber duck",
-          "mums a break"
+          "children"
         ],
-        "qc_score": 100,
+        "qc_score": 97,
         "qc_parts": {
-          "hook": 30,
+          "hook": 27,
           "search_words": 20,
           "one_ask": 15,
           "sounds_human": 15,
@@ -432,8 +433,8 @@
         "1jXOoja67Sp6rPYY6JM8EJ03fJAorFl0K"
       ],
       "item": {
-        "name": "personalised wooden bauble.jpg",
-        "title": "personalised wooden bauble",
+        "name": "Personalised Wooden Bauble - Believes - Finished.jpg",
+        "title": "Personalised Wooden Bauble - Believes",
         "product": "Personalised wooden baubles",
         "kind": "photo",
         "mime": "image/jpeg",
@@ -459,9 +460,33 @@
         "facebook"
       ],
       "text": {
-        "hook": "Nobody tells you a bauble can be the most personal gift",
+        "hook": "Nobody tells you how forgetful shop-bought tree baubles feel",
         "hook_score": 92,
         "hook_options": [
+          {
+            "hook": "Nobody tells you how forgetful shop-bought tree baubles feel",
+            "score": 92,
+            "parts": {
+              "stakes": 30,
+              "specific_detail": 12,
+              "curiosity": 20,
+              "short_and_clear": 15,
+              "fits_buyer": 15
+            },
+            "source": "gemini"
+          },
+          {
+            "hook": "Stop hanging generic shop-bought baubles on your tree",
+            "score": 92,
+            "parts": {
+              "stakes": 30,
+              "specific_detail": 12,
+              "curiosity": 20,
+              "short_and_clear": 15,
+              "fits_buyer": 15
+            },
+            "source": "gemini"
+          },
           {
             "hook": "Nobody tells you a bauble can be the most personal gift",
             "score": 92,
@@ -475,6 +500,18 @@
             "source": "template"
           },
           {
+            "hook": "You don't have to settle for a shop-bought wooden bauble",
+            "score": 83,
+            "parts": {
+              "stakes": 30,
+              "specific_detail": 12,
+              "curiosity": 20,
+              "short_and_clear": 15,
+              "fits_buyer": 6
+            },
+            "source": "gemini"
+          },
+          {
             "hook": "Stop buying baubles that look like everyone else's",
             "score": 83,
             "parts": {
@@ -485,58 +522,22 @@
               "fits_buyer": 6
             },
             "source": "template"
-          },
-          {
-            "hook": "Stop wasting time writing names on Christmas decorations",
-            "score": 80,
-            "parts": {
-              "stakes": 30,
-              "specific_detail": 0,
-              "curiosity": 20,
-              "short_and_clear": 15,
-              "fits_buyer": 15
-            },
-            "source": "gemini"
-          },
-          {
-            "hook": "You don't have to find the perfect gift. Put their name on it",
-            "score": 72,
-            "parts": {
-              "stakes": 30,
-              "specific_detail": 0,
-              "curiosity": 20,
-              "short_and_clear": 7,
-              "fits_buyer": 15
-            },
-            "source": "template"
-          },
-          {
-            "hook": "3 ways to make your Christmas tree look special",
-            "score": 70,
-            "parts": {
-              "stakes": 0,
-              "specific_detail": 20,
-              "curiosity": 20,
-              "short_and_clear": 15,
-              "fits_buyer": 15
-            },
-            "source": "gemini"
           }
         ],
-        "body": "Our personalised wooden bauble features vinyl lettering and decoration. It is made for busy mums getting ready for Christmas.",
-        "ig_caption": "Nobody tells you a bauble can be the most personal gift\n\nOur personalised wooden bauble features vinyl lettering and decoration. It is made for busy mums getting ready for Christmas.\n\nSend this to the mum who does it all.\n\nFind them at thepolarbearsgrotto.co.uk",
-        "ask_kind": "send",
+        "body": "This personalised wooden bauble is made from wood with vinyl lettering and decoration. It is a keepsake for anyone wanting a keepsake for someone special, to hang on the tree every Christmas.",
+        "ig_caption": "Nobody tells you how forgetful shop-bought tree baubles feel\n\nThis personalised wooden bauble is made from wood with vinyl lettering and decoration. It is a keepsake for anyone wanting a keepsake for someone special, to hang on the tree every Christmas.\n\nTell me in the comments: who's on your list this year?\n\nFind them at thepolarbearsgrotto.co.uk",
+        "ask_kind": "comment",
         "caption_source": "gemini",
-        "pin_title": "Personalised wooden bauble for Christmas",
-        "pin_description": "Personalised wooden bauble with vinyl lettering and decoration made for busy mums. Great for Christmas trees, personal gifts, and festive decor. Find more at thepolarbearsgrotto.co.uk",
-        "story_line": "Personalised wooden bauble for Christmas",
-        "tip": "Write out gift lists early so you can relax before Christmas day.",
-        "tiktok_caption": "Nobody tells you a bauble can be the most personal gift. This personalised wooden bauble with vinyl lettering and decoration is made for busy mums getting ready for Christmas. thepolarbearsgrotto.co.uk #woodenbauble #personalisedbauble #christmasdecorations #mumlife",
-        "ask_line": "Send this to the mum who does it all",
+        "pin_title": "Personalised wooden bauble for Christmas tree",
+        "pin_description": "Personalised wooden bauble with vinyl lettering and decoration to hang on the tree every Christmas. A thoughtful keepsake for someone special. Dispatched within 24 hours to the UK. thepolarbearsgrotto.co.uk",
+        "story_line": "A personalised wooden bauble for the tree.",
+        "tip": "Hang your special bauble in the middle of the tree where everyone can see it.",
+        "tiktok_caption": "Nobody tells you how forgetful shop-bought tree baubles feel. This personalised wooden bauble is a keepsake for anyone wanting a keepsake for someone special, to hang on the tree every Christmas. thepolarbearsgrotto.co.uk #woodenbauble #personalisedbauble #christmasbauble #treebauble",
+        "ask_line": "Tell me in the comments: who's on your list this year?",
         "search_words": [
-          "personalised wooden bauble",
           "wooden bauble",
-          "bauble"
+          "personalised wooden bauble",
+          "christmas tree"
         ],
         "qc_score": 98,
         "qc_parts": {
@@ -568,9 +569,9 @@
       "time": "20:00",
       "photo": "18xw-4smDwBBIiCf09-v97RyK1AxlQWqA",
       "item": {
-        "name": "Icy Blue Iris in Metallic Ink Splash - Tanya.png",
-        "title": "Icy Blue Iris in Metallic Ink Splash",
-        "product": "Personalised prints",
+        "name": "Iris Picture - Metallic Ink Splash - Finished.png",
+        "title": "Iris Picture - Metallic Ink Splash",
+        "product": "Personalised iris art (digital)",
         "kind": "photo",
         "mime": "image/png",
         "size": 2766360,
@@ -594,15 +595,39 @@
         "pinterest"
       ],
       "text": {
-        "hook": "Nobody tells you the most personal gift can be a print",
-        "hook_score": 92,
+        "hook": "Stop giving anniversary gifts that could be for anyone",
+        "hook_score": 80,
         "hook_options": [
           {
-            "hook": "Nobody tells you the most personal gift can be a print",
-            "score": 92,
+            "hook": "Stop giving anniversary gifts that could be for anyone",
+            "score": 80,
             "parts": {
               "stakes": 30,
-              "specific_detail": 12,
+              "specific_detail": 0,
+              "curiosity": 20,
+              "short_and_clear": 15,
+              "fits_buyer": 15
+            },
+            "source": "gemini"
+          },
+          {
+            "hook": "You don't have to give a generic birthday present this year",
+            "score": 80,
+            "parts": {
+              "stakes": 30,
+              "specific_detail": 0,
+              "curiosity": 20,
+              "short_and_clear": 15,
+              "fits_buyer": 15
+            },
+            "source": "gemini"
+          },
+          {
+            "hook": "Stop buying anniversary gifts that could be for anyone",
+            "score": 80,
+            "parts": {
+              "stakes": 30,
+              "specific_detail": 0,
               "curiosity": 20,
               "short_and_clear": 15,
               "fits_buyer": 15
@@ -610,72 +635,48 @@
             "source": "template"
           },
           {
-            "hook": "1. Pick a print. 2. Give a personal gift. 3. Save time",
-            "score": 88,
-            "parts": {
-              "stakes": 30,
-              "specific_detail": 20,
-              "curiosity": 8,
-              "short_and_clear": 15,
-              "fits_buyer": 15
-            },
-            "source": "gemini"
-          },
-          {
-            "hook": "Get your Christmas gifts sorted in under 24 hours",
-            "score": 88,
-            "parts": {
-              "stakes": 30,
-              "specific_detail": 20,
-              "curiosity": 8,
-              "short_and_clear": 15,
-              "fits_buyer": 15
-            },
-            "source": "gemini"
-          },
-          {
-            "hook": "You don't have to spend hours writing Christmas cards",
-            "score": 80,
+            "hook": "Nobody tells you no two irises are the same",
+            "score": 71,
             "parts": {
               "stakes": 30,
               "specific_detail": 0,
               "curiosity": 20,
               "short_and_clear": 15,
-              "fits_buyer": 15
+              "fits_buyer": 6
             },
-            "source": "gemini"
+            "source": "template"
           },
           {
-            "hook": "Stop giving gifts that look the same as everyone else's",
-            "score": 80,
+            "hook": "You don't have to guess. Give them their own iris",
+            "score": 71,
             "parts": {
               "stakes": 30,
               "specific_detail": 0,
               "curiosity": 20,
               "short_and_clear": 15,
-              "fits_buyer": 15
+              "fits_buyer": 6
             },
             "source": "template"
           }
         ],
-        "body": "This print is made for busy mums who want to give a personal gift. It features Icy Blue Iris in Metallic Ink Splash. Dispatched within 24 hours to help you save time.",
-        "ig_caption": "Nobody tells you the most personal gift can be a print\n\nThis print is made for busy mums who want to give a personal gift. It features Icy Blue Iris in Metallic Ink Splash. Dispatched within 24 hours to help you save time.\n\nComment with the hobby you'd put on theirs.\n\nFind them at thepolarbearsgrotto.co.uk",
-        "ask_kind": "comment",
+        "body": "This digital image of your own iris makes a wonderful gift for couples, families, and anyone marking a birthday or wedding. Each picture is personalised with names and dates before being sent to you by email.",
+        "ig_caption": "Stop giving anniversary gifts that could be for anyone\n\nThis digital image of your own iris makes a wonderful gift for couples, families, and anyone marking a birthday or wedding. Each picture is personalised with names and dates before being sent to you by email.\n\nSave this for when a wedding gift comes up.\n\nFind them at thepolarbearsgrotto.co.uk",
+        "ask_kind": "save",
         "caption_source": "gemini",
-        "pin_title": "Personalised print: Icy Blue Iris in Metallic Ink Splash for Christmas",
-        "pin_description": "Personalised print: Icy Blue Iris in Metallic Ink Splash. Prints personalised for the person you're giving them to. Dispatched within 24 hours, UK only. thepolarbearsgrotto.co.uk",
-        "story_line": "Personalised print for thoughtful Christmas gifts",
-        "tip": "Write out your gift list early so you have time to relax.",
-        "tiktok_caption": "Nobody tells you the most personal gift can be a print. This personal print is made for busy mums looking for an easy Christmas gift. thepolarbearsgrotto.co.uk #personalisedprint #christmasgifts #mumlife #craftbusiness",
-        "ask_line": "Comment with the hobby you'd put on theirs",
+        "pin_title": "Personalised iris art digital image for weddings and birthdays",
+        "pin_description": "Personalised iris art: Metallic Ink Splash iris picture. A digital image of the buyer's own iris, personalised with names and dates such as birthdays or wedding dates, sent by email. thepolarbearsgrotto.co.uk",
+        "story_line": "Your own iris turned into digital art",
+        "tip": "Write down exact dates and names before ordering so your digital image is ready to email.",
+        "tiktok_caption": "Stop giving anniversary gifts that could be for anyone. This digital iris picture personalised with names and dates makes a wonderful gift for couples, families, and anyone marking a wedding, anniversary, or birthday. thepolarbearsgrotto.co.uk #irisart #eyeprint #personalisedgift #digitalart",
+        "ask_line": "Save this for when a wedding gift comes up",
         "search_words": [
-          "print",
-          "gift",
-          "mum"
+          "iris",
+          "eye",
+          "digital image"
         ],
-        "qc_score": 98,
+        "qc_score": 94,
         "qc_parts": {
-          "hook": 28,
+          "hook": 24,
           "search_words": 20,
           "one_ask": 15,
           "sounds_human": 15,
@@ -697,9 +698,9 @@
       "time": "09:00",
       "photo": "18xw-4smDwBBIiCf09-v97RyK1AxlQWqA",
       "item": {
-        "name": "Icy Blue Iris in Metallic Ink Splash - Tanya.png",
-        "title": "Icy Blue Iris in Metallic Ink Splash",
-        "product": "Personalised prints",
+        "name": "Iris Picture - Metallic Ink Splash - Finished.png",
+        "title": "Iris Picture - Metallic Ink Splash",
+        "product": "Personalised iris art (digital)",
         "kind": "photo",
         "mime": "image/png",
         "size": 2766360,
@@ -723,15 +724,39 @@
         "instagram_story"
       ],
       "text": {
-        "hook": "Nobody tells you the most personal gift can be a print",
-        "hook_score": 92,
+        "hook": "Stop giving anniversary gifts that could be for anyone",
+        "hook_score": 80,
         "hook_options": [
           {
-            "hook": "Nobody tells you the most personal gift can be a print",
-            "score": 92,
+            "hook": "Stop giving anniversary gifts that could be for anyone",
+            "score": 80,
             "parts": {
               "stakes": 30,
-              "specific_detail": 12,
+              "specific_detail": 0,
+              "curiosity": 20,
+              "short_and_clear": 15,
+              "fits_buyer": 15
+            },
+            "source": "gemini"
+          },
+          {
+            "hook": "You don't have to give a generic birthday present this year",
+            "score": 80,
+            "parts": {
+              "stakes": 30,
+              "specific_detail": 0,
+              "curiosity": 20,
+              "short_and_clear": 15,
+              "fits_buyer": 15
+            },
+            "source": "gemini"
+          },
+          {
+            "hook": "Stop buying anniversary gifts that could be for anyone",
+            "score": 80,
+            "parts": {
+              "stakes": 30,
+              "specific_detail": 0,
               "curiosity": 20,
               "short_and_clear": 15,
               "fits_buyer": 15
@@ -739,72 +764,48 @@
             "source": "template"
           },
           {
-            "hook": "1. Pick a print. 2. Give a personal gift. 3. Save time",
-            "score": 88,
-            "parts": {
-              "stakes": 30,
-              "specific_detail": 20,
-              "curiosity": 8,
-              "short_and_clear": 15,
-              "fits_buyer": 15
-            },
-            "source": "gemini"
-          },
-          {
-            "hook": "Get your Christmas gifts sorted in under 24 hours",
-            "score": 88,
-            "parts": {
-              "stakes": 30,
-              "specific_detail": 20,
-              "curiosity": 8,
-              "short_and_clear": 15,
-              "fits_buyer": 15
-            },
-            "source": "gemini"
-          },
-          {
-            "hook": "You don't have to spend hours writing Christmas cards",
-            "score": 80,
+            "hook": "Nobody tells you no two irises are the same",
+            "score": 71,
             "parts": {
               "stakes": 30,
               "specific_detail": 0,
               "curiosity": 20,
               "short_and_clear": 15,
-              "fits_buyer": 15
+              "fits_buyer": 6
             },
-            "source": "gemini"
+            "source": "template"
           },
           {
-            "hook": "Stop giving gifts that look the same as everyone else's",
-            "score": 80,
+            "hook": "You don't have to guess. Give them their own iris",
+            "score": 71,
             "parts": {
               "stakes": 30,
               "specific_detail": 0,
               "curiosity": 20,
               "short_and_clear": 15,
-              "fits_buyer": 15
+              "fits_buyer": 6
             },
             "source": "template"
           }
         ],
-        "body": "This print is made for busy mums who want to give a personal gift. It features Icy Blue Iris in Metallic Ink Splash. Dispatched within 24 hours to help you save time.",
-        "ig_caption": "Nobody tells you the most personal gift can be a print\n\nThis print is made for busy mums who want to give a personal gift. It features Icy Blue Iris in Metallic Ink Splash. Dispatched within 24 hours to help you save time.\n\nComment with the hobby you'd put on theirs.\n\nFind them at thepolarbearsgrotto.co.uk",
-        "ask_kind": "comment",
+        "body": "This digital image of your own iris makes a wonderful gift for couples, families, and anyone marking a birthday or wedding. Each picture is personalised with names and dates before being sent to you by email.",
+        "ig_caption": "Stop giving anniversary gifts that could be for anyone\n\nThis digital image of your own iris makes a wonderful gift for couples, families, and anyone marking a birthday or wedding. Each picture is personalised with names and dates before being sent to you by email.\n\nSave this for when a wedding gift comes up.\n\nFind them at thepolarbearsgrotto.co.uk",
+        "ask_kind": "save",
         "caption_source": "gemini",
-        "pin_title": "Personalised print: Icy Blue Iris in Metallic Ink Splash for Christmas",
-        "pin_description": "Personalised print: Icy Blue Iris in Metallic Ink Splash. Prints personalised for the person you're giving them to. Dispatched within 24 hours, UK only. thepolarbearsgrotto.co.uk",
-        "story_line": "Personalised print for thoughtful Christmas gifts",
-        "tip": "Write out your gift list early so you have time to relax.",
-        "tiktok_caption": "Nobody tells you the most personal gift can be a print. This personal print is made for busy mums looking for an easy Christmas gift. thepolarbearsgrotto.co.uk #personalisedprint #christmasgifts #mumlife #craftbusiness",
-        "ask_line": "Comment with the hobby you'd put on theirs",
+        "pin_title": "Personalised iris art digital image for weddings and birthdays",
+        "pin_description": "Personalised iris art: Metallic Ink Splash iris picture. A digital image of the buyer's own iris, personalised with names and dates such as birthdays or wedding dates, sent by email. thepolarbearsgrotto.co.uk",
+        "story_line": "Your own iris turned into digital art",
+        "tip": "Write down exact dates and names before ordering so your digital image is ready to email.",
+        "tiktok_caption": "Stop giving anniversary gifts that could be for anyone. This digital iris picture personalised with names and dates makes a wonderful gift for couples, families, and anyone marking a wedding, anniversary, or birthday. thepolarbearsgrotto.co.uk #irisart #eyeprint #personalisedgift #digitalart",
+        "ask_line": "Save this for when a wedding gift comes up",
         "search_words": [
-          "print",
-          "gift",
-          "mum"
+          "iris",
+          "eye",
+          "digital image"
         ],
-        "qc_score": 98,
+        "qc_score": 94,
         "qc_parts": {
-          "hook": 28,
+          "hook": 24,
           "search_words": 20,
           "one_ask": 15,
           "sounds_human": 15,
@@ -826,8 +827,8 @@
       "time": "20:00",
       "photo": "1x-9hsRc4lf_rlRy4_KDFXtinQsrx5wo2",
       "item": {
-        "name": "Pengiun_with_hot_chocolate tub topper_WM_1792057766499.png",
-        "title": "Pengiun with hot chocolate tub topper",
+        "name": "Tub Topper - Penguin - Finished.png",
+        "title": "Tub Topper - Penguin",
         "product": "Personalised chocolate tub stickers (toppers)",
         "kind": "photo",
         "mime": "image/png",
@@ -852,35 +853,11 @@
         "pinterest"
       ],
       "text": {
-        "hook": "3 chocolate tub stickers saved a mum from hand-writing labels",
+        "hook": "3 reasons your tub of chocolates needs a personal touch",
         "hook_score": 100,
         "hook_options": [
           {
-            "hook": "3 chocolate tub stickers saved a mum from hand-writing labels",
-            "score": 100,
-            "parts": {
-              "stakes": 30,
-              "specific_detail": 20,
-              "curiosity": 20,
-              "short_and_clear": 15,
-              "fits_buyer": 15
-            },
-            "source": "gemini"
-          },
-          {
-            "hook": "Nobody tells you how boring generic chocolate tubs look at Christmas",
-            "score": 100,
-            "parts": {
-              "stakes": 30,
-              "specific_detail": 20,
-              "curiosity": 20,
-              "short_and_clear": 15,
-              "fits_buyer": 15
-            },
-            "source": "gemini"
-          },
-          {
-            "hook": "1 simple chocolate tub sticker turns a generic gift into something special",
+            "hook": "3 reasons your tub of chocolates needs a personal touch",
             "score": 100,
             "parts": {
               "stakes": 30,
@@ -914,22 +891,46 @@
               "fits_buyer": 15
             },
             "source": "template"
+          },
+          {
+            "hook": "Nobody tells you a chocolate tub can feel this personal",
+            "score": 100,
+            "parts": {
+              "stakes": 30,
+              "specific_detail": 20,
+              "curiosity": 20,
+              "short_and_clear": 15,
+              "fits_buyer": 15
+            },
+            "source": "template"
+          },
+          {
+            "hook": "Nobody tells you how hard it is to make a tub of chocolates feel personal",
+            "score": 92,
+            "parts": {
+              "stakes": 30,
+              "specific_detail": 20,
+              "curiosity": 20,
+              "short_and_clear": 7,
+              "fits_buyer": 15
+            },
+            "source": "gemini"
           }
         ],
-        "body": "This printed chocolate tub topper is for busy mums. It turns a tub of chocolates into a personal gift. Just peel and stick.",
-        "ig_caption": "3 chocolate tub stickers saved a mum from hand-writing labels\n\nThis printed chocolate tub topper is for busy mums. It turns a tub of chocolates into a personal gift. Just peel and stick.\n\nComment with the hobby you'd put on theirs.\n\nFind them at thepolarbearsgrotto.co.uk",
-        "ask_kind": "comment",
+        "body": "Turn a plain tub of chocolates into a personal gift with our chocolate tub sticker. This topper is made for mums and families giving chocolate tubs as gifts. Each design features a picture of their favourite thing.",
+        "ig_caption": "3 reasons your tub of chocolates needs a personal touch\n\nTurn a plain tub of chocolates into a personal gift with our chocolate tub sticker. This topper is made for mums and families giving chocolate tubs as gifts. Each design features a picture of their favourite thing.\n\nSave this for the next birthday on your list.\n\nFind them at thepolarbearsgrotto.co.uk",
+        "ask_kind": "save",
         "caption_source": "gemini",
-        "pin_title": "Chocolate tub topper with penguin and hot chocolate",
-        "pin_description": "Chocolate tub topper for your Christmas gifts. Make a tub of chocolates personal with a name and favourite thing. Quick and easy to use without hand-writing labels. Dispatched within 24 hours. UK only. thepolarbearsgrotto.co.uk",
-        "story_line": "Personalised chocolate tub topper for Christmas",
-        "tip": "Stick the label on before you tape the last fold, so it sits flat.",
-        "tiktok_caption": "3 chocolate tub stickers saved a mum from hand-writing labels. This printed chocolate tub topper is made for busy mums looking for personal Christmas gifts. thepolarbearsgrotto.co.uk #chocolatetubtopper #christmasgifts #personalisation #stockingfillers",
-        "ask_line": "Comment with the hobby you'd put on theirs",
+        "pin_title": "Chocolate tub sticker for Christmas gifts",
+        "pin_description": "Chocolate tub sticker personalised with a name and favourite thing. Turn a tub of chocolates into a thoughtful gift for family. No hand-writing labels needed. thepolarbearsgrotto.co.uk",
+        "story_line": "Turn your chocolate tub into a personal gift",
+        "tip": "Wrap your chocolate tub early so you are not rushing on Christmas Eve.",
+        "tiktok_caption": "3 reasons your tub of chocolates needs a personal touch. A chocolate tub sticker is a personal gift for mums and families giving chocolate tubs to loved ones. thepolarbearsgrotto.co.uk #chocolatetubsticker #tubtopper #chocolate #christmasgift",
+        "ask_line": "Save this for the next birthday on your list",
         "search_words": [
-          "chocolate tub",
-          "topper",
-          "tub"
+          "chocolate",
+          "tub",
+          "topper"
         ],
         "qc_score": 100,
         "qc_parts": {
@@ -955,8 +956,8 @@
       "time": "09:00",
       "photo": "1x-9hsRc4lf_rlRy4_KDFXtinQsrx5wo2",
       "item": {
-        "name": "Pengiun_with_hot_chocolate tub topper_WM_1792057766499.png",
-        "title": "Pengiun with hot chocolate tub topper",
+        "name": "Tub Topper - Penguin - Finished.png",
+        "title": "Tub Topper - Penguin",
         "product": "Personalised chocolate tub stickers (toppers)",
         "kind": "photo",
         "mime": "image/png",
@@ -981,35 +982,11 @@
         "instagram_story"
       ],
       "text": {
-        "hook": "3 chocolate tub stickers saved a mum from hand-writing labels",
+        "hook": "3 reasons your tub of chocolates needs a personal touch",
         "hook_score": 100,
         "hook_options": [
           {
-            "hook": "3 chocolate tub stickers saved a mum from hand-writing labels",
-            "score": 100,
-            "parts": {
-              "stakes": 30,
-              "specific_detail": 20,
-              "curiosity": 20,
-              "short_and_clear": 15,
-              "fits_buyer": 15
-            },
-            "source": "gemini"
-          },
-          {
-            "hook": "Nobody tells you how boring generic chocolate tubs look at Christmas",
-            "score": 100,
-            "parts": {
-              "stakes": 30,
-              "specific_detail": 20,
-              "curiosity": 20,
-              "short_and_clear": 15,
-              "fits_buyer": 15
-            },
-            "source": "gemini"
-          },
-          {
-            "hook": "1 simple chocolate tub sticker turns a generic gift into something special",
+            "hook": "3 reasons your tub of chocolates needs a personal touch",
             "score": 100,
             "parts": {
               "stakes": 30,
@@ -1043,22 +1020,46 @@
               "fits_buyer": 15
             },
             "source": "template"
+          },
+          {
+            "hook": "Nobody tells you a chocolate tub can feel this personal",
+            "score": 100,
+            "parts": {
+              "stakes": 30,
+              "specific_detail": 20,
+              "curiosity": 20,
+              "short_and_clear": 15,
+              "fits_buyer": 15
+            },
+            "source": "template"
+          },
+          {
+            "hook": "Nobody tells you how hard it is to make a tub of chocolates feel personal",
+            "score": 92,
+            "parts": {
+              "stakes": 30,
+              "specific_detail": 20,
+              "curiosity": 20,
+              "short_and_clear": 7,
+              "fits_buyer": 15
+            },
+            "source": "gemini"
           }
         ],
-        "body": "This printed chocolate tub topper is for busy mums. It turns a tub of chocolates into a personal gift. Just peel and stick.",
-        "ig_caption": "3 chocolate tub stickers saved a mum from hand-writing labels\n\nThis printed chocolate tub topper is for busy mums. It turns a tub of chocolates into a personal gift. Just peel and stick.\n\nComment with the hobby you'd put on theirs.\n\nFind them at thepolarbearsgrotto.co.uk",
-        "ask_kind": "comment",
+        "body": "Turn a plain tub of chocolates into a personal gift with our chocolate tub sticker. This topper is made for mums and families giving chocolate tubs as gifts. Each design features a picture of their favourite thing.",
+        "ig_caption": "3 reasons your tub of chocolates needs a personal touch\n\nTurn a plain tub of chocolates into a personal gift with our chocolate tub sticker. This topper is made for mums and families giving chocolate tubs as gifts. Each design features a picture of their favourite thing.\n\nSave this for the next birthday on your list.\n\nFind them at thepolarbearsgrotto.co.uk",
+        "ask_kind": "save",
         "caption_source": "gemini",
-        "pin_title": "Chocolate tub topper with penguin and hot chocolate",
-        "pin_description": "Chocolate tub topper for your Christmas gifts. Make a tub of chocolates personal with a name and favourite thing. Quick and easy to use without hand-writing labels. Dispatched within 24 hours. UK only. thepolarbearsgrotto.co.uk",
-        "story_line": "Personalised chocolate tub topper for Christmas",
-        "tip": "Stick the label on before you tape the last fold, so it sits flat.",
-        "tiktok_caption": "3 chocolate tub stickers saved a mum from hand-writing labels. This printed chocolate tub topper is made for busy mums looking for personal Christmas gifts. thepolarbearsgrotto.co.uk #chocolatetubtopper #christmasgifts #personalisation #stockingfillers",
-        "ask_line": "Comment with the hobby you'd put on theirs",
+        "pin_title": "Chocolate tub sticker for Christmas gifts",
+        "pin_description": "Chocolate tub sticker personalised with a name and favourite thing. Turn a tub of chocolates into a thoughtful gift for family. No hand-writing labels needed. thepolarbearsgrotto.co.uk",
+        "story_line": "Turn your chocolate tub into a personal gift",
+        "tip": "Wrap your chocolate tub early so you are not rushing on Christmas Eve.",
+        "tiktok_caption": "3 reasons your tub of chocolates needs a personal touch. A chocolate tub sticker is a personal gift for mums and families giving chocolate tubs to loved ones. thepolarbearsgrotto.co.uk #chocolatetubsticker #tubtopper #chocolate #christmasgift",
+        "ask_line": "Save this for the next birthday on your list",
         "search_words": [
-          "chocolate tub",
-          "topper",
-          "tub"
+          "chocolate",
+          "tub",
+          "topper"
         ],
         "qc_score": 100,
         "qc_parts": {
@@ -1084,8 +1085,8 @@
       "time": "20:00",
       "photo": "1kEWTPcjpCRS_TETDqgKq1uydbTF2kyLp",
       "item": {
-        "name": "Puppy chocolate tub topper WM.png",
-        "title": "Puppy chocolate tub topper",
+        "name": "Tub Topper - Puppy - Finished.png",
+        "title": "Tub Topper - Puppy",
         "product": "Personalised chocolate tub stickers (toppers)",
         "kind": "photo",
         "mime": "image/png",
@@ -1110,11 +1111,11 @@
         "pinterest"
       ],
       "text": {
-        "hook": "3 ways to make a chocolate tub feel personal",
+        "hook": "Stop giving plain chocolate tubs that look like every other gift",
         "hook_score": 100,
         "hook_options": [
           {
-            "hook": "3 ways to make a chocolate tub feel personal",
+            "hook": "Stop giving plain chocolate tubs that look like every other gift",
             "score": 100,
             "parts": {
               "stakes": 30,
@@ -1162,45 +1163,43 @@
             "source": "template"
           },
           {
-            "hook": "Nobody tells you how much time chocolate tub labels take",
-            "score": 91,
+            "hook": "A mum ordered three chocolate tub stickers to give to her family",
+            "score": 88,
             "parts": {
               "stakes": 30,
               "specific_detail": 20,
-              "curiosity": 20,
+              "curiosity": 8,
               "short_and_clear": 15,
-              "fits_buyer": 6
+              "fits_buyer": 15
             },
             "source": "gemini"
           }
         ],
-        "body": "Turn a simple tub of chocolates into a personal gift with a printed chocolate tub sticker. It features a puppy and a name for busy mums to use at Christmas. Just peel and stick to save time.",
-        "ig_caption": "3 ways to make a chocolate tub feel personal\n\nTurn a simple tub of chocolates into a personal gift with a printed chocolate tub sticker. It features a puppy and a name for busy mums to use at Christmas. Just peel and stick to save time.\n\nTell me in the comments: who's on your list this year?\n\nFind them at thepolarbearsgrotto.co.uk",
-        "ask_kind": "comment",
+        "body": "Turn a plain tub of chocolates into a personal gift with a puppy tub topper. This printed sticker is for mums and families giving chocolate tubs as gifts. Hand-writing labels takes time, but this makes it easy.",
+        "ig_caption": "Stop giving plain chocolate tubs that look like every other gift\n\nTurn a plain tub of chocolates into a personal gift with a puppy tub topper. This printed sticker is for mums and families giving chocolate tubs as gifts. Hand-writing labels takes time, but this makes it easy.\n\nSave this for when the wrapping starts.\n\nFind them at thepolarbearsgrotto.co.uk",
+        "ask_kind": "save",
         "caption_source": "gemini",
-        "pin_title": "Chocolate tub sticker with a puppy for Christmas",
-        "pin_description": "Chocolate tub sticker featuring a puppy and a name to make a personal gift for Christmas. Quick to use with no hand-writing needed for busy mums. Dispatched within 24 hours to UK only. thepolarbearsgrotto.co.uk",
-        "story_line": "Turn a chocolate tub into a personal gift",
-        "tip": "Write names on gifts early so you are not rushing on Christmas Eve.",
-        "tiktok_caption": "3 ways to make a chocolate tub feel personal. Turn a simple tub of chocolates into a personal gift with a puppy sticker for busy mums. thepolarbearsgrotto.co.uk #chocolatetubtopper #chocolatesticker #christmasgift #personalisation",
-        "ask_line": "Tell me in the comments: who's on your list this year?",
+        "pin_title": "Chocolate tub sticker for Christmas",
+        "pin_description": "Chocolate tub sticker featuring a puppy design. A simple way for mums and families to make a plain tub of chocolates feel personal. Hand-writing labels takes time, so use this printed topper instead. Dispatched within 24 hours, UK only. thepolarbearsgrotto.co.uk",
+        "story_line": "Turn a plain chocolate tub into a personal gift",
+        "tip": "Wrap a ribbon around the chocolate tub after adding your sticker for an extra touch.",
+        "tiktok_caption": "Stop giving plain chocolate tubs that look like every other gift. A puppy chocolate tub sticker for mums and families giving chocolate tubs as gifts. thepolarbearsgrotto.co.uk #chocolatetubtopper #christmasgifts #stockingfillers #personalisedgifts",
+        "ask_line": "Save this for when the wrapping starts",
         "search_words": [
           "tub",
           "topper",
           "chocolate"
         ],
-        "qc_score": 90,
+        "qc_score": 100,
         "qc_parts": {
           "hook": 30,
           "search_words": 20,
-          "one_ask": 5,
+          "one_ask": 15,
           "sounds_human": 15,
           "visual": 10,
           "channel_rules": 10
         },
-        "qc_notes": [
-          "caption needs exactly one ask"
-        ]
+        "qc_notes": []
       },
       "files": {
         "image": "pin-Wed.png"
@@ -1215,8 +1214,8 @@
       "time": "09:00",
       "photo": "1kEWTPcjpCRS_TETDqgKq1uydbTF2kyLp",
       "item": {
-        "name": "Puppy chocolate tub topper WM.png",
-        "title": "Puppy chocolate tub topper",
+        "name": "Tub Topper - Puppy - Finished.png",
+        "title": "Tub Topper - Puppy",
         "product": "Personalised chocolate tub stickers (toppers)",
         "kind": "photo",
         "mime": "image/png",
@@ -1241,11 +1240,11 @@
         "instagram_story"
       ],
       "text": {
-        "hook": "3 ways to make a chocolate tub feel personal",
+        "hook": "Stop giving plain chocolate tubs that look like every other gift",
         "hook_score": 100,
         "hook_options": [
           {
-            "hook": "3 ways to make a chocolate tub feel personal",
+            "hook": "Stop giving plain chocolate tubs that look like every other gift",
             "score": 100,
             "parts": {
               "stakes": 30,
@@ -1293,45 +1292,43 @@
             "source": "template"
           },
           {
-            "hook": "Nobody tells you how much time chocolate tub labels take",
-            "score": 91,
+            "hook": "A mum ordered three chocolate tub stickers to give to her family",
+            "score": 88,
             "parts": {
               "stakes": 30,
               "specific_detail": 20,
-              "curiosity": 20,
+              "curiosity": 8,
               "short_and_clear": 15,
-              "fits_buyer": 6
+              "fits_buyer": 15
             },
             "source": "gemini"
           }
         ],
-        "body": "Turn a simple tub of chocolates into a personal gift with a printed chocolate tub sticker. It features a puppy and a name for busy mums to use at Christmas. Just peel and stick to save time.",
-        "ig_caption": "3 ways to make a chocolate tub feel personal\n\nTurn a simple tub of chocolates into a personal gift with a printed chocolate tub sticker. It features a puppy and a name for busy mums to use at Christmas. Just peel and stick to save time.\n\nTell me in the comments: who's on your list this year?\n\nFind them at thepolarbearsgrotto.co.uk",
-        "ask_kind": "comment",
+        "body": "Turn a plain tub of chocolates into a personal gift with a puppy tub topper. This printed sticker is for mums and families giving chocolate tubs as gifts. Hand-writing labels takes time, but this makes it easy.",
+        "ig_caption": "Stop giving plain chocolate tubs that look like every other gift\n\nTurn a plain tub of chocolates into a personal gift with a puppy tub topper. This printed sticker is for mums and families giving chocolate tubs as gifts. Hand-writing labels takes time, but this makes it easy.\n\nSave this for when the wrapping starts.\n\nFind them at thepolarbearsgrotto.co.uk",
+        "ask_kind": "save",
         "caption_source": "gemini",
-        "pin_title": "Chocolate tub sticker with a puppy for Christmas",
-        "pin_description": "Chocolate tub sticker featuring a puppy and a name to make a personal gift for Christmas. Quick to use with no hand-writing needed for busy mums. Dispatched within 24 hours to UK only. thepolarbearsgrotto.co.uk",
-        "story_line": "Turn a chocolate tub into a personal gift",
-        "tip": "Write names on gifts early so you are not rushing on Christmas Eve.",
-        "tiktok_caption": "3 ways to make a chocolate tub feel personal. Turn a simple tub of chocolates into a personal gift with a puppy sticker for busy mums. thepolarbearsgrotto.co.uk #chocolatetubtopper #chocolatesticker #christmasgift #personalisation",
-        "ask_line": "Tell me in the comments: who's on your list this year?",
+        "pin_title": "Chocolate tub sticker for Christmas",
+        "pin_description": "Chocolate tub sticker featuring a puppy design. A simple way for mums and families to make a plain tub of chocolates feel personal. Hand-writing labels takes time, so use this printed topper instead. Dispatched within 24 hours, UK only. thepolarbearsgrotto.co.uk",
+        "story_line": "Turn a plain chocolate tub into a personal gift",
+        "tip": "Wrap a ribbon around the chocolate tub after adding your sticker for an extra touch.",
+        "tiktok_caption": "Stop giving plain chocolate tubs that look like every other gift. A puppy chocolate tub sticker for mums and families giving chocolate tubs as gifts. thepolarbearsgrotto.co.uk #chocolatetubtopper #christmasgifts #stockingfillers #personalisedgifts",
+        "ask_line": "Save this for when the wrapping starts",
         "search_words": [
           "tub",
           "topper",
           "chocolate"
         ],
-        "qc_score": 90,
+        "qc_score": 100,
         "qc_parts": {
           "hook": 30,
           "search_words": 20,
-          "one_ask": 5,
+          "one_ask": 15,
           "sounds_human": 15,
           "visual": 10,
           "channel_rules": 10
         },
-        "qc_notes": [
-          "caption needs exactly one ask"
-        ]
+        "qc_notes": []
       },
       "files": {
         "image": "story-Wed.png"
@@ -1346,8 +1343,8 @@
       "time": "20:00",
       "photo": "1cXrT5A70qa9zvkrpVNVR9Hd8QGX2HwkF",
       "item": {
-        "name": "Elf Christmas gift tag sticker- pink purple wm.png",
-        "title": "Elf Christmas gift tag sticker- pink purple",
+        "name": "Personalised Gift Tag Stickers - Elf - Purple - Finished.png",
+        "title": "Personalised Gift Tag Stickers - Elf - Purple",
         "product": "Personalised gift tags",
         "kind": "photo",
         "mime": "image/jpeg",
@@ -1372,7 +1369,7 @@
         "pinterest"
       ],
       "text": {
-        "hook": "Nobody tells you how stressful hand-writing Christmas gift tags gets",
+        "hook": "Stop hand-writing gift tags at midnight on Christmas Eve",
         "hook_score": 92,
         "hook_options": [
           {
@@ -1412,7 +1409,7 @@
             "source": "template"
           },
           {
-            "hook": "Nobody tells you how stressful hand-writing Christmas gift tags gets",
+            "hook": "Stop hand-writing gift tags at midnight on Christmas Eve",
             "score": 92,
             "parts": {
               "stakes": 30,
@@ -1421,10 +1418,10 @@
               "short_and_clear": 15,
               "fits_buyer": 15
             },
-            "source": "gemini"
+            "source": "template"
           },
           {
-            "hook": "Stop wasting time writing out your Christmas gift tags",
+            "hook": "You don't have to hand-write every label this Christmas",
             "score": 92,
             "parts": {
               "stakes": 30,
@@ -1433,36 +1430,34 @@
               "short_and_clear": 15,
               "fits_buyer": 15
             },
-            "source": "gemini"
+            "source": "template"
           }
         ],
-        "body": "These pink and purple printed gift tags are made for busy mums this Christmas. Each tag features a picture of their favourite thing or hobby. You just peel and stick with no hand-writing.",
-        "ig_caption": "Nobody tells you how stressful hand-writing Christmas gift tags gets\n\nThese pink and purple printed gift tags are made for busy mums this Christmas. Each tag features a picture of their favourite thing or hobby. You just peel and stick with no hand-writing.\n\nWhich design would you pick? Tell me below.\n\nFind them at thepolarbearsgrotto.co.uk",
-        "ask_kind": "comment",
+        "body": "These printed gift tags are made for busy mums wrapping lots of presents. Just peel and stick, no hand-writing. Get your label sorted in seconds.",
+        "ig_caption": "Stop hand-writing gift tags at midnight on Christmas Eve\n\nThese printed gift tags are made for busy mums wrapping lots of presents. Just peel and stick, no hand-writing. Get your label sorted in seconds.\n\nSave this for when the wrapping starts.\n\nFind them at thepolarbearsgrotto.co.uk",
+        "ask_kind": "save",
         "caption_source": "gemini",
-        "pin_title": "Personalised gift tags for Christmas presents",
-        "pin_description": "Personalised gift tags for Christmas presents with a pink and purple design. These printed stickers save you from hand-writing labels on your children and family gifts. Each tag shows a picture of their favourite hobby. Dispatched within 24 hours. thepolarbearsgrotto.co.uk",
-        "story_line": "Peel and stick Christmas gift tags",
-        "tip": "Keep your roll of tape and pens in one basket so you are always ready for wrapping.",
-        "tiktok_caption": "Nobody tells you how stressful hand-writing Christmas gift tags gets. These pink and purple printed gift tags are made for busy mums this Christmas. thepolarbearsgrotto.co.uk #gifttags #christmasgift #mumlifeuk #stockingfillers",
-        "ask_line": "Which design would you pick? Tell me below",
+        "pin_title": "Personalised Gift Tags, No Hand Writing",
+        "pin_description": "Personalised gift tags for busy mums wrapping lots of presents. Printed tags with a picture of their favourite thing or hobby. Just peel and stick, no hand-writing. Find them at thepolarbearsgrotto.co.uk",
+        "story_line": "Peel and stick gift tags",
+        "tip": "Keep your scissors and tape in one basket to make wrapping much easier.",
+        "tiktok_caption": "Stop hand-writing gift tags at midnight on Christmas Eve. Printed gift tags with a picture of their favourite thing or hobby, made for busy mums wrapping lots of presents. thepolarbearsgrotto.co.uk #gifttags #christmaswrapping #busymums #giftwrapping",
+        "ask_line": "Save this for when the wrapping starts",
         "search_words": [
           "gift tags",
-          "stickers",
-          "label"
+          "label",
+          "sticker"
         ],
-        "qc_score": 88,
+        "qc_score": 98,
         "qc_parts": {
           "hook": 28,
-          "search_words": 10,
+          "search_words": 20,
           "one_ask": 15,
           "sounds_human": 15,
           "visual": 10,
           "channel_rules": 10
         },
-        "qc_notes": [
-          "few plain search words in caption"
-        ]
+        "qc_notes": []
       },
       "files": {
         "image": "pin-Thu.png"
@@ -1477,8 +1472,8 @@
       "time": "09:00",
       "photo": "1cXrT5A70qa9zvkrpVNVR9Hd8QGX2HwkF",
       "item": {
-        "name": "Elf Christmas gift tag sticker- pink purple wm.png",
-        "title": "Elf Christmas gift tag sticker- pink purple",
+        "name": "Personalised Gift Tag Stickers - Elf - Purple - Finished.png",
+        "title": "Personalised Gift Tag Stickers - Elf - Purple",
         "product": "Personalised gift tags",
         "kind": "photo",
         "mime": "image/jpeg",
@@ -1503,7 +1498,7 @@
         "instagram_story"
       ],
       "text": {
-        "hook": "Nobody tells you how stressful hand-writing Christmas gift tags gets",
+        "hook": "Stop hand-writing gift tags at midnight on Christmas Eve",
         "hook_score": 92,
         "hook_options": [
           {
@@ -1543,7 +1538,7 @@
             "source": "template"
           },
           {
-            "hook": "Nobody tells you how stressful hand-writing Christmas gift tags gets",
+            "hook": "Stop hand-writing gift tags at midnight on Christmas Eve",
             "score": 92,
             "parts": {
               "stakes": 30,
@@ -1552,10 +1547,10 @@
               "short_and_clear": 15,
               "fits_buyer": 15
             },
-            "source": "gemini"
+            "source": "template"
           },
           {
-            "hook": "Stop wasting time writing out your Christmas gift tags",
+            "hook": "You don't have to hand-write every label this Christmas",
             "score": 92,
             "parts": {
               "stakes": 30,
@@ -1564,36 +1559,34 @@
               "short_and_clear": 15,
               "fits_buyer": 15
             },
-            "source": "gemini"
+            "source": "template"
           }
         ],
-        "body": "These pink and purple printed gift tags are made for busy mums this Christmas. Each tag features a picture of their favourite thing or hobby. You just peel and stick with no hand-writing.",
-        "ig_caption": "Nobody tells you how stressful hand-writing Christmas gift tags gets\n\nThese pink and purple printed gift tags are made for busy mums this Christmas. Each tag features a picture of their favourite thing or hobby. You just peel and stick with no hand-writing.\n\nWhich design would you pick? Tell me below.\n\nFind them at thepolarbearsgrotto.co.uk",
-        "ask_kind": "comment",
+        "body": "These printed gift tags are made for busy mums wrapping lots of presents. Just peel and stick, no hand-writing. Get your label sorted in seconds.",
+        "ig_caption": "Stop hand-writing gift tags at midnight on Christmas Eve\n\nThese printed gift tags are made for busy mums wrapping lots of presents. Just peel and stick, no hand-writing. Get your label sorted in seconds.\n\nSave this for when the wrapping starts.\n\nFind them at thepolarbearsgrotto.co.uk",
+        "ask_kind": "save",
         "caption_source": "gemini",
-        "pin_title": "Personalised gift tags for Christmas presents",
-        "pin_description": "Personalised gift tags for Christmas presents with a pink and purple design. These printed stickers save you from hand-writing labels on your children and family gifts. Each tag shows a picture of their favourite hobby. Dispatched within 24 hours. thepolarbearsgrotto.co.uk",
-        "story_line": "Peel and stick Christmas gift tags",
-        "tip": "Keep your roll of tape and pens in one basket so you are always ready for wrapping.",
-        "tiktok_caption": "Nobody tells you how stressful hand-writing Christmas gift tags gets. These pink and purple printed gift tags are made for busy mums this Christmas. thepolarbearsgrotto.co.uk #gifttags #christmasgift #mumlifeuk #stockingfillers",
-        "ask_line": "Which design would you pick? Tell me below",
+        "pin_title": "Personalised Gift Tags, No Hand Writing",
+        "pin_description": "Personalised gift tags for busy mums wrapping lots of presents. Printed tags with a picture of their favourite thing or hobby. Just peel and stick, no hand-writing. Find them at thepolarbearsgrotto.co.uk",
+        "story_line": "Peel and stick gift tags",
+        "tip": "Keep your scissors and tape in one basket to make wrapping much easier.",
+        "tiktok_caption": "Stop hand-writing gift tags at midnight on Christmas Eve. Printed gift tags with a picture of their favourite thing or hobby, made for busy mums wrapping lots of presents. thepolarbearsgrotto.co.uk #gifttags #christmaswrapping #busymums #giftwrapping",
+        "ask_line": "Save this for when the wrapping starts",
         "search_words": [
           "gift tags",
-          "stickers",
-          "label"
+          "label",
+          "sticker"
         ],
-        "qc_score": 88,
+        "qc_score": 98,
         "qc_parts": {
           "hook": 28,
-          "search_words": 10,
+          "search_words": 20,
           "one_ask": 15,
           "sounds_human": 15,
           "visual": 10,
           "channel_rules": 10
         },
-        "qc_notes": [
-          "few plain search words in caption"
-        ]
+        "qc_notes": []
       },
       "files": {
         "image": "story-Thu.png"
@@ -1608,8 +1601,8 @@
       "time": "20:00",
       "photo": "148sW6ZWKtYVwGF0wFO4J3i-sbsNNXXNK",
       "item": {
-        "name": "Elf Christmas gift tag sticker- blue background WM.png",
-        "title": "Elf Christmas gift tag sticker- blue background",
+        "name": "Personalised Gift Tag Stickers - Elf - Blue - Finished.png",
+        "title": "Personalised Gift Tag Stickers - Elf - Blue",
         "product": "Personalised gift tags",
         "kind": "photo",
         "mime": "image/png",
@@ -1634,9 +1627,21 @@
         "pinterest"
       ],
       "text": {
-        "hook": "Nobody tells you how hard writing Christmas gift labels gets",
-        "hook_score": 92,
+        "hook": "You don't have to write every gift tag yourself",
+        "hook_score": 100,
         "hook_options": [
+          {
+            "hook": "You don't have to write every gift tag yourself",
+            "score": 100,
+            "parts": {
+              "stakes": 30,
+              "specific_detail": 20,
+              "curiosity": 20,
+              "short_and_clear": 15,
+              "fits_buyer": 15
+            },
+            "source": "gemini"
+          },
           {
             "hook": "Nobody tells you how long 20 gift tags take to write",
             "score": 100,
@@ -1674,7 +1679,7 @@
             "source": "template"
           },
           {
-            "hook": "Nobody tells you how hard writing Christmas gift labels gets",
+            "hook": "Nobody tells you how many presents need tags",
             "score": 92,
             "parts": {
               "stakes": 30,
@@ -1684,45 +1689,35 @@
               "fits_buyer": 15
             },
             "source": "gemini"
-          },
-          {
-            "hook": "Stop hand-writing gift tags at midnight on Christmas Eve",
-            "score": 92,
-            "parts": {
-              "stakes": 30,
-              "specific_detail": 12,
-              "curiosity": 20,
-              "short_and_clear": 15,
-              "fits_buyer": 15
-            },
-            "source": "template"
           }
         ],
-        "body": "These printed Christmas gift tags are made for busy mums. They feature a blue background with an elf design. Just peel and stick, no hand-writing.",
-        "ig_caption": "Nobody tells you how hard writing Christmas gift labels gets\n\nThese printed Christmas gift tags are made for busy mums. They feature a blue background with an elf design. Just peel and stick, no hand-writing.\n\nWhich design would you pick? Tell me below.\n\nFind them at thepolarbearsgrotto.co.uk",
-        "ask_kind": "comment",
+        "body": "These printed gift tags feature a picture of their favourite thing or hobby. They are just peel and stick for busy mums wrapping lots of presents.",
+        "ig_caption": "You don't have to write every gift tag yourself\n\nThese printed gift tags feature a picture of their favourite thing or hobby. They are just peel and stick for busy mums wrapping lots of presents.\n\nSave this for when the wrapping starts.\n\nFind them at thepolarbearsgrotto.co.uk",
+        "ask_kind": "save",
         "caption_source": "gemini",
-        "pin_title": "Elf Christmas gift tag sticker on blue background",
-        "pin_description": "Elf Christmas gift tag sticker on blue background for busy mums. Quick peel and stick Christmas labels, personalised festive gift tags, and easy present stickers from thepolarbearsgrotto.co.uk",
-        "story_line": "Peel and stick elf gift tags",
-        "tip": "Write out your gift list early so you know how many tags you need.",
-        "tiktok_caption": "Nobody tells you how hard writing Christmas gift labels gets. These printed blue elf gift tags are quick stick labels for busy mums. thepolarbearsgrotto.co.uk #ChristmasGiftTags #ElfChristmas #GiftLabels #ChristmasStickers",
-        "ask_line": "Which design would you pick? Tell me below",
+        "pin_title": "Personalised Gift Tags, Printed Peel and Stick",
+        "pin_description": "Personalised gift tags for busy mums wrapping lots of presents. Printed tags with pictures of hobbies. Quick peel and stick labels. thepolarbearsgrotto.co.uk",
+        "story_line": "Peel and stick gift tags",
+        "tip": "Wrap presents as you buy them to save time later.",
+        "tiktok_caption": "You don't have to write every gift tag yourself. Printed gift tags with a picture of their favourite thing or hobby for busy mums wrapping lots of presents. thepolarbearsgrotto.co.uk #GiftTags #ChristmasWrapping #PersonalisedGifts #MummyLife",
+        "ask_line": "Save this for when the wrapping starts",
         "search_words": [
-          "tag",
+          "gift tags",
           "label",
           "sticker"
         ],
-        "qc_score": 98,
+        "qc_score": 90,
         "qc_parts": {
-          "hook": 28,
-          "search_words": 20,
+          "hook": 30,
+          "search_words": 10,
           "one_ask": 15,
           "sounds_human": 15,
           "visual": 10,
           "channel_rules": 10
         },
-        "qc_notes": []
+        "qc_notes": [
+          "few plain search words in caption"
+        ]
       },
       "files": {
         "image": "pin-Fri.png"
@@ -1737,8 +1732,8 @@
       "time": "09:00",
       "photo": "148sW6ZWKtYVwGF0wFO4J3i-sbsNNXXNK",
       "item": {
-        "name": "Elf Christmas gift tag sticker- blue background WM.png",
-        "title": "Elf Christmas gift tag sticker- blue background",
+        "name": "Personalised Gift Tag Stickers - Elf - Blue - Finished.png",
+        "title": "Personalised Gift Tag Stickers - Elf - Blue",
         "product": "Personalised gift tags",
         "kind": "photo",
         "mime": "image/png",
@@ -1763,9 +1758,21 @@
         "instagram_story"
       ],
       "text": {
-        "hook": "Nobody tells you how hard writing Christmas gift labels gets",
-        "hook_score": 92,
+        "hook": "You don't have to write every gift tag yourself",
+        "hook_score": 100,
         "hook_options": [
+          {
+            "hook": "You don't have to write every gift tag yourself",
+            "score": 100,
+            "parts": {
+              "stakes": 30,
+              "specific_detail": 20,
+              "curiosity": 20,
+              "short_and_clear": 15,
+              "fits_buyer": 15
+            },
+            "source": "gemini"
+          },
           {
             "hook": "Nobody tells you how long 20 gift tags take to write",
             "score": 100,
@@ -1803,7 +1810,7 @@
             "source": "template"
           },
           {
-            "hook": "Nobody tells you how hard writing Christmas gift labels gets",
+            "hook": "Nobody tells you how many presents need tags",
             "score": 92,
             "parts": {
               "stakes": 30,
@@ -1813,45 +1820,35 @@
               "fits_buyer": 15
             },
             "source": "gemini"
-          },
-          {
-            "hook": "Stop hand-writing gift tags at midnight on Christmas Eve",
-            "score": 92,
-            "parts": {
-              "stakes": 30,
-              "specific_detail": 12,
-              "curiosity": 20,
-              "short_and_clear": 15,
-              "fits_buyer": 15
-            },
-            "source": "template"
           }
         ],
-        "body": "These printed Christmas gift tags are made for busy mums. They feature a blue background with an elf design. Just peel and stick, no hand-writing.",
-        "ig_caption": "Nobody tells you how hard writing Christmas gift labels gets\n\nThese printed Christmas gift tags are made for busy mums. They feature a blue background with an elf design. Just peel and stick, no hand-writing.\n\nWhich design would you pick? Tell me below.\n\nFind them at thepolarbearsgrotto.co.uk",
-        "ask_kind": "comment",
+        "body": "These printed gift tags feature a picture of their favourite thing or hobby. They are just peel and stick for busy mums wrapping lots of presents.",
+        "ig_caption": "You don't have to write every gift tag yourself\n\nThese printed gift tags feature a picture of their favourite thing or hobby. They are just peel and stick for busy mums wrapping lots of presents.\n\nSave this for when the wrapping starts.\n\nFind them at thepolarbearsgrotto.co.uk",
+        "ask_kind": "save",
         "caption_source": "gemini",
-        "pin_title": "Elf Christmas gift tag sticker on blue background",
-        "pin_description": "Elf Christmas gift tag sticker on blue background for busy mums. Quick peel and stick Christmas labels, personalised festive gift tags, and easy present stickers from thepolarbearsgrotto.co.uk",
-        "story_line": "Peel and stick elf gift tags",
-        "tip": "Write out your gift list early so you know how many tags you need.",
-        "tiktok_caption": "Nobody tells you how hard writing Christmas gift labels gets. These printed blue elf gift tags are quick stick labels for busy mums. thepolarbearsgrotto.co.uk #ChristmasGiftTags #ElfChristmas #GiftLabels #ChristmasStickers",
-        "ask_line": "Which design would you pick? Tell me below",
+        "pin_title": "Personalised Gift Tags, Printed Peel and Stick",
+        "pin_description": "Personalised gift tags for busy mums wrapping lots of presents. Printed tags with pictures of hobbies. Quick peel and stick labels. thepolarbearsgrotto.co.uk",
+        "story_line": "Peel and stick gift tags",
+        "tip": "Wrap presents as you buy them to save time later.",
+        "tiktok_caption": "You don't have to write every gift tag yourself. Printed gift tags with a picture of their favourite thing or hobby for busy mums wrapping lots of presents. thepolarbearsgrotto.co.uk #GiftTags #ChristmasWrapping #PersonalisedGifts #MummyLife",
+        "ask_line": "Save this for when the wrapping starts",
         "search_words": [
-          "tag",
+          "gift tags",
           "label",
           "sticker"
         ],
-        "qc_score": 98,
+        "qc_score": 90,
         "qc_parts": {
-          "hook": 28,
-          "search_words": 20,
+          "hook": 30,
+          "search_words": 10,
           "one_ask": 15,
           "sounds_human": 15,
           "visual": 10,
           "channel_rules": 10
         },
-        "qc_notes": []
+        "qc_notes": [
+          "few plain search words in caption"
+        ]
       },
       "files": {
         "image": "story-Fri.png"
@@ -1866,8 +1863,8 @@
       "time": "20:00",
       "photo": "1uGaFBzu9MIihjIqv-yTBSdY078QIz2fC",
       "item": {
-        "name": "Elf Christmas gift tag sticker - white WM.png",
-        "title": "Elf Christmas gift tag sticker - white",
+        "name": "Personalised Gift Tag Stickers - Elf - White - Finished.png",
+        "title": "Personalised Gift Tag Stickers - Elf - White",
         "product": "Personalised gift tags",
         "kind": "photo",
         "mime": "image/png",
@@ -1892,7 +1889,7 @@
         "pinterest"
       ],
       "text": {
-        "hook": "Nobody tells you how hard it is to write gift tags",
+        "hook": "Stop wasting hours hand-writing labels for every single present under the tree",
         "hook_score": 92,
         "hook_options": [
           {
@@ -1932,7 +1929,7 @@
             "source": "template"
           },
           {
-            "hook": "Nobody tells you how hard it is to write gift tags",
+            "hook": "Stop wasting hours hand-writing labels for every single present under the tree",
             "score": 92,
             "parts": {
               "stakes": 30,
@@ -1944,7 +1941,7 @@
             "source": "gemini"
           },
           {
-            "hook": "Stop hand-writing labels for every single present",
+            "hook": "You don't have to hand-write every single Christmas gift tag this year",
             "score": 92,
             "parts": {
               "stakes": 30,
@@ -1956,20 +1953,20 @@
             "source": "gemini"
           }
         ],
-        "body": "These printed gift tags are made for busy mums. Just peel and stick to save time.",
-        "ig_caption": "Nobody tells you how hard it is to write gift tags\n\nThese printed gift tags are made for busy mums. Just peel and stick to save time.\n\nComment with the hobby you'd put on theirs.\n\nFind them at thepolarbearsgrotto.co.uk",
-        "ask_kind": "comment",
+        "body": "These printed gift tags are made for busy mums wrapping lots of presents. Just peel and stick, no hand-writing needed. Each label features a picture of their favourite thing or hobby.",
+        "ig_caption": "Stop wasting hours hand-writing labels for every single present under the tree\n\nThese printed gift tags are made for busy mums wrapping lots of presents. Just peel and stick, no hand-writing needed. Each label features a picture of their favourite thing or hobby.\n\nSave this so you have it in December.\n\nFind them at thepolarbearsgrotto.co.uk",
+        "ask_kind": "save",
         "caption_source": "gemini",
-        "pin_title": "Elf Christmas gift tag sticker, white for busy mums",
-        "pin_description": "Elf Christmas gift tag sticker, white made for busy mums. Quick peel and stick Christmas gift tags, printed gift tag labels, festive present stickers. thepolarbearsgrotto.co.uk",
-        "story_line": "Peel and stick Christmas gift tags",
-        "tip": "Write out your gift list early so you know how many tags you need.",
-        "tiktok_caption": "Nobody tells you how hard it is to write gift tags. These printed gift tags are made for busy mums who want to skip hand-writing labels. thepolarbearsgrotto.co.uk #ChristmasGiftTags #PeelAndStick #BusyMums #GiftLabels",
-        "ask_line": "Comment with the hobby you'd put on theirs",
+        "pin_title": "Personalised gift tags for busy mums wrapping Christmas presents",
+        "pin_description": "Personalised gift tags for busy mums wrapping Christmas presents. Printed gift tags with a picture of their favourite thing or hobby. Just peel and stick, no hand-writing. Dispatched within 24 hours at thepolarbearsgrotto.co.uk",
+        "story_line": "No hand-writing gift tags this Christmas",
+        "tip": "Keep your wrapping paper, tape, and tags in one box so you are ready to go.",
+        "tiktok_caption": "Stop wasting hours hand-writing labels for every single present under the tree. These printed gift tags are made for busy mums wrapping lots of presents. thepolarbearsgrotto.co.uk #gifttags #christmaswrapping #busymums #giftlabels",
+        "ask_line": "Save this so you have it in December",
         "search_words": [
           "gift tags",
-          "tag",
-          "label"
+          "label",
+          "sticker"
         ],
         "qc_score": 98,
         "qc_parts": {
@@ -1995,8 +1992,8 @@
       "time": "09:00",
       "photo": "1uGaFBzu9MIihjIqv-yTBSdY078QIz2fC",
       "item": {
-        "name": "Elf Christmas gift tag sticker - white WM.png",
-        "title": "Elf Christmas gift tag sticker - white",
+        "name": "Personalised Gift Tag Stickers - Elf - White - Finished.png",
+        "title": "Personalised Gift Tag Stickers - Elf - White",
         "product": "Personalised gift tags",
         "kind": "photo",
         "mime": "image/png",
@@ -2021,7 +2018,7 @@
         "instagram_story"
       ],
       "text": {
-        "hook": "Nobody tells you how hard it is to write gift tags",
+        "hook": "Stop wasting hours hand-writing labels for every single present under the tree",
         "hook_score": 92,
         "hook_options": [
           {
@@ -2061,7 +2058,7 @@
             "source": "template"
           },
           {
-            "hook": "Nobody tells you how hard it is to write gift tags",
+            "hook": "Stop wasting hours hand-writing labels for every single present under the tree",
             "score": 92,
             "parts": {
               "stakes": 30,
@@ -2073,7 +2070,7 @@
             "source": "gemini"
           },
           {
-            "hook": "Stop hand-writing labels for every single present",
+            "hook": "You don't have to hand-write every single Christmas gift tag this year",
             "score": 92,
             "parts": {
               "stakes": 30,
@@ -2085,20 +2082,20 @@
             "source": "gemini"
           }
         ],
-        "body": "These printed gift tags are made for busy mums. Just peel and stick to save time.",
-        "ig_caption": "Nobody tells you how hard it is to write gift tags\n\nThese printed gift tags are made for busy mums. Just peel and stick to save time.\n\nComment with the hobby you'd put on theirs.\n\nFind them at thepolarbearsgrotto.co.uk",
-        "ask_kind": "comment",
+        "body": "These printed gift tags are made for busy mums wrapping lots of presents. Just peel and stick, no hand-writing needed. Each label features a picture of their favourite thing or hobby.",
+        "ig_caption": "Stop wasting hours hand-writing labels for every single present under the tree\n\nThese printed gift tags are made for busy mums wrapping lots of presents. Just peel and stick, no hand-writing needed. Each label features a picture of their favourite thing or hobby.\n\nSave this so you have it in December.\n\nFind them at thepolarbearsgrotto.co.uk",
+        "ask_kind": "save",
         "caption_source": "gemini",
-        "pin_title": "Elf Christmas gift tag sticker, white for busy mums",
-        "pin_description": "Elf Christmas gift tag sticker, white made for busy mums. Quick peel and stick Christmas gift tags, printed gift tag labels, festive present stickers. thepolarbearsgrotto.co.uk",
-        "story_line": "Peel and stick Christmas gift tags",
-        "tip": "Write out your gift list early so you know how many tags you need.",
-        "tiktok_caption": "Nobody tells you how hard it is to write gift tags. These printed gift tags are made for busy mums who want to skip hand-writing labels. thepolarbearsgrotto.co.uk #ChristmasGiftTags #PeelAndStick #BusyMums #GiftLabels",
-        "ask_line": "Comment with the hobby you'd put on theirs",
+        "pin_title": "Personalised gift tags for busy mums wrapping Christmas presents",
+        "pin_description": "Personalised gift tags for busy mums wrapping Christmas presents. Printed gift tags with a picture of their favourite thing or hobby. Just peel and stick, no hand-writing. Dispatched within 24 hours at thepolarbearsgrotto.co.uk",
+        "story_line": "No hand-writing gift tags this Christmas",
+        "tip": "Keep your wrapping paper, tape, and tags in one box so you are ready to go.",
+        "tiktok_caption": "Stop wasting hours hand-writing labels for every single present under the tree. These printed gift tags are made for busy mums wrapping lots of presents. thepolarbearsgrotto.co.uk #gifttags #christmaswrapping #busymums #giftlabels",
+        "ask_line": "Save this so you have it in December",
         "search_words": [
           "gift tags",
-          "tag",
-          "label"
+          "label",
+          "sticker"
         ],
         "qc_score": 98,
         "qc_parts": {
@@ -2124,9 +2121,9 @@
       "time": "20:00",
       "photo": "1UNrPwoUIpYDvZh_4_HNFGg4KUIBhf0Mt",
       "item": {
-        "name": "sweary colouring book.jpg",
-        "title": "sweary colouring book",
-        "product": "Personalised colouring books",
+        "name": "Colouring Book - Sweary - Finished.jpg",
+        "title": "Colouring Book - Sweary",
+        "product": "Colouring books",
         "kind": "photo",
         "mime": "image/jpeg",
         "size": 1034043,
@@ -2150,88 +2147,88 @@
         "pinterest"
       ],
       "text": {
-        "hook": "You don't have to spend every single moment entertaining kids",
-        "hook_score": 80,
+        "hook": "Stop scrolling at 10pm. Colour something rude instead",
+        "hook_score": 91,
         "hook_options": [
           {
-            "hook": "Nobody tells you mums need 20 minutes off too",
-            "score": 100,
+            "hook": "Stop scrolling at 10pm. Colour something rude instead",
+            "score": 91,
             "parts": {
               "stakes": 30,
               "specific_detail": 20,
               "curiosity": 20,
               "short_and_clear": 15,
-              "fits_buyer": 15
+              "fits_buyer": 6
             },
             "source": "template"
           },
           {
-            "hook": "Stop scrolling at 10pm. Colour something instead, mum",
-            "score": 100,
+            "hook": "Sometimes colouring pretty flowers just isn't enough",
+            "score": 71,
             "parts": {
               "stakes": 30,
-              "specific_detail": 20,
-              "curiosity": 20,
+              "specific_detail": 12,
+              "curiosity": 8,
               "short_and_clear": 15,
-              "fits_buyer": 15
+              "fits_buyer": 6
             },
             "source": "template"
           },
           {
-            "hook": "You don't have to spend every single moment entertaining kids",
-            "score": 80,
+            "hook": "Nobody tells you how hard it is to switch off",
+            "score": 71,
             "parts": {
               "stakes": 30,
               "specific_detail": 0,
               "curiosity": 20,
               "short_and_clear": 15,
-              "fits_buyer": 15
+              "fits_buyer": 6
             },
             "source": "gemini"
           },
           {
-            "hook": "You don't have to earn a break, mum",
-            "score": 80,
+            "hook": "Stop scrolling and unwind after a long day",
+            "score": 71,
             "parts": {
               "stakes": 30,
               "specific_detail": 0,
               "curiosity": 20,
               "short_and_clear": 15,
-              "fits_buyer": 15
+              "fits_buyer": 6
             },
-            "source": "template"
+            "source": "gemini"
           },
           {
-            "hook": "Stop buying mum another candle she won't light",
-            "score": 80,
+            "hook": "You don't have to spend a fortune on therapy",
+            "score": 71,
             "parts": {
               "stakes": 30,
               "specific_detail": 0,
               "curiosity": 20,
               "short_and_clear": 15,
-              "fits_buyer": 15
+              "fits_buyer": 6
             },
-            "source": "template"
+            "source": "gemini"
           }
         ],
-        "body": "This is a personalised colouring book made as something to give mums a break. It features fun themes like gaming, rubber ducks and squishy dumplings.",
-        "ig_caption": "You don't have to spend every single moment entertaining kids\n\nThis is a personalised colouring book made as something to give mums a break. It features fun themes like gaming, rubber ducks and squishy dumplings.\n\nWhich design would you pick? Tell me below.\n\nFind them at thepolarbearsgrotto.co.uk",
-        "ask_kind": "comment",
+        "body": "Sometimes colouring pretty flowers just isn't enough after a long day. This sweary colouring book is perfect for grown-ups who need to switch off and have a laugh. Grab your colouring pencils and enjoy some well-earned quiet time.",
+        "ig_caption": "Stop scrolling at 10pm. Colour something rude instead\n\nSometimes colouring pretty flowers just isn't enough after a long day. This sweary colouring book is perfect for grown-ups who need to switch off and have a laugh. Grab your colouring pencils and enjoy some well-earned quiet time.\n\nSave this for the next long day.\n\nFind them at thepolarbearsgrotto.co.uk",
+        "ask_kind": "save",
         "caption_source": "gemini",
-        "pin_title": "Personalised colouring book for mums",
-        "pin_description": "Personalised colouring book for mums looking for a quiet break this Christmas. Great fun for busy parents needing five minutes of peace. Find more gifts at thepolarbearsgrotto.co.uk",
-        "story_line": "Give yourself a break with a colouring book",
-        "tip": "Keep a spare book handy in the kitchen drawer for moments when you need five minutes to breathe.",
-        "tiktok_caption": "You don't have to spend every single moment entertaining kids. This is a personalised colouring book made as something to give mums a break. thepolarbearsgrotto.co.uk #ColouringBook #MumsBreak #ChristmasGifts #MummyLife",
-        "ask_line": "Which design would you pick? Tell me below",
+        "pin_title": "Sweary colouring book for adults",
+        "pin_description": "Sweary colouring book for grown-ups who need to switch off after a long day. A funny gift for friends who appreciate a laugh. Dispatched within 24 hours to the UK. thepolarbearsgrotto.co.uk",
+        "story_line": "Cheaper than therapy",
+        "tip": "Pair a funny colouring book with a nice pack of pencils for a great Christmas gift.",
+        "tiktok_caption": "Stop scrolling at 10pm. Colour something rude instead. This funny sweary colouring book is just what grown-ups need to switch off after a long day. thepolarbearsgrotto.co.uk #colouringbook #adultcolouring #funnygift #stockingfiller",
+        "ask_line": "Save this for the next long day",
         "search_words": [
+          "colouring",
           "colouring book",
-          "mums a break",
-          "personalised colouring"
+          "colouring pencils"
         ],
-        "qc_score": 94,
+        "qc_score": 97,
         "qc_parts": {
-          "hook": 24,
+          "hook": 27,
           "search_words": 20,
           "one_ask": 15,
           "sounds_human": 15,
@@ -2253,9 +2250,9 @@
       "time": "09:00",
       "photo": "1UNrPwoUIpYDvZh_4_HNFGg4KUIBhf0Mt",
       "item": {
-        "name": "sweary colouring book.jpg",
-        "title": "sweary colouring book",
-        "product": "Personalised colouring books",
+        "name": "Colouring Book - Sweary - Finished.jpg",
+        "title": "Colouring Book - Sweary",
+        "product": "Colouring books",
         "kind": "photo",
         "mime": "image/jpeg",
         "size": 1034043,
@@ -2279,88 +2276,88 @@
         "instagram_story"
       ],
       "text": {
-        "hook": "You don't have to spend every single moment entertaining kids",
-        "hook_score": 80,
+        "hook": "Stop scrolling at 10pm. Colour something rude instead",
+        "hook_score": 91,
         "hook_options": [
           {
-            "hook": "Nobody tells you mums need 20 minutes off too",
-            "score": 100,
+            "hook": "Stop scrolling at 10pm. Colour something rude instead",
+            "score": 91,
             "parts": {
               "stakes": 30,
               "specific_detail": 20,
               "curiosity": 20,
               "short_and_clear": 15,
-              "fits_buyer": 15
+              "fits_buyer": 6
             },
             "source": "template"
           },
           {
-            "hook": "Stop scrolling at 10pm. Colour something instead, mum",
-            "score": 100,
+            "hook": "Sometimes colouring pretty flowers just isn't enough",
+            "score": 71,
             "parts": {
               "stakes": 30,
-              "specific_detail": 20,
-              "curiosity": 20,
+              "specific_detail": 12,
+              "curiosity": 8,
               "short_and_clear": 15,
-              "fits_buyer": 15
+              "fits_buyer": 6
             },
             "source": "template"
           },
           {
-            "hook": "You don't have to spend every single moment entertaining kids",
-            "score": 80,
+            "hook": "Nobody tells you how hard it is to switch off",
+            "score": 71,
             "parts": {
               "stakes": 30,
               "specific_detail": 0,
               "curiosity": 20,
               "short_and_clear": 15,
-              "fits_buyer": 15
+              "fits_buyer": 6
             },
             "source": "gemini"
           },
           {
-            "hook": "You don't have to earn a break, mum",
-            "score": 80,
+            "hook": "Stop scrolling and unwind after a long day",
+            "score": 71,
             "parts": {
               "stakes": 30,
               "specific_detail": 0,
               "curiosity": 20,
               "short_and_clear": 15,
-              "fits_buyer": 15
+              "fits_buyer": 6
             },
-            "source": "template"
+            "source": "gemini"
           },
           {
-            "hook": "Stop buying mum another candle she won't light",
-            "score": 80,
+            "hook": "You don't have to spend a fortune on therapy",
+            "score": 71,
             "parts": {
               "stakes": 30,
               "specific_detail": 0,
               "curiosity": 20,
               "short_and_clear": 15,
-              "fits_buyer": 15
+              "fits_buyer": 6
             },
-            "source": "template"
+            "source": "gemini"
           }
         ],
-        "body": "This is a personalised colouring book made as something to give mums a break. It features fun themes like gaming, rubber ducks and squishy dumplings.",
-        "ig_caption": "You don't have to spend every single moment entertaining kids\n\nThis is a personalised colouring book made as something to give mums a break. It features fun themes like gaming, rubber ducks and squishy dumplings.\n\nWhich design would you pick? Tell me below.\n\nFind them at thepolarbearsgrotto.co.uk",
-        "ask_kind": "comment",
+        "body": "Sometimes colouring pretty flowers just isn't enough after a long day. This sweary colouring book is perfect for grown-ups who need to switch off and have a laugh. Grab your colouring pencils and enjoy some well-earned quiet time.",
+        "ig_caption": "Stop scrolling at 10pm. Colour something rude instead\n\nSometimes colouring pretty flowers just isn't enough after a long day. This sweary colouring book is perfect for grown-ups who need to switch off and have a laugh. Grab your colouring pencils and enjoy some well-earned quiet time.\n\nSave this for the next long day.\n\nFind them at thepolarbearsgrotto.co.uk",
+        "ask_kind": "save",
         "caption_source": "gemini",
-        "pin_title": "Personalised colouring book for mums",
-        "pin_description": "Personalised colouring book for mums looking for a quiet break this Christmas. Great fun for busy parents needing five minutes of peace. Find more gifts at thepolarbearsgrotto.co.uk",
-        "story_line": "Give yourself a break with a colouring book",
-        "tip": "Keep a spare book handy in the kitchen drawer for moments when you need five minutes to breathe.",
-        "tiktok_caption": "You don't have to spend every single moment entertaining kids. This is a personalised colouring book made as something to give mums a break. thepolarbearsgrotto.co.uk #ColouringBook #MumsBreak #ChristmasGifts #MummyLife",
-        "ask_line": "Which design would you pick? Tell me below",
+        "pin_title": "Sweary colouring book for adults",
+        "pin_description": "Sweary colouring book for grown-ups who need to switch off after a long day. A funny gift for friends who appreciate a laugh. Dispatched within 24 hours to the UK. thepolarbearsgrotto.co.uk",
+        "story_line": "Cheaper than therapy",
+        "tip": "Pair a funny colouring book with a nice pack of pencils for a great Christmas gift.",
+        "tiktok_caption": "Stop scrolling at 10pm. Colour something rude instead. This funny sweary colouring book is just what grown-ups need to switch off after a long day. thepolarbearsgrotto.co.uk #colouringbook #adultcolouring #funnygift #stockingfiller",
+        "ask_line": "Save this for the next long day",
         "search_words": [
+          "colouring",
           "colouring book",
-          "mums a break",
-          "personalised colouring"
+          "colouring pencils"
         ],
-        "qc_score": 94,
+        "qc_score": 97,
         "qc_parts": {
-          "hook": 24,
+          "hook": 27,
           "search_words": 20,
           "one_ask": 15,
           "sounds_human": 15,
