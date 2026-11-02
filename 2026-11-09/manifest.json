@@ -1,0 +1,1653 @@
+{
+  "week_start": "2026-11-09",
+  "season": {
+    "name": "Christmas",
+    "date": "2026-12-25",
+    "products": [
+      "gift tags",
+      "chocolate tub toppers",
+      "baubles",
+      "prints"
+    ],
+    "angle": "personal gifts without hand-writing labels; order in time (dispatched within 24 hours)"
+  },
+  "posts": [
+    {
+      "id": "reel-Tue",
+      "format": "reel",
+      "day": "2026-11-10",
+      "time": "18:30",
+      "video": "1N_7in-ii6mqUnTT6NsfPKhWU1icAh_ht",
+      "finished_photo": "1biHZcadZe7B8xbcYwC4FwigvU9_JnY24",
+      "item": {
+        "name": "NORAD postage style labels ",
+        "title": "NORAD postage style labels",
+        "product": "Personalised gift tags",
+        "kind": "video",
+        "mime": "video/mp4",
+        "size": 19053719,
+        "md5": "8c60b013302ecc72a0940cabf93ff2f9",
+        "added": "2026-11-02",
+        "excluded": false,
+        "ai_made": false
+      },
+      "season": {
+        "name": "Christmas",
+        "date": "2026-12-25",
+        "products": [
+          "gift tags",
+          "chocolate tub toppers",
+          "baubles",
+          "prints"
+        ],
+        "angle": "personal gifts without hand-writing labels; order in time (dispatched within 24 hours)"
+      },
+      "channels": [
+        "instagram",
+        "facebook",
+        "pinterest_video",
+        "tiktok"
+      ],
+      "text": {
+        "ig_caption": "Stop hand-writing 50 gift tags and save time with our printed labels. These personalised gift tags and Christmas gift labels are a great gift for mum. Each design features a picture of your favourite hobby or thing so the gift shows real thought. Just peel and stick with no hand-writing needed. Dispatched within 24 hours for UK only. Save this for the next birthday on your list. Find them at thepolarbearsgrotto.co.uk",
+        "pin_title": "Personalised gift tags for Christmas | The Polar Bear's Grotto",
+        "pin_description": "Personalised gift tags to save you time this Christmas. Peel and stick printed labels with a picture of their favourite thing. Dispatched within 24 hours. The Polar Bear's Grotto. thepolarbearsgrotto.co.uk",
+        "tiktok_caption": "Stop hand-writing 50 gift tags and save time with our printed labels. Quick and easy printed gift tags for busy mums at Christmas. thepolarbearsgrotto.co.uk #giftlabels #personalisedgifts #giftwrapping #christmascrafts #mumlife",
+        "story_line": "Stop hand-writing gift tags and save time today.",
+        "tip": "Keep a roll of tape and your labels in one basket so wrapping is fast.",
+        "ask_line": "Save this for the next birthday on your list.",
+        "search_words": [
+          "personalised gift tags",
+          "Christmas gift labels",
+          "gift for mum"
+        ],
+        "caption_source": "gemini",
+        "ask_kind": "save",
+        "hook": "Stop hand-writing 50 gift tags and save time with our printed labels.",
+        "hook_score": 100,
+        "format": "reel",
+        "visual_ok": true,
+        "qc_score": 97,
+        "qc_parts": {
+          "hook": 30,
+          "search_words": 20,
+          "one_ask": 15,
+          "sounds_human": 15,
+          "visual": 10,
+          "channel_rules": 7
+        },
+        "qc_notes": [
+          "first line 420 chars > 55"
+        ],
+        "hook_options": [
+          {
+            "hook": "Stop hand-writing 50 gift tags and save time with our printed labels.",
+            "score": 100,
+            "parts": {
+              "stakes": 30,
+              "specific_detail": 20,
+              "curiosity": 20,
+              "short_and_clear": 15,
+              "fits_buyer": 15
+            },
+            "source": "gemini"
+          },
+          {
+            "hook": "Stop stressing over generic Christmas gifts with our personalised printed tags.",
+            "score": 100,
+            "parts": {
+              "stakes": 30,
+              "specific_detail": 20,
+              "curiosity": 20,
+              "short_and_clear": 15,
+              "fits_buyer": 15
+            },
+            "source": "gemini"
+          },
+          {
+            "hook": "Nobody tells you how long 20 gift tags take to write",
+            "score": 100,
+            "parts": {
+              "stakes": 30,
+              "specific_detail": 20,
+              "curiosity": 20,
+              "short_and_clear": 15,
+              "fits_buyer": 15
+            },
+            "source": "template"
+          },
+          {
+            "hook": "30 presents, zero hand-written tags, one happy mum",
+            "score": 100,
+            "parts": {
+              "stakes": 30,
+              "specific_detail": 20,
+              "curiosity": 20,
+              "short_and_clear": 15,
+              "fits_buyer": 15
+            },
+            "source": "template"
+          },
+          {
+            "hook": "Nobody tells you how tiring Christmas labelling is until December hits.",
+            "score": 92,
+            "parts": {
+              "stakes": 30,
+              "specific_detail": 12,
+              "curiosity": 20,
+              "short_and_clear": 15,
+              "fits_buyer": 15
+            },
+            "source": "gemini"
+          }
+        ]
+      },
+      "files": {
+        "video": "reel-Tue.mp4",
+        "cover": "reel-Tue-cover.jpg",
+        "cover_offset_ms": 14200,
+        "seconds": 18.0
+      },
+      "ai_label": false,
+      "link": "https://thepolarbearsgrotto.co.uk"
+    },
+    {
+      "id": "reel-Fri",
+      "format": "reel",
+      "day": "2026-11-13",
+      "time": "18:30",
+      "video": "1Lp2VP5AGxVAG8JYGOZshfksGKp8ibFmU",
+      "finished_photo": "1oh9fu0XcmMmErMpsmEMOpUyxWAgS_W3X",
+      "item": {
+        "name": "NORAD postage style labels.mp4",
+        "title": "NORAD postage style labels",
+        "product": "Personalised gift tags",
+        "kind": "video",
+        "mime": "video/mp4",
+        "size": 31192931,
+        "md5": "f8ac8adaf40c9679880e823531d3c878",
+        "added": "2026-11-02",
+        "excluded": false,
+        "ai_made": false
+      },
+      "season": {
+        "name": "Christmas",
+        "date": "2026-12-25",
+        "products": [
+          "gift tags",
+          "chocolate tub toppers",
+          "baubles",
+          "prints"
+        ],
+        "angle": "personal gifts without hand-writing labels; order in time (dispatched within 24 hours)"
+      },
+      "channels": [
+        "instagram",
+        "facebook",
+        "pinterest_video",
+        "tiktok"
+      ],
+      "text": {
+        "ig_caption": "Nobody tells you how long 20 gift tags take to write. Save time on your Christmas gift labels with our personalised gift tags, featuring hobbies or pictures like the NORAD Santa tracker. These printed gift tags are made for busy mums who want a thoughtful gift for family. Send this to someone who always leaves wrapping to the last minute. Find them at thepolarbearsgrotto.co.uk",
+        "pin_title": "Personalised gift tags for Christmas wrapping",
+        "pin_description": "Personalised gift tags make Christmas gift wrapping quick and easy. Our printed gift tags feature hobbies and pictures like the NORAD Santa tracker, saving mums time. Order from The Polar Bear's Grotto at thepolarbearsgrotto.co.uk",
+        "tiktok_caption": "Nobody tells you how long 20 gift tags take to write. Get printed personalised gift tags for your Christmas presents and save time. thepolarbearsgrotto.co.uk #giftwrapping #christmastags #personalisedgifts #mumlife #uksmallbusiness",
+        "story_line": "Skip the hand-writing with peel and stick tags.",
+        "tip": "Cut your wrapping paper to size before you start wrapping to save time.",
+        "ask_line": "Send this to someone who always leaves wrapping to the last minute.",
+        "search_words": [
+          "personalised gift tags",
+          "Christmas gift labels",
+          "gift for mum"
+        ],
+        "caption_source": "gemini",
+        "ask_kind": "send",
+        "hook": "Nobody tells you how long 20 gift tags take to write",
+        "hook_score": 100,
+        "format": "reel",
+        "visual_ok": true,
+        "qc_score": 97,
+        "qc_parts": {
+          "hook": 30,
+          "search_words": 20,
+          "one_ask": 15,
+          "sounds_human": 15,
+          "visual": 10,
+          "channel_rules": 7
+        },
+        "qc_notes": [
+          "first line 379 chars > 55"
+        ],
+        "hook_options": [
+          {
+            "hook": "Nobody tells you how long 20 gift tags take to write",
+            "score": 100,
+            "parts": {
+              "stakes": 30,
+              "specific_detail": 20,
+              "curiosity": 20,
+              "short_and_clear": 15,
+              "fits_buyer": 15
+            },
+            "source": "template"
+          },
+          {
+            "hook": "30 presents, zero hand-written tags, one happy mum",
+            "score": 100,
+            "parts": {
+              "stakes": 30,
+              "specific_detail": 20,
+              "curiosity": 20,
+              "short_and_clear": 15,
+              "fits_buyer": 15
+            },
+            "source": "template"
+          },
+          {
+            "hook": "Nobody tells you how exhausting hand-writing piles of Christmas labels is.",
+            "score": 92,
+            "parts": {
+              "stakes": 30,
+              "specific_detail": 12,
+              "curiosity": 20,
+              "short_and_clear": 15,
+              "fits_buyer": 15
+            },
+            "source": "gemini"
+          },
+          {
+            "hook": "Stop wasting your Christmas Eve hand-writing tags. Just peel and stick.",
+            "score": 92,
+            "parts": {
+              "stakes": 30,
+              "specific_detail": 12,
+              "curiosity": 20,
+              "short_and_clear": 15,
+              "fits_buyer": 15
+            },
+            "source": "gemini"
+          },
+          {
+            "hook": "You don't have to stay up late hand-writing gift tags anymore.",
+            "score": 92,
+            "parts": {
+              "stakes": 30,
+              "specific_detail": 12,
+              "curiosity": 20,
+              "short_and_clear": 15,
+              "fits_buyer": 15
+            },
+            "source": "gemini"
+          }
+        ]
+      },
+      "files": {
+        "video": "reel-Fri.mp4",
+        "cover": "reel-Fri-cover.jpg",
+        "cover_offset_ms": 14200,
+        "seconds": 18.0
+      },
+      "ai_label": false,
+      "link": "https://thepolarbearsgrotto.co.uk"
+    },
+    {
+      "id": "reel-Sun",
+      "format": "reel",
+      "day": "2026-11-15",
+      "time": "18:30",
+      "video": "1zZPQvJZhkoMQif7KIj34waNdk6hO5y5i",
+      "finished_photo": null,
+      "item": {
+        "name": "NORAD postage style labels.mp4",
+        "title": "NORAD postage style labels",
+        "product": "Personalised gift tags",
+        "kind": "video",
+        "mime": "video/mp4",
+        "size": 41792385,
+        "md5": "13d11597350bd5838243fa2de88410ea",
+        "added": "2026-11-02",
+        "excluded": false,
+        "ai_made": false
+      },
+      "season": {
+        "name": "Christmas",
+        "date": "2026-12-25",
+        "products": [
+          "gift tags",
+          "chocolate tub toppers",
+          "baubles",
+          "prints"
+        ],
+        "angle": "personal gifts without hand-writing labels; order in time (dispatched within 24 hours)"
+      },
+      "channels": [
+        "instagram",
+        "facebook",
+        "pinterest_video",
+        "tiktok"
+      ],
+      "text": {
+        "ig_caption": "Stop hand-writing 50 gift tags and save your evenings. These printed personalised gift tags feature a picture of their favourite thing or hobby so your Christmas gift labels show real thought. Busy mums can just peel and stick instead of writing out every name. Dispatched within 24 hours for UK only orders. Tell me in the comments: who's on your list this year? Find them at thepolarbearsgrotto.co.uk",
+        "pin_title": "Personalised gift tags for Christmas | The Polar Bear's Grotto",
+        "pin_description": "Personalised gift tags make Christmas prep easy for mums. These printed gift labels feature a picture of their favourite hobby. Peel and stick design saves time. UK only. Find them at thepolarbearsgrotto.co.uk",
+        "tiktok_caption": "Stop hand-writing 50 gift tags and save your evenings. Printed personalised gift tags with their favourite hobby for busy mums this Christmas. Dispatched within 24 hours, UK only. thepolarbearsgrotto.co.uk #giftwrapping #christmasgifts #giftlabels #mumlife",
+        "story_line": "Save your evenings with peel and stick gift tags.",
+        "tip": "Keep all your gift wrap, tags and tape in one box to save time.",
+        "ask_line": "Tell me in the comments: who's on your list this year?",
+        "search_words": [
+          "personalised gift tags",
+          "Christmas gift labels",
+          "gift for mum"
+        ],
+        "caption_source": "gemini",
+        "ask_kind": "comment",
+        "hook": "Stop hand-writing 50 gift tags and save your evenings.",
+        "hook_score": 100,
+        "format": "reel",
+        "visual_ok": true,
+        "qc_score": 87,
+        "qc_parts": {
+          "hook": 30,
+          "search_words": 20,
+          "one_ask": 5,
+          "sounds_human": 15,
+          "visual": 10,
+          "channel_rules": 7
+        },
+        "qc_notes": [
+          "caption needs exactly one ask",
+          "first line 402 chars > 55"
+        ],
+        "hook_options": [
+          {
+            "hook": "Stop hand-writing 50 gift tags and save your evenings.",
+            "score": 100,
+            "parts": {
+              "stakes": 30,
+              "specific_detail": 20,
+              "curiosity": 20,
+              "short_and_clear": 15,
+              "fits_buyer": 15
+            },
+            "source": "gemini"
+          },
+          {
+            "hook": "Nobody tells you how long 20 gift tags take to write",
+            "score": 100,
+            "parts": {
+              "stakes": 30,
+              "specific_detail": 20,
+              "curiosity": 20,
+              "short_and_clear": 15,
+              "fits_buyer": 15
+            },
+            "source": "template"
+          },
+          {
+            "hook": "30 presents, zero hand-written tags, one happy mum",
+            "score": 100,
+            "parts": {
+              "stakes": 30,
+              "specific_detail": 20,
+              "curiosity": 20,
+              "short_and_clear": 15,
+              "fits_buyer": 15
+            },
+            "source": "template"
+          },
+          {
+            "hook": "Nobody tells you how tiring writing Christmas gift tags gets.",
+            "score": 92,
+            "parts": {
+              "stakes": 30,
+              "specific_detail": 12,
+              "curiosity": 20,
+              "short_and_clear": 15,
+              "fits_buyer": 15
+            },
+            "source": "gemini"
+          },
+          {
+            "hook": "Stop letting generic gift tags ruin your Christmas wrapping.",
+            "score": 92,
+            "parts": {
+              "stakes": 30,
+              "specific_detail": 12,
+              "curiosity": 20,
+              "short_and_clear": 15,
+              "fits_buyer": 15
+            },
+            "source": "gemini"
+          }
+        ]
+      },
+      "files": {
+        "video": "reel-Sun.mp4",
+        "cover": "reel-Sun-cover.jpg",
+        "cover_offset_ms": 14200,
+        "seconds": 18.0
+      },
+      "ai_label": false,
+      "link": "https://thepolarbearsgrotto.co.uk"
+    },
+    {
+      "id": "carousel-Wed",
+      "format": "carousel",
+      "day": "2026-11-11",
+      "time": "18:30",
+      "photos": [
+        "1by-uH35RZt97BmjipgDHqPLFu_akY038",
+        "1jXOoja67Sp6rPYY6JM8EJ03fJAorFl0K"
+      ],
+      "item": {
+        "name": "personalised wooden bauble.jpg",
+        "title": "personalised wooden bauble",
+        "product": "Personalised wooden baubles",
+        "kind": "photo",
+        "mime": "image/jpeg",
+        "size": 1564735,
+        "md5": "afa8cabb93714e4ebf4d21d1bdc15b7c",
+        "added": "2026-11-02",
+        "excluded": false,
+        "ai_made": false
+      },
+      "season": {
+        "name": "Christmas",
+        "date": "2026-12-25",
+        "products": [
+          "gift tags",
+          "chocolate tub toppers",
+          "baubles",
+          "prints"
+        ],
+        "angle": "personal gifts without hand-writing labels; order in time (dispatched within 24 hours)"
+      },
+      "channels": [
+        "instagram",
+        "facebook"
+      ],
+      "text": {
+        "ig_caption": "Stop writing 30 gift tags by hand this Christmas. Our personalised wooden baubles are made for busy mums who want to save time. Each one features vinyl lettering and decoration to show you put thought into it. Dispatched within 24 hours for UK only. Save this so you have it in December. Find them at thepolarbearsgrotto.co.uk",
+        "pin_title": "Personalised wooden baubles for Christmas",
+        "pin_description": "Personalised wooden baubles made with wood, vinyl lettering and decoration. Great for Christmas gifts. Quick and easy for busy mums. Dispatched within 24 hours. UK only. thepolarbearsgrotto.co.uk",
+        "tiktok_caption": "Stop writing 30 gift tags by hand this Christmas. Personalised wooden baubles with vinyl lettering and decoration for busy mums. Dispatched within 24 hours. thepolarbearsgrotto.co.uk #ChristmasBaubles #PersonalisedBauble #WoodenBauble #ChristmasGiftTags",
+        "story_line": "Save time on gift tags this Christmas",
+        "tip": "Cut your wrapping paper to size before you start to make wrapping gifts much faster.",
+        "ask_line": "Save this so you have it in December.",
+        "search_words": [
+          "personalised wooden baubles",
+          "Christmas gift labels",
+          "personalised gift tags"
+        ],
+        "caption_source": "gemini",
+        "ask_kind": "save",
+        "hook": "Stop writing 30 gift tags by hand this Christmas.",
+        "hook_score": 100,
+        "format": "post",
+        "visual_ok": true,
+        "qc_score": 87,
+        "qc_parts": {
+          "hook": 30,
+          "search_words": 10,
+          "one_ask": 15,
+          "sounds_human": 15,
+          "visual": 10,
+          "channel_rules": 7
+        },
+        "qc_notes": [
+          "few plain search words in caption",
+          "first line 326 chars > 125"
+        ],
+        "hook_options": [
+          {
+            "hook": "Stop writing 30 gift tags by hand this Christmas.",
+            "score": 100,
+            "parts": {
+              "stakes": 30,
+              "specific_detail": 20,
+              "curiosity": 20,
+              "short_and_clear": 15,
+              "fits_buyer": 15
+            },
+            "source": "gemini"
+          },
+          {
+            "hook": "3 wooden baubles saved one mum from generic gifts.",
+            "score": 100,
+            "parts": {
+              "stakes": 30,
+              "specific_detail": 20,
+              "curiosity": 20,
+              "short_and_clear": 15,
+              "fits_buyer": 15
+            },
+            "source": "gemini"
+          },
+          {
+            "hook": "You don't have to spend hours writing Christmas labels.",
+            "score": 92,
+            "parts": {
+              "stakes": 30,
+              "specific_detail": 12,
+              "curiosity": 20,
+              "short_and_clear": 15,
+              "fits_buyer": 15
+            },
+            "source": "gemini"
+          },
+          {
+            "hook": "Nobody tells you a bauble can be the most personal gift",
+            "score": 92,
+            "parts": {
+              "stakes": 30,
+              "specific_detail": 12,
+              "curiosity": 20,
+              "short_and_clear": 15,
+              "fits_buyer": 15
+            },
+            "source": "template"
+          },
+          {
+            "hook": "1 wooden bauble ordered today is dispatched within 24 hours.",
+            "score": 91,
+            "parts": {
+              "stakes": 30,
+              "specific_detail": 20,
+              "curiosity": 20,
+              "short_and_clear": 15,
+              "fits_buyer": 6
+            },
+            "source": "gemini"
+          }
+        ]
+      },
+      "files": {
+        "slides": [
+          "carousel-Wed-1.png",
+          "carousel-Wed-2.png",
+          "carousel-Wed-3.png",
+          "carousel-Wed-4.png",
+          "carousel-Wed-5.png"
+        ]
+      },
+      "ai_label": false,
+      "link": "https://thepolarbearsgrotto.co.uk"
+    },
+    {
+      "id": "pin-Mon",
+      "format": "pin",
+      "day": "2026-11-09",
+      "time": "20:00",
+      "photo": "18xw-4smDwBBIiCf09-v97RyK1AxlQWqA",
+      "item": {
+        "name": "Icy Blue Iris in Metallic Ink Splash - Tanya.png",
+        "title": "Icy Blue Iris in Metallic Ink Splash",
+        "product": "Personalised prints",
+        "kind": "photo",
+        "mime": "image/png",
+        "size": 2766360,
+        "md5": "fe5c022c637df6667b3377338ee06e41",
+        "added": "2026-11-02",
+        "excluded": false,
+        "ai_made": true
+      },
+      "season": {
+        "name": "Christmas",
+        "date": "2026-12-25",
+        "products": [
+          "gift tags",
+          "chocolate tub toppers",
+          "baubles",
+          "prints"
+        ],
+        "angle": "personal gifts without hand-writing labels; order in time (dispatched within 24 hours)"
+      },
+      "channels": [
+        "pinterest"
+      ],
+      "text": {
+        "ig_caption": "Nobody tells you how tiring Christmas label writing gets. Save time with our Christmas gift labels and personalised gift tags, made for busy mums who want gifts to look thoughtful without the hand-writing. Send this to someone who always leaves wrapping to the last minute. Find them at thepolarbearsgrotto.co.uk",
+        "pin_title": "Christmas gift labels and personalised gift tags for busy mums",
+        "pin_description": "Christmas gift labels and personalised gift tags save you time at Christmas. These printed items feature pictures of hobbies and are dispatched within 24 hours for UK only. Find them at thepolarbearsgrotto.co.uk",
+        "tiktok_caption": "Nobody tells you how tiring Christmas label writing gets. Get our personalised gift tags and Christmas gift labels to save time this year. thepolarbearsgrotto.co.uk #giftlabels #christmasgifts #giftideas #mumlife",
+        "story_line": "Stop hand-writing labels this Christmas.",
+        "tip": "Cut your wrapping paper to size before you start to save time.",
+        "ask_line": "Send this to someone who always leaves wrapping to the last minute.",
+        "search_words": [
+          "Christmas gift labels",
+          "personalised gift tags",
+          "gift for mum"
+        ],
+        "caption_source": "gemini",
+        "ask_kind": "send",
+        "hook": "Nobody tells you how tiring Christmas label writing gets.",
+        "hook_score": 92,
+        "format": "post",
+        "visual_ok": true,
+        "qc_score": 95,
+        "qc_parts": {
+          "hook": 28,
+          "search_words": 20,
+          "one_ask": 15,
+          "sounds_human": 15,
+          "visual": 10,
+          "channel_rules": 7
+        },
+        "qc_notes": [
+          "first line 312 chars > 125"
+        ],
+        "hook_options": [
+          {
+            "hook": "Nobody tells you how tiring Christmas label writing gets.",
+            "score": 92,
+            "parts": {
+              "stakes": 30,
+              "specific_detail": 12,
+              "curiosity": 20,
+              "short_and_clear": 15,
+              "fits_buyer": 15
+            },
+            "source": "gemini"
+          },
+          {
+            "hook": "Stop spending hours hand writing tags this Christmas.",
+            "score": 92,
+            "parts": {
+              "stakes": 30,
+              "specific_detail": 12,
+              "curiosity": 20,
+              "short_and_clear": 15,
+              "fits_buyer": 15
+            },
+            "source": "gemini"
+          },
+          {
+            "hook": "You don't have to write every Christmas gift tag.",
+            "score": 92,
+            "parts": {
+              "stakes": 30,
+              "specific_detail": 12,
+              "curiosity": 20,
+              "short_and_clear": 15,
+              "fits_buyer": 15
+            },
+            "source": "gemini"
+          },
+          {
+            "hook": "Nobody tells you the most personal gift can be a print",
+            "score": 92,
+            "parts": {
+              "stakes": 30,
+              "specific_detail": 12,
+              "curiosity": 20,
+              "short_and_clear": 15,
+              "fits_buyer": 15
+            },
+            "source": "template"
+          },
+          {
+            "hook": "Busy mums save time with 24 hour dispatch.",
+            "score": 88,
+            "parts": {
+              "stakes": 30,
+              "specific_detail": 20,
+              "curiosity": 8,
+              "short_and_clear": 15,
+              "fits_buyer": 15
+            },
+            "source": "gemini"
+          }
+        ]
+      },
+      "files": {
+        "image": "pin-Mon.png"
+      },
+      "ai_label": true,
+      "link": "https://thepolarbearsgrotto.co.uk"
+    },
+    {
+      "id": "story-Mon",
+      "format": "story",
+      "day": "2026-11-09",
+      "time": "09:00",
+      "photo": "18xw-4smDwBBIiCf09-v97RyK1AxlQWqA",
+      "item": {
+        "name": "Icy Blue Iris in Metallic Ink Splash - Tanya.png",
+        "title": "Icy Blue Iris in Metallic Ink Splash",
+        "product": "Personalised prints",
+        "kind": "photo",
+        "mime": "image/png",
+        "size": 2766360,
+        "md5": "fe5c022c637df6667b3377338ee06e41",
+        "added": "2026-11-02",
+        "excluded": false,
+        "ai_made": true
+      },
+      "season": {
+        "name": "Christmas",
+        "date": "2026-12-25",
+        "products": [
+          "gift tags",
+          "chocolate tub toppers",
+          "baubles",
+          "prints"
+        ],
+        "angle": "personal gifts without hand-writing labels; order in time (dispatched within 24 hours)"
+      },
+      "channels": [
+        "instagram_story"
+      ],
+      "text": {
+        "ig_caption": "Nobody tells you how stressful Christmas labels get for busy mums. Save time with our personalised gift tags and Christmas gift labels made for your family. Each gift for mum and loved ones features a picture of their favourite thing or hobby. Send this to someone who always leaves wrapping to the last minute. Find them at thepolarbearsgrotto.co.uk",
+        "pin_title": "Christmas gift labels and personalised gift tags for busy mums",
+        "pin_description": "Christmas gift labels that save time for busy mums. Get personalised gift tags with favourite hobbies, plus personalised prints, chocolate tub stickers, and baubles. Dispatched within 24 hours in the UK. thepolarbearsgrotto.co.uk",
+        "tiktok_caption": "Nobody tells you how stressful Christmas labels get for busy mums. These are personalised gift tags and Christmas gift labels that save time. thepolarbearsgrotto.co.uk #ChristmasGiftLabels #PersonalisedGiftTags #GiftForMum #UKChristmasCrafts",
+        "story_line": "Save time on Christmas labels this year.",
+        "tip": "Write out all your gift tags before you start wrapping to keep things tidy.",
+        "ask_line": "Send this to a busy mum.",
+        "search_words": [
+          "Christmas gift labels",
+          "personalised gift tags",
+          "gift for mum"
+        ],
+        "caption_source": "gemini",
+        "ask_kind": "send",
+        "hook": "Nobody tells you how stressful Christmas labels get for busy mums.",
+        "hook_score": 92,
+        "format": "post",
+        "visual_ok": true,
+        "qc_score": 95,
+        "qc_parts": {
+          "hook": 28,
+          "search_words": 20,
+          "one_ask": 15,
+          "sounds_human": 15,
+          "visual": 10,
+          "channel_rules": 7
+        },
+        "qc_notes": [
+          "first line 350 chars > 125"
+        ],
+        "hook_options": [
+          {
+            "hook": "Nobody tells you how stressful Christmas labels get for busy mums.",
+            "score": 92,
+            "parts": {
+              "stakes": 30,
+              "specific_detail": 12,
+              "curiosity": 20,
+              "short_and_clear": 15,
+              "fits_buyer": 15
+            },
+            "source": "gemini"
+          },
+          {
+            "hook": "Nobody tells you the most personal gift can be a print",
+            "score": 92,
+            "parts": {
+              "stakes": 30,
+              "specific_detail": 12,
+              "curiosity": 20,
+              "short_and_clear": 15,
+              "fits_buyer": 15
+            },
+            "source": "template"
+          },
+          {
+            "hook": "A mum ordered three chocolate tub stickers to give to her family.",
+            "score": 88,
+            "parts": {
+              "stakes": 30,
+              "specific_detail": 20,
+              "curiosity": 8,
+              "short_and_clear": 15,
+              "fits_buyer": 15
+            },
+            "source": "gemini"
+          },
+          {
+            "hook": "Dispatched within 24 hours so you never miss a Christmas deadline.",
+            "score": 88,
+            "parts": {
+              "stakes": 30,
+              "specific_detail": 20,
+              "curiosity": 8,
+              "short_and_clear": 15,
+              "fits_buyer": 15
+            },
+            "source": "gemini"
+          },
+          {
+            "hook": "Stop hand writing labels when you are already so busy.",
+            "score": 83,
+            "parts": {
+              "stakes": 30,
+              "specific_detail": 12,
+              "curiosity": 20,
+              "short_and_clear": 15,
+              "fits_buyer": 6
+            },
+            "source": "gemini"
+          }
+        ]
+      },
+      "files": {
+        "image": "story-Mon.png"
+      },
+      "ai_label": true,
+      "link": "https://thepolarbearsgrotto.co.uk"
+    },
+    {
+      "id": "pin-Tue",
+      "format": "pin",
+      "day": "2026-11-10",
+      "time": "20:00",
+      "photo": "1x-9hsRc4lf_rlRy4_KDFXtinQsrx5wo2",
+      "item": {
+        "name": "Pengiun_with_hot_chocolate tub topper_WM_1792057766499.png",
+        "title": "Pengiun with hot chocolate tub topper",
+        "product": "Personalised chocolate tub stickers (toppers)",
+        "kind": "photo",
+        "mime": "image/png",
+        "size": 3914509,
+        "md5": "d986d633afc750568fbff3406caabc04",
+        "added": "2026-11-02",
+        "excluded": false,
+        "ai_made": false
+      },
+      "season": {
+        "name": "Christmas",
+        "date": "2026-12-25",
+        "products": [
+          "gift tags",
+          "chocolate tub toppers",
+          "baubles",
+          "prints"
+        ],
+        "angle": "personal gifts without hand-writing labels; order in time (dispatched within 24 hours)"
+      },
+      "channels": [
+        "pinterest"
+      ],
+      "text": {
+        "ig_caption": "3 chocolate tub stickers saved a mum from hand writing labels. These printed stickers are for the top of a chocolate tub with a name and favourite thing on, making it a quick and easy Christmas gift for mum to give. Send this to someone who always leaves wrapping to the last minute. Find them at thepolarbearsgrotto.co.uk",
+        "pin_title": "Personalised chocolate tub stickers for Christmas gifts",
+        "pin_description": "Personalised chocolate tub stickers turn a tub of chocolates into a thoughtful gift without hand-writing labels. We also make printed gift tags, Christmas gift labels, and personalised gift tags. Dispatched within 24 hours to the UK. thepolarbearsgrotto.co.uk",
+        "tiktok_caption": "3 chocolate tub stickers saved a mum from hand writing labels. These printed chocolate tub stickers make a personal gift for Christmas. thepolarbearsgrotto.co.uk #ChristmasGiftIdeas #PersonalisedGifts #GiftLabels #MumLife",
+        "story_line": "Quick Christmas gift labels made in the UK",
+        "tip": "Keep tape and pens in one basket so you can wrap gifts quickly.",
+        "ask_line": "Send this to someone who always leaves wrapping to the last minute.",
+        "search_words": [
+          "personalised gift tags",
+          "Christmas gift labels",
+          "chocolate tub stickers"
+        ],
+        "caption_source": "gemini",
+        "ask_kind": "send",
+        "hook": "3 chocolate tub stickers saved a mum from hand writing labels.",
+        "hook_score": 100,
+        "format": "post",
+        "visual_ok": true,
+        "qc_score": 87,
+        "qc_parts": {
+          "hook": 30,
+          "search_words": 10,
+          "one_ask": 15,
+          "sounds_human": 15,
+          "visual": 10,
+          "channel_rules": 7
+        },
+        "qc_notes": [
+          "few plain search words in caption",
+          "first line 322 chars > 125"
+        ],
+        "hook_options": [
+          {
+            "hook": "3 chocolate tub stickers saved a mum from hand writing labels.",
+            "score": 100,
+            "parts": {
+              "stakes": 30,
+              "specific_detail": 20,
+              "curiosity": 20,
+              "short_and_clear": 15,
+              "fits_buyer": 15
+            },
+            "source": "gemini"
+          },
+          {
+            "hook": "Nobody tells you how stressful labelling chocolate tubs at Christmas gets.",
+            "score": 100,
+            "parts": {
+              "stakes": 30,
+              "specific_detail": 20,
+              "curiosity": 20,
+              "short_and_clear": 15,
+              "fits_buyer": 15
+            },
+            "source": "gemini"
+          },
+          {
+            "hook": "Stop handing over a plain chocolate tub this Christmas",
+            "score": 100,
+            "parts": {
+              "stakes": 30,
+              "specific_detail": 20,
+              "curiosity": 20,
+              "short_and_clear": 15,
+              "fits_buyer": 15
+            },
+            "source": "template"
+          },
+          {
+            "hook": "3 chocolate tubs, 3 family members, zero hand-written labels",
+            "score": 100,
+            "parts": {
+              "stakes": 30,
+              "specific_detail": 20,
+              "curiosity": 20,
+              "short_and_clear": 15,
+              "fits_buyer": 15
+            },
+            "source": "template"
+          },
+          {
+            "hook": "Nobody tells you a chocolate tub can feel this personal",
+            "score": 100,
+            "parts": {
+              "stakes": 30,
+              "specific_detail": 20,
+              "curiosity": 20,
+              "short_and_clear": 15,
+              "fits_buyer": 15
+            },
+            "source": "template"
+          }
+        ]
+      },
+      "files": {
+        "image": "pin-Tue.png"
+      },
+      "ai_label": false,
+      "link": "https://thepolarbearsgrotto.co.uk"
+    },
+    {
+      "id": "story-Tue",
+      "format": "story",
+      "day": "2026-11-10",
+      "time": "09:00",
+      "photo": "1x-9hsRc4lf_rlRy4_KDFXtinQsrx5wo2",
+      "item": {
+        "name": "Pengiun_with_hot_chocolate tub topper_WM_1792057766499.png",
+        "title": "Pengiun with hot chocolate tub topper",
+        "product": "Personalised chocolate tub stickers (toppers)",
+        "kind": "photo",
+        "mime": "image/png",
+        "size": 3914509,
+        "md5": "d986d633afc750568fbff3406caabc04",
+        "added": "2026-11-02",
+        "excluded": false,
+        "ai_made": false
+      },
+      "season": {
+        "name": "Christmas",
+        "date": "2026-12-25",
+        "products": [
+          "gift tags",
+          "chocolate tub toppers",
+          "baubles",
+          "prints"
+        ],
+        "angle": "personal gifts without hand-writing labels; order in time (dispatched within 24 hours)"
+      },
+      "channels": [
+        "instagram_story"
+      ],
+      "text": {
+        "ig_caption": "Nobody tells you how exhausting it is labelling family Christmas chocolate tubs. These personalised chocolate tub stickers turn a tub of chocolates into a personal gift for your family. They are quick and convenient, so you can skip hand-writing labels. Send this to the mum who does it all. Find them at thepolarbearsgrotto.co.uk",
+        "pin_title": "Personalised chocolate tub stickers for Christmas",
+        "pin_description": "Personalised chocolate tub stickers make gifting easy. Turn a tub of chocolates into a personal gift with names and favourite things. Quick stickers mean no hand-writing. Dispatched within 24 hours in the UK. thepolarbearsgrotto.co.uk",
+        "tiktok_caption": "Nobody tells you how exhausting it is labelling family Christmas chocolate tubs. Get personalised chocolate tub stickers for your family and turn a tub of chocolates into a thoughtful gift. thepolarbearsgrotto.co.uk #personalisedgifts #christmasgifts #giftlabels #mumlife #ukcrafts",
+        "story_line": "Turn a chocolate tub into a personal gift.",
+        "tip": "Write your gift labels ahead of time in batches to save energy.",
+        "ask_line": "Send this to the mum who does it all.",
+        "search_words": [
+          "personalised gift tags",
+          "Christmas gift labels",
+          "personalised chocolate tub stickers"
+        ],
+        "caption_source": "gemini",
+        "ask_kind": "send",
+        "hook": "Nobody tells you how exhausting it is labelling family Christmas chocolate tubs.",
+        "hook_score": 100,
+        "format": "post",
+        "visual_ok": true,
+        "qc_score": 87,
+        "qc_parts": {
+          "hook": 30,
+          "search_words": 10,
+          "one_ask": 15,
+          "sounds_human": 15,
+          "visual": 10,
+          "channel_rules": 7
+        },
+        "qc_notes": [
+          "few plain search words in caption",
+          "first line 330 chars > 125"
+        ],
+        "hook_options": [
+          {
+            "hook": "Nobody tells you how exhausting it is labelling family Christmas chocolate tubs.",
+            "score": 100,
+            "parts": {
+              "stakes": 30,
+              "specific_detail": 20,
+              "curiosity": 20,
+              "short_and_clear": 15,
+              "fits_buyer": 15
+            },
+            "source": "gemini"
+          },
+          {
+            "hook": "1 mum ordered three chocolate tub stickers to give to her parents.",
+            "score": 100,
+            "parts": {
+              "stakes": 30,
+              "specific_detail": 20,
+              "curiosity": 20,
+              "short_and_clear": 15,
+              "fits_buyer": 15
+            },
+            "source": "gemini"
+          },
+          {
+            "hook": "Stop stressing over generic gifts with our penguin hot chocolate tub topper.",
+            "score": 100,
+            "parts": {
+              "stakes": 30,
+              "specific_detail": 20,
+              "curiosity": 20,
+              "short_and_clear": 15,
+              "fits_buyer": 15
+            },
+            "source": "gemini"
+          },
+          {
+            "hook": "Nobody tells you that three chocolate tubs need names on Christmas Day.",
+            "score": 100,
+            "parts": {
+              "stakes": 30,
+              "specific_detail": 20,
+              "curiosity": 20,
+              "short_and_clear": 15,
+              "fits_buyer": 15
+            },
+            "source": "gemini"
+          },
+          {
+            "hook": "1 quick sticker turns a generic chocolate tub into a personal gift.",
+            "score": 100,
+            "parts": {
+              "stakes": 30,
+              "specific_detail": 20,
+              "curiosity": 20,
+              "short_and_clear": 15,
+              "fits_buyer": 15
+            },
+            "source": "gemini"
+          }
+        ]
+      },
+      "files": {
+        "image": "story-Tue.png"
+      },
+      "ai_label": false,
+      "link": "https://thepolarbearsgrotto.co.uk"
+    },
+    {
+      "id": "pin-Wed",
+      "format": "pin",
+      "day": "2026-11-11",
+      "time": "20:00",
+      "photo": "1kEWTPcjpCRS_TETDqgKq1uydbTF2kyLp",
+      "item": {
+        "name": "Puppy chocolate tub topper WM.png",
+        "title": "Puppy chocolate tub topper",
+        "product": "Personalised chocolate tub stickers (toppers)",
+        "kind": "photo",
+        "mime": "image/png",
+        "size": 4229590,
+        "md5": "667408ab1fcfbbd0d267b6bd5ebb95cc",
+        "added": "2026-11-02",
+        "excluded": false,
+        "ai_made": false
+      },
+      "season": {
+        "name": "Christmas",
+        "date": "2026-12-25",
+        "products": [
+          "gift tags",
+          "chocolate tub toppers",
+          "baubles",
+          "prints"
+        ],
+        "angle": "personal gifts without hand-writing labels; order in time (dispatched within 24 hours)"
+      },
+      "channels": [
+        "pinterest"
+      ],
+      "text": {
+        "ig_caption": "Nobody tells you how stressful labelling three chocolate tub gifts is. Save time this Christmas with our personalised chocolate tub stickers and gift labels. They are made for busy mums who want gifts to show real thought without the hand-writing. Send this to the mum who does it all. Find them at thepolarbearsgrotto.co.uk",
+        "pin_title": "Chocolate tub stickers and Christmas gift labels for busy mums",
+        "pin_description": "Chocolate tub stickers and Christmas gift labels make present wrapping easy. Our personalised chocolate tub toppers turn standard sweets into personal gifts without any hand-writing. Dispatched within 24 hours for UK shoppers. Find them at thepolarbearsgrotto.co.uk",
+        "tiktok_caption": "Nobody tells you how stressful labelling three chocolate tub gifts is. These printed chocolate tub stickers are made to turn sweets into personal gifts for your family. Find them at thepolarbearsgrotto.co.uk. #ChristmasGifts #GiftLabels #PersonalisedGifts #MumLife #StockingFillers",
+        "story_line": "Quick Christmas gift labels with zero hand-writing.",
+        "tip": "Save gift bags and ribbons from last year to reuse for family presents.",
+        "ask_line": "Send this to the mum who does it all.",
+        "search_words": [
+          "chocolate tub stickers",
+          "Christmas gift labels",
+          "personalised gift tags"
+        ],
+        "caption_source": "gemini",
+        "ask_kind": "send",
+        "hook": "Nobody tells you how stressful labelling three chocolate tub gifts is.",
+        "hook_score": 100,
+        "format": "post",
+        "visual_ok": true,
+        "qc_score": 87,
+        "qc_parts": {
+          "hook": 30,
+          "search_words": 10,
+          "one_ask": 15,
+          "sounds_human": 15,
+          "visual": 10,
+          "channel_rules": 7
+        },
+        "qc_notes": [
+          "few plain search words in caption",
+          "first line 324 chars > 125"
+        ],
+        "hook_options": [
+          {
+            "hook": "Nobody tells you how stressful labelling three chocolate tub gifts is.",
+            "score": 100,
+            "parts": {
+              "stakes": 30,
+              "specific_detail": 20,
+              "curiosity": 20,
+              "short_and_clear": 15,
+              "fits_buyer": 15
+            },
+            "source": "gemini"
+          },
+          {
+            "hook": "3 minutes saved: stick a puppy chocolate tub topper on this Christmas.",
+            "score": 100,
+            "parts": {
+              "stakes": 30,
+              "specific_detail": 20,
+              "curiosity": 20,
+              "short_and_clear": 15,
+              "fits_buyer": 15
+            },
+            "source": "gemini"
+          },
+          {
+            "hook": "1 simple chocolate tub sticker turns a generic gift into thought.",
+            "score": 100,
+            "parts": {
+              "stakes": 30,
+              "specific_detail": 20,
+              "curiosity": 20,
+              "short_and_clear": 15,
+              "fits_buyer": 15
+            },
+            "source": "gemini"
+          },
+          {
+            "hook": "Stop rushing Christmas gifts when three chocolate tub stickers help out.",
+            "score": 100,
+            "parts": {
+              "stakes": 30,
+              "specific_detail": 20,
+              "curiosity": 20,
+              "short_and_clear": 15,
+              "fits_buyer": 15
+            },
+            "source": "gemini"
+          },
+          {
+            "hook": "3 chocolate tub stickers make sure your family gifts look personal.",
+            "score": 100,
+            "parts": {
+              "stakes": 30,
+              "specific_detail": 20,
+              "curiosity": 20,
+              "short_and_clear": 15,
+              "fits_buyer": 15
+            },
+            "source": "gemini"
+          }
+        ]
+      },
+      "files": {
+        "image": "pin-Wed.png"
+      },
+      "ai_label": false,
+      "link": "https://thepolarbearsgrotto.co.uk"
+    },
+    {
+      "id": "story-Wed",
+      "format": "story",
+      "day": "2026-11-11",
+      "time": "09:00",
+      "photo": "1kEWTPcjpCRS_TETDqgKq1uydbTF2kyLp",
+      "item": {
+        "name": "Puppy chocolate tub topper WM.png",
+        "title": "Puppy chocolate tub topper",
+        "product": "Personalised chocolate tub stickers (toppers)",
+        "kind": "photo",
+        "mime": "image/png",
+        "size": 4229590,
+        "md5": "667408ab1fcfbbd0d267b6bd5ebb95cc",
+        "added": "2026-11-02",
+        "excluded": false,
+        "ai_made": false
+      },
+      "season": {
+        "name": "Christmas",
+        "date": "2026-12-25",
+        "products": [
+          "gift tags",
+          "chocolate tub toppers",
+          "baubles",
+          "prints"
+        ],
+        "angle": "personal gifts without hand-writing labels; order in time (dispatched within 24 hours)"
+      },
+      "channels": [
+        "instagram_story"
+      ],
+      "text": {
+        "ig_caption": "Stop hand-writing labels on three chocolate tubs this Christmas. This is a printed puppy chocolate tub sticker to turn treats into a personal gift. It is made for busy mums who want quick and convenient Christmas gift labels without hand-writing. Send this to someone who always leaves wrapping to the last minute. Find them at thepolarbearsgrotto.co.uk",
+        "pin_title": "Personalised chocolate tub stickers for Christmas gifts",
+        "pin_description": "Personalised chocolate tub stickers make a quick Christmas gift for mum and family. Just peel and stick with no hand-writing needed. Dispatched within 24 hours to the UK. Find them at thepolarbearsgrotto.co.uk",
+        "tiktok_caption": "Stop hand-writing labels on three chocolate tubs this Christmas. Our printed puppy chocolate tub stickers turn ordinary treats into a personal gift for your family. Find them at thepolarbearsgrotto.co.uk #ChristmasGifts #StockingFillers #MumLife #GiftIdeas #PersonalisedGifts",
+        "story_line": "Stop writing labels on Christmas chocolate tubs.",
+        "tip": "Keep spare sticky tape and scissors in a basket so you never lose them while wrapping.",
+        "ask_line": "Send this to someone who always leaves wrapping to the last minute.",
+        "search_words": [
+          "personalised chocolate tub stickers",
+          "Christmas gift labels",
+          "gift for mum"
+        ],
+        "caption_source": "gemini",
+        "ask_kind": "send",
+        "hook": "Stop hand-writing labels on three chocolate tubs this Christmas.",
+        "hook_score": 100,
+        "format": "post",
+        "visual_ok": true,
+        "qc_score": 87,
+        "qc_parts": {
+          "hook": 30,
+          "search_words": 10,
+          "one_ask": 15,
+          "sounds_human": 15,
+          "visual": 10,
+          "channel_rules": 7
+        },
+        "qc_notes": [
+          "few plain search words in caption",
+          "first line 353 chars > 125"
+        ],
+        "hook_options": [
+          {
+            "hook": "Stop hand-writing labels on three chocolate tubs this Christmas.",
+            "score": 100,
+            "parts": {
+              "stakes": 30,
+              "specific_detail": 20,
+              "curiosity": 20,
+              "short_and_clear": 15,
+              "fits_buyer": 15
+            },
+            "source": "gemini"
+          },
+          {
+            "hook": "Nobody tells you how stressful labelling three family chocolate tubs is.",
+            "score": 100,
+            "parts": {
+              "stakes": 30,
+              "specific_detail": 20,
+              "curiosity": 20,
+              "short_and_clear": 15,
+              "fits_buyer": 15
+            },
+            "source": "gemini"
+          },
+          {
+            "hook": "1 mum ordered three chocolate tub stickers for her family.",
+            "score": 100,
+            "parts": {
+              "stakes": 30,
+              "specific_detail": 20,
+              "curiosity": 20,
+              "short_and_clear": 15,
+              "fits_buyer": 15
+            },
+            "source": "gemini"
+          },
+          {
+            "hook": "Stop handing over a plain chocolate tub this Christmas",
+            "score": 100,
+            "parts": {
+              "stakes": 30,
+              "specific_detail": 20,
+              "curiosity": 20,
+              "short_and_clear": 15,
+              "fits_buyer": 15
+            },
+            "source": "template"
+          },
+          {
+            "hook": "3 chocolate tubs, 3 family members, zero hand-written labels",
+            "score": 100,
+            "parts": {
+              "stakes": 30,
+              "specific_detail": 20,
+              "curiosity": 20,
+              "short_and_clear": 15,
+              "fits_buyer": 15
+            },
+            "source": "template"
+          }
+        ]
+      },
+      "files": {
+        "image": "story-Wed.png"
+      },
+      "ai_label": false,
+      "link": "https://thepolarbearsgrotto.co.uk"
+    }
+  ],
+  "held": [
+    {
+      "id": "pin-Thu",
+      "format": "pin",
+      "day": "2026-11-12",
+      "time": "20:00",
+      "photo": "1cXrT5A70qa9zvkrpVNVR9Hd8QGX2HwkF",
+      "item": {
+        "name": "Elf Christmas gift tag sticker- pink purple wm.png",
+        "title": "Elf Christmas gift tag sticker- pink purple",
+        "product": "Personalised gift tags",
+        "kind": "photo",
+        "mime": "image/jpeg",
+        "size": 395582,
+        "md5": "f086e37981b690907b1082a23355a126",
+        "added": "2026-11-02",
+        "excluded": false,
+        "ai_made": false
+      },
+      "season": {
+        "name": "Christmas",
+        "date": "2026-12-25",
+        "products": [
+          "gift tags",
+          "chocolate tub toppers",
+          "baubles",
+          "prints"
+        ],
+        "angle": "personal gifts without hand-writing labels; order in time (dispatched within 24 hours)"
+      },
+      "channels": [
+        "pinterest"
+      ],
+      "reason": "media failed: 401 Client Error: Unauthorized for url: https://www.googleapis.com/drive/v3/files/1cXrT5A70qa9zvkrpVNVR9Hd8QGX2HwkF?alt=media"
+    },
+    {
+      "id": "story-Thu",
+      "format": "story",
+      "day": "2026-11-12",
+      "time": "09:00",
+      "photo": "1cXrT5A70qa9zvkrpVNVR9Hd8QGX2HwkF",
+      "item": {
+        "name": "Elf Christmas gift tag sticker- pink purple wm.png",
+        "title": "Elf Christmas gift tag sticker- pink purple",
+        "product": "Personalised gift tags",
+        "kind": "photo",
+        "mime": "image/jpeg",
+        "size": 395582,
+        "md5": "f086e37981b690907b1082a23355a126",
+        "added": "2026-11-02",
+        "excluded": false,
+        "ai_made": false
+      },
+      "season": {
+        "name": "Christmas",
+        "date": "2026-12-25",
+        "products": [
+          "gift tags",
+          "chocolate tub toppers",
+          "baubles",
+          "prints"
+        ],
+        "angle": "personal gifts without hand-writing labels; order in time (dispatched within 24 hours)"
+      },
+      "channels": [
+        "instagram_story"
+      ],
+      "reason": "media failed: 401 Client Error: Unauthorized for url: https://www.googleapis.com/drive/v3/files/1cXrT5A70qa9zvkrpVNVR9Hd8QGX2HwkF?alt=media"
+    },
+    {
+      "id": "pin-Fri",
+      "format": "pin",
+      "day": "2026-11-13",
+      "time": "20:00",
+      "photo": "148sW6ZWKtYVwGF0wFO4J3i-sbsNNXXNK",
+      "item": {
+        "name": "Elf Christmas gift tag sticker- blue background WM.png",
+        "title": "Elf Christmas gift tag sticker- blue background",
+        "product": "Personalised gift tags",
+        "kind": "photo",
+        "mime": "image/png",
+        "size": 306522,
+        "md5": "6d653524477356a29c2d7f2c8cd19206",
+        "added": "2026-11-02",
+        "excluded": false,
+        "ai_made": false
+      },
+      "season": {
+        "name": "Christmas",
+        "date": "2026-12-25",
+        "products": [
+          "gift tags",
+          "chocolate tub toppers",
+          "baubles",
+          "prints"
+        ],
+        "angle": "personal gifts without hand-writing labels; order in time (dispatched within 24 hours)"
+      },
+      "channels": [
+        "pinterest"
+      ],
+      "reason": "media failed: 401 Client Error: Unauthorized for url: https://www.googleapis.com/drive/v3/files/148sW6ZWKtYVwGF0wFO4J3i-sbsNNXXNK?alt=media"
+    },
+    {
+      "id": "story-Fri",
+      "format": "story",
+      "day": "2026-11-13",
+      "time": "09:00",
+      "photo": "148sW6ZWKtYVwGF0wFO4J3i-sbsNNXXNK",
+      "item": {
+        "name": "Elf Christmas gift tag sticker- blue background WM.png",
+        "title": "Elf Christmas gift tag sticker- blue background",
+        "product": "Personalised gift tags",
+        "kind": "photo",
+        "mime": "image/png",
+        "size": 306522,
+        "md5": "6d653524477356a29c2d7f2c8cd19206",
+        "added": "2026-11-02",
+        "excluded": false,
+        "ai_made": false
+      },
+      "season": {
+        "name": "Christmas",
+        "date": "2026-12-25",
+        "products": [
+          "gift tags",
+          "chocolate tub toppers",
+          "baubles",
+          "prints"
+        ],
+        "angle": "personal gifts without hand-writing labels; order in time (dispatched within 24 hours)"
+      },
+      "channels": [
+        "instagram_story"
+      ],
+      "reason": "media failed: 401 Client Error: Unauthorized for url: https://www.googleapis.com/drive/v3/files/148sW6ZWKtYVwGF0wFO4J3i-sbsNNXXNK?alt=media"
+    },
+    {
+      "id": "pin-Sat",
+      "format": "pin",
+      "day": "2026-11-14",
+      "time": "20:00",
+      "photo": "1uGaFBzu9MIihjIqv-yTBSdY078QIz2fC",
+      "item": {
+        "name": "Elf Christmas gift tag sticker - white WM.png",
+        "title": "Elf Christmas gift tag sticker - white",
+        "product": "Personalised gift tags",
+        "kind": "photo",
+        "mime": "image/png",
+        "size": 275964,
+        "md5": "65925299f56e8cd03cb396ceffb70865",
+        "added": "2026-11-02",
+        "excluded": false,
+        "ai_made": false
+      },
+      "season": {
+        "name": "Christmas",
+        "date": "2026-12-25",
+        "products": [
+          "gift tags",
+          "chocolate tub toppers",
+          "baubles",
+          "prints"
+        ],
+        "angle": "personal gifts without hand-writing labels; order in time (dispatched within 24 hours)"
+      },
+      "channels": [
+        "pinterest"
+      ],
+      "reason": "media failed: 401 Client Error: Unauthorized for url: https://www.googleapis.com/drive/v3/files/1uGaFBzu9MIihjIqv-yTBSdY078QIz2fC?alt=media"
+    },
+    {
+      "id": "story-Sat",
+      "format": "story",
+      "day": "2026-11-14",
+      "time": "09:00",
+      "photo": "1uGaFBzu9MIihjIqv-yTBSdY078QIz2fC",
+      "item": {
+        "name": "Elf Christmas gift tag sticker - white WM.png",
+        "title": "Elf Christmas gift tag sticker - white",
+        "product": "Personalised gift tags",
+        "kind": "photo",
+        "mime": "image/png",
+        "size": 275964,
+        "md5": "65925299f56e8cd03cb396ceffb70865",
+        "added": "2026-11-02",
+        "excluded": false,
+        "ai_made": false
+      },
+      "season": {
+        "name": "Christmas",
+        "date": "2026-12-25",
+        "products": [
+          "gift tags",
+          "chocolate tub toppers",
+          "baubles",
+          "prints"
+        ],
+        "angle": "personal gifts without hand-writing labels; order in time (dispatched within 24 hours)"
+      },
+      "channels": [
+        "instagram_story"
+      ],
+      "reason": "media failed: 401 Client Error: Unauthorized for url: https://www.googleapis.com/drive/v3/files/1uGaFBzu9MIihjIqv-yTBSdY078QIz2fC?alt=media"
+    },
+    {
+      "id": "pin-Sun",
+      "format": "pin",
+      "day": "2026-11-15",
+      "time": "20:00",
+      "photo": "13EWM4NUVR8du-q0v8HIXci7ejpKwdUQq",
+      "item": {
+        "name": "rubber ducks colouring book.jpg",
+        "title": "rubber ducks colouring book",
+        "product": "Personalised colouring books",
+        "kind": "photo",
+        "mime": "image/jpeg",
+        "size": 1333797,
+        "md5": "899b646602e723243bff666054aa24ce",
+        "added": "2026-11-02",
+        "excluded": false,
+        "ai_made": false
+      },
+      "season": {
+        "name": "Christmas",
+        "date": "2026-12-25",
+        "products": [
+          "gift tags",
+          "chocolate tub toppers",
+          "baubles",
+          "prints"
+        ],
+        "angle": "personal gifts without hand-writing labels; order in time (dispatched within 24 hours)"
+      },
+      "channels": [
+        "pinterest"
+      ],
+      "reason": "media failed: 401 Client Error: Unauthorized for url: https://www.googleapis.com/drive/v3/files/13EWM4NUVR8du-q0v8HIXci7ejpKwdUQq?alt=media"
+    },
+    {
+      "id": "story-Sun",
+      "format": "story",
+      "day": "2026-11-15",
+      "time": "09:00",
+      "photo": "13EWM4NUVR8du-q0v8HIXci7ejpKwdUQq",
+      "item": {
+        "name": "rubber ducks colouring book.jpg",
+        "title": "rubber ducks colouring book",
+        "product": "Personalised colouring books",
+        "kind": "photo",
+        "mime": "image/jpeg",
+        "size": 1333797,
+        "md5": "899b646602e723243bff666054aa24ce",
+        "added": "2026-11-02",
+        "excluded": false,
+        "ai_made": false
+      },
+      "season": {
+        "name": "Christmas",
+        "date": "2026-12-25",
+        "products": [
+          "gift tags",
+          "chocolate tub toppers",
+          "baubles",
+          "prints"
+        ],
+        "angle": "personal gifts without hand-writing labels; order in time (dispatched within 24 hours)"
+      },
+      "channels": [
+        "instagram_story"
+      ],
+      "reason": "media failed: 401 Client Error: Unauthorized for url: https://www.googleapis.com/drive/v3/files/13EWM4NUVR8du-q0v8HIXci7ejpKwdUQq?alt=media"
+    }
+  ],
+  "notes": [],
+  "library_left": {
+    "videos": 5,
+    "photos": 6
+  },
+  "live": false
+}
