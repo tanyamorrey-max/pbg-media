@@ -1,0 +1,428 @@
+{
+  "week_start": "2026-11-16",
+  "season": {
+    "name": "Christmas",
+    "date": "2026-12-25",
+    "products": [
+      "gift tags",
+      "chocolate tub toppers",
+      "baubles",
+      "prints"
+    ],
+    "angle": "personal gifts without hand-writing labels; order in time (dispatched within 24 hours)"
+  },
+  "posts": [
+    {
+      "id": "reel-Wed",
+      "format": "reel",
+      "day": "2026-11-18",
+      "time": "18:30",
+      "video": "1xDLGGJR5NwxaHGT0Gk-5naMOT9mvHKYy",
+      "finished_photo": null,
+      "finished_video": null,
+      "item": {
+        "name": "Colouring Book - Christmas Christmas Dumplings - Making.mp4",
+        "title": "Colouring Book - Christmas Christmas Dumplings",
+        "product": "Colouring books",
+        "kind": "video",
+        "mime": "video/mp4",
+        "size": 23738120,
+        "md5": "6aef363a1c7bd1c5a4d12dcf487fd932",
+        "added": "2026-11-14",
+        "excluded": false,
+        "ai_made": true,
+        "missing": false
+      },
+      "season": {
+        "name": "Christmas",
+        "date": "2026-12-25",
+        "products": [
+          "gift tags",
+          "chocolate tub toppers",
+          "baubles",
+          "prints"
+        ],
+        "angle": "personal gifts without hand-writing labels; order in time (dispatched within 24 hours)"
+      },
+      "channels": [
+        "tiktok"
+      ],
+      "text": {
+        "hook": "3 ways to stop boredom",
+        "hook_score": 91,
+        "hook_options": [
+          {
+            "hook": "3 ways to stop boredom",
+            "score": 91,
+            "parts": {
+              "stakes": 30,
+              "specific_detail": 20,
+              "curiosity": 20,
+              "short_and_clear": 15,
+              "fits_buyer": 6
+            },
+            "source": "gemini"
+          },
+          {
+            "hook": "3 rainy-day saves for the school holidays",
+            "score": 91,
+            "parts": {
+              "stakes": 30,
+              "specific_detail": 20,
+              "curiosity": 20,
+              "short_and_clear": 15,
+              "fits_buyer": 6
+            },
+            "source": "template"
+          },
+          {
+            "hook": "Quiet time with Christmas dumplings",
+            "score": 80,
+            "parts": {
+              "stakes": 30,
+              "specific_detail": 12,
+              "curiosity": 8,
+              "short_and_clear": 15,
+              "fits_buyer": 15
+            },
+            "source": "gemini"
+          },
+          {
+            "hook": "Rainy days need dumpling colouring",
+            "score": 79,
+            "parts": {
+              "stakes": 30,
+              "specific_detail": 20,
+              "curiosity": 8,
+              "short_and_clear": 15,
+              "fits_buyer": 6
+            },
+            "source": "gemini"
+          },
+          {
+            "hook": "Nobody tells you how long school holidays feel",
+            "score": 71,
+            "parts": {
+              "stakes": 30,
+              "specific_detail": 0,
+              "curiosity": 20,
+              "short_and_clear": 15,
+              "fits_buyer": 6
+            },
+            "source": "gemini"
+          }
+        ],
+        "body": "This Christmas dumpling colouring book is made for children. Perfect for keeping little ones busy on rainy days, school holidays, travel, quiet time, party activities or screen-free fun without needing anything fancy.",
+        "ig_caption": "3 ways to stop boredom\n\nThis Christmas dumpling colouring book is made for children. Perfect for keeping little ones busy on rainy days, school holidays, travel, quiet time, party activities or screen-free fun without needing anything fancy.\n\nSave this for the next rainy day.\n\nFind them at thepolarbearsgrotto.co.uk",
+        "ask_kind": "save",
+        "caption_source": "gemini",
+        "pin_title": "Christmas dumpling colouring book for children",
+        "pin_description": "Christmas dumpling colouring book for children. Great for kids colouring books, festive activities, and screen-free fun during school holidays. thepolarbearsgrotto.co.uk",
+        "story_line": "Christmas dumpling colouring for children",
+        "tip": "Keep a spare book handy in the bag for unexpected waits.",
+        "tiktok_caption": "3 ways to stop boredom. This Christmas dumpling colouring book is made for children. thepolarbearsgrotto.co.uk #colouringbook #kidsactivities #stockingfillers #christmasgifts",
+        "ask_line": "Save this for the next rainy day",
+        "search_words": [
+          "colouring book",
+          "colouring",
+          "colour"
+        ],
+        "qc_score": 97,
+        "qc_parts": {
+          "hook": 27,
+          "search_words": 20,
+          "one_ask": 15,
+          "sounds_human": 15,
+          "visual": 10,
+          "channel_rules": 10
+        },
+        "qc_notes": []
+      },
+      "files": {
+        "video": "reel-Wed.mp4",
+        "cover": "reel-Wed-cover.jpg",
+        "cover_offset_ms": 14200,
+        "seconds": 18.0
+      },
+      "ai_label": true,
+      "link": "https://thepolarbearsgrotto.co.uk/collections/colouring-books"
+    },
+    {
+      "id": "reel-Thu",
+      "format": "reel",
+      "day": "2026-11-19",
+      "time": "18:30",
+      "video": "1NwK8hCilachlilTiT_0ARw1R6w8lN2p4",
+      "finished_photo": null,
+      "finished_video": null,
+      "item": {
+        "name": "Postage style labels - Christmas - Dinosaur - Making.mp4",
+        "title": "Postage style labels - Christmas - Dinosaur",
+        "product": "Personalised gift tags",
+        "kind": "video",
+        "mime": "video/mp4",
+        "size": 51578390,
+        "md5": "6a9b1131ce1938ba0ff431fb812cbe55",
+        "added": "2026-11-14",
+        "excluded": false,
+        "ai_made": false,
+        "missing": false
+      },
+      "season": {
+        "name": "Christmas",
+        "date": "2026-12-25",
+        "products": [
+          "gift tags",
+          "chocolate tub toppers",
+          "baubles",
+          "prints"
+        ],
+        "angle": "personal gifts without hand-writing labels; order in time (dispatched within 24 hours)"
+      },
+      "channels": [
+        "tiktok"
+      ],
+      "text": {
+        "hook": "100 presents and no time left",
+        "hook_score": 100,
+        "hook_options": [
+          {
+            "hook": "100 presents and no time left",
+            "score": 100,
+            "parts": {
+              "stakes": 30,
+              "specific_detail": 20,
+              "curiosity": 20,
+              "short_and_clear": 15,
+              "fits_buyer": 15
+            },
+            "source": "gemini"
+          },
+          {
+            "hook": "Nobody tells you how long 20 gift tags take to write",
+            "score": 100,
+            "parts": {
+              "stakes": 30,
+              "specific_detail": 20,
+              "curiosity": 20,
+              "short_and_clear": 15,
+              "fits_buyer": 15
+            },
+            "source": "template"
+          },
+          {
+            "hook": "30 presents, zero hand-written tags, one happy mum",
+            "score": 100,
+            "parts": {
+              "stakes": 30,
+              "specific_detail": 20,
+              "curiosity": 20,
+              "short_and_clear": 15,
+              "fits_buyer": 15
+            },
+            "source": "template"
+          },
+          {
+            "hook": "3 ways stick-on gift tags save you time when wrapping",
+            "score": 100,
+            "parts": {
+              "stakes": 30,
+              "specific_detail": 20,
+              "curiosity": 20,
+              "short_and_clear": 15,
+              "fits_buyer": 15
+            },
+            "source": "template"
+          },
+          {
+            "hook": "Stop wasting hours writing gift labels",
+            "score": 92,
+            "parts": {
+              "stakes": 30,
+              "specific_detail": 12,
+              "curiosity": 20,
+              "short_and_clear": 15,
+              "fits_buyer": 15
+            },
+            "source": "gemini"
+          }
+        ],
+        "body": "These printed Christmas postage style labels feature a dinosaur picture. They are just peel and stick with no hand-writing, made for busy mums wrapping lots of presents.",
+        "ig_caption": "100 presents and no time left\n\nThese printed Christmas postage style labels feature a dinosaur picture. They are just peel and stick with no hand-writing, made for busy mums wrapping lots of presents.\n\nSend this to the friend who still hand-writes every tag.\n\nFind them at thepolarbearsgrotto.co.uk",
+        "ask_kind": "send",
+        "caption_source": "gemini",
+        "pin_title": "Christmas postage labels for busy mums",
+        "pin_description": "Christmas postage labels with dinosaur pictures for busy mums wrapping lots of presents. Peel and stick gift tags with no hand-writing needed. Get your Christmas gift label stickers at thepolarbearsgrotto.co.uk.",
+        "story_line": "No hand-writing needed for Christmas gifts",
+        "tip": "Wrap presents as you buy them so you do not face a mountain on Christmas Eve.",
+        "tiktok_caption": "100 presents and no time left. These Christmas postage style labels are just peel and stick with no hand-writing, made for busy mums wrapping lots of presents. thepolarbearsgrotto.co.uk #ChristmasGiftTags #GiftLabels #ChristmasWrapping #StockingFillers",
+        "ask_line": "Send this to the friend who still hand-writes every tag",
+        "search_words": [
+          "label",
+          "tag",
+          "sticker"
+        ],
+        "qc_score": 100,
+        "qc_parts": {
+          "hook": 30,
+          "search_words": 20,
+          "one_ask": 15,
+          "sounds_human": 15,
+          "visual": 10,
+          "channel_rules": 10
+        },
+        "qc_notes": []
+      },
+      "files": {
+        "video": "reel-Thu.mp4",
+        "cover": "reel-Thu-cover.jpg",
+        "cover_offset_ms": 16600,
+        "seconds": 20.4
+      },
+      "ai_label": false,
+      "link": "https://thepolarbearsgrotto.co.uk/collections/personalised-christmas-postage-labels"
+    },
+    {
+      "id": "reel-Sat",
+      "format": "reel",
+      "day": "2026-11-21",
+      "time": "18:30",
+      "video": "1OuSQvselR9bDJXsMTRsLAL0vgIQOm87j",
+      "finished_photo": null,
+      "finished_video": null,
+      "item": {
+        "name": "Colouring Book - Capybara Christmas - Making.mp4",
+        "title": "Colouring Book - Capybara Christmas",
+        "product": "Colouring books",
+        "kind": "video",
+        "mime": "video/mp4",
+        "size": 30483570,
+        "md5": "f03ec150678b8ee15096a244427aeb20",
+        "added": "2026-11-14",
+        "excluded": false,
+        "ai_made": true
+      },
+      "season": {
+        "name": "Christmas",
+        "date": "2026-12-25",
+        "products": [
+          "gift tags",
+          "chocolate tub toppers",
+          "baubles",
+          "prints"
+        ],
+        "angle": "personal gifts without hand-writing labels; order in time (dispatched within 24 hours)"
+      },
+      "channels": [
+        "tiktok"
+      ],
+      "text": {
+        "hook": "3 rainy-day saves for the school holidays",
+        "hook_score": 91,
+        "hook_options": [
+          {
+            "hook": "3 rainy-day saves for the school holidays",
+            "score": 91,
+            "parts": {
+              "stakes": 30,
+              "specific_detail": 20,
+              "curiosity": 20,
+              "short_and_clear": 15,
+              "fits_buyer": 6
+            },
+            "source": "template"
+          },
+          {
+            "hook": "Nobody tells you how long the holidays feel",
+            "score": 71,
+            "parts": {
+              "stakes": 30,
+              "specific_detail": 0,
+              "curiosity": 20,
+              "short_and_clear": 15,
+              "fits_buyer": 6
+            },
+            "source": "gemini"
+          },
+          {
+            "hook": "Stop letting screens take over",
+            "score": 71,
+            "parts": {
+              "stakes": 30,
+              "specific_detail": 0,
+              "curiosity": 20,
+              "short_and_clear": 15,
+              "fits_buyer": 6
+            },
+            "source": "gemini"
+          },
+          {
+            "hook": "You don't have to fill every hour",
+            "score": 71,
+            "parts": {
+              "stakes": 30,
+              "specific_detail": 0,
+              "curiosity": 20,
+              "short_and_clear": 15,
+              "fits_buyer": 6
+            },
+            "source": "gemini"
+          },
+          {
+            "hook": "Stop handing over the tablet on long car journeys",
+            "score": 71,
+            "parts": {
+              "stakes": 30,
+              "specific_detail": 0,
+              "curiosity": 20,
+              "short_and_clear": 15,
+              "fits_buyer": 6
+            },
+            "source": "template"
+          }
+        ],
+        "body": "This capybara colouring book is full of festive pages. It is a lovely treat for Christmas time.",
+        "ig_caption": "3 rainy-day saves for the school holidays\n\nThis capybara colouring book is full of festive pages. It is a lovely treat for Christmas time.\n\nTell me in the comments: what's your rainy-day trick?\n\nFind them at thepolarbearsgrotto.co.uk",
+        "ask_kind": "comment",
+        "caption_source": "gemini",
+        "pin_title": "Capybara Christmas Colouring Book | The Polar Bear's Grotto",
+        "pin_description": "Capybara Christmas colouring book for cosy winter days. Festive colouring books make lovely gifts. Enjoy relaxing winter colouring at thepolarbearsgrotto.co.uk",
+        "story_line": "Cosy capybara Christmas colouring book",
+        "tip": "Pair a new book with a box of coloured pencils for an easy present.",
+        "tiktok_caption": "3 rainy-day saves for the school holidays. This festive capybara colouring book is a lovely way to spend a cosy evening. thepolarbearsgrotto.co.uk #capybaras #colouringbook #christmasgifts #stockingfillers",
+        "ask_line": "Tell me in the comments: what's your rainy-day trick?",
+        "search_words": [
+          "colouring",
+          "colouring book",
+          "colour"
+        ],
+        "qc_score": 97,
+        "qc_parts": {
+          "hook": 27,
+          "search_words": 20,
+          "one_ask": 15,
+          "sounds_human": 15,
+          "visual": 10,
+          "channel_rules": 10
+        },
+        "qc_notes": []
+      },
+      "files": {
+        "video": "reel-Sat.mp4",
+        "cover": "reel-Sat-cover.jpg",
+        "cover_offset_ms": 16600,
+        "seconds": 20.4
+      },
+      "ai_label": true,
+      "link": "https://thepolarbearsgrotto.co.uk/collections/colouring-books"
+    }
+  ],
+  "held": [],
+  "notes": [],
+  "library_left": {
+    "videos": 0,
+    "photos": 19
+  },
+  "live": true,
+  "extra": true
+}
