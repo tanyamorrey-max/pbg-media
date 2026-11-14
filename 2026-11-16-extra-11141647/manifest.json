@@ -1,0 +1,299 @@
+{
+  "week_start": "2026-11-16",
+  "season": {
+    "name": "Christmas",
+    "date": "2026-12-25",
+    "products": [
+      "gift tags",
+      "chocolate tub toppers",
+      "baubles",
+      "prints"
+    ],
+    "angle": "personal gifts without hand-writing labels; order in time (dispatched within 24 hours)"
+  },
+  "posts": [
+    {
+      "id": "reel-Mon",
+      "format": "reel",
+      "day": "2026-11-16",
+      "time": "18:30",
+      "video": "1TqmyrYlAqgXxixqkFvJXzrxNmiJMB1PH",
+      "finished_photo": null,
+      "finished_video": null,
+      "item": {
+        "name": "Colouring Books - Back to the 90s - Making.mp4",
+        "title": "Colouring Books - Back to the 90s",
+        "product": "Colouring books",
+        "kind": "video",
+        "mime": "video/mp4",
+        "size": 39012766,
+        "md5": "6eae72555eb384639faffd93358b6e1f",
+        "added": "2026-11-14",
+        "excluded": false,
+        "ai_made": true
+      },
+      "season": {
+        "name": "Christmas",
+        "date": "2026-12-25",
+        "products": [
+          "gift tags",
+          "chocolate tub toppers",
+          "baubles",
+          "prints"
+        ],
+        "angle": "personal gifts without hand-writing labels; order in time (dispatched within 24 hours)"
+      },
+      "channels": [
+        "tiktok"
+      ],
+      "text": {
+        "hook": "Nobody tells you how long Christmas journeys feel",
+        "hook_score": 80,
+        "hook_options": [
+          {
+            "hook": "3 rainy-day saves for the school holidays",
+            "score": 91,
+            "parts": {
+              "stakes": 30,
+              "specific_detail": 20,
+              "curiosity": 20,
+              "short_and_clear": 15,
+              "fits_buyer": 6
+            },
+            "source": "template"
+          },
+          {
+            "hook": "Nobody tells you how long Christmas journeys feel",
+            "score": 80,
+            "parts": {
+              "stakes": 30,
+              "specific_detail": 0,
+              "curiosity": 20,
+              "short_and_clear": 15,
+              "fits_buyer": 15
+            },
+            "source": "gemini"
+          },
+          {
+            "hook": "Stop stressing over screen time this Christmas",
+            "score": 80,
+            "parts": {
+              "stakes": 30,
+              "specific_detail": 0,
+              "curiosity": 20,
+              "short_and_clear": 15,
+              "fits_buyer": 15
+            },
+            "source": "gemini"
+          },
+          {
+            "hook": "Stop endless scrolling on Christmas journeys",
+            "score": 80,
+            "parts": {
+              "stakes": 30,
+              "specific_detail": 0,
+              "curiosity": 20,
+              "short_and_clear": 15,
+              "fits_buyer": 15
+            },
+            "source": "gemini"
+          },
+          {
+            "hook": "Nobody tells you how hard it is to switch off",
+            "score": 71,
+            "parts": {
+              "stakes": 30,
+              "specific_detail": 0,
+              "curiosity": 20,
+              "short_and_clear": 15,
+              "fits_buyer": 6
+            },
+            "source": "gemini"
+          }
+        ],
+        "body": "Colouring books are great for switching your brain off after a long day. Perfect for filling school holidays and long journeys with calm moments.",
+        "ig_caption": "Nobody tells you how long Christmas journeys feel\n\nColouring books are great for switching your brain off after a long day. Perfect for filling school holidays and long journeys with calm moments.\n\nSend this to someone who needs a rainy-day plan.\n\nFind them at thepolarbearsgrotto.co.uk",
+        "ask_kind": "send",
+        "caption_source": "gemini",
+        "pin_title": "Colouring books for Christmas at The Polar Bear's Grotto",
+        "pin_description": "Colouring books make lovely gifts for Christmas. Find fun themes to help switch off after a long day or keep little ones busy on journeys. Dispatched within 24 hours. UK only. thepolarbearsgrotto.co.uk",
+        "story_line": "Cosy Christmas colouring books",
+        "tip": "Pair a new book with nice pencils for a lovely Christmas present.",
+        "tiktok_caption": "Nobody tells you how long Christmas journeys feel. Fun colouring books to help you switch off or keep busy during the Christmas holidays. thepolarbearsgrotto.co.uk #colouringbook #colouringforadults #colouringfun #christmasgifts",
+        "ask_line": "Send this to someone who needs a rainy-day plan",
+        "search_words": [
+          "colouring",
+          "books",
+          "Christmas"
+        ],
+        "qc_score": 94,
+        "qc_parts": {
+          "hook": 24,
+          "search_words": 20,
+          "one_ask": 15,
+          "sounds_human": 15,
+          "visual": 10,
+          "channel_rules": 10
+        },
+        "qc_notes": []
+      },
+      "files": {
+        "video": "reel-Mon.mp4",
+        "cover": "reel-Mon-cover.jpg",
+        "cover_offset_ms": 16600,
+        "seconds": 20.4
+      },
+      "ai_label": true,
+      "link": "https://thepolarbearsgrotto.co.uk/collections/colouring-books"
+    },
+    {
+      "id": "reel-Sun",
+      "format": "reel",
+      "day": "2026-11-22",
+      "time": "18:30",
+      "video": "1ri0G5MzO4iRkXtJ1aiFPpJQm6GXKk6FV",
+      "finished_photo": null,
+      "finished_video": null,
+      "item": {
+        "name": "Colouring Book - Back to the 80's - Making.mp4",
+        "title": "Colouring Book - Back to the 80's",
+        "product": "Colouring books",
+        "kind": "video",
+        "mime": "video/mp4",
+        "size": 48013316,
+        "md5": "f4ae6ed801f495db6d7bd90ebf156032",
+        "added": "2026-11-14",
+        "excluded": false,
+        "ai_made": true
+      },
+      "season": {
+        "name": "Christmas",
+        "date": "2026-12-25",
+        "products": [
+          "gift tags",
+          "chocolate tub toppers",
+          "baubles",
+          "prints"
+        ],
+        "angle": "personal gifts without hand-writing labels; order in time (dispatched within 24 hours)"
+      },
+      "channels": [
+        "instagram",
+        "facebook",
+        "pinterest_video",
+        "tiktok"
+      ],
+      "text": {
+        "hook": "1 book for boring journeys",
+        "hook_score": 91,
+        "hook_options": [
+          {
+            "hook": "1 book for boring journeys",
+            "score": 91,
+            "parts": {
+              "stakes": 30,
+              "specific_detail": 20,
+              "curiosity": 20,
+              "short_and_clear": 15,
+              "fits_buyer": 6
+            },
+            "source": "gemini"
+          },
+          {
+            "hook": "3 rainy-day saves for the school holidays",
+            "score": 91,
+            "parts": {
+              "stakes": 30,
+              "specific_detail": 20,
+              "curiosity": 20,
+              "short_and_clear": 15,
+              "fits_buyer": 6
+            },
+            "source": "template"
+          },
+          {
+            "hook": "Nobody tells you how long the school holidays feel",
+            "score": 71,
+            "parts": {
+              "stakes": 30,
+              "specific_detail": 0,
+              "curiosity": 20,
+              "short_and_clear": 15,
+              "fits_buyer": 6
+            },
+            "source": "gemini"
+          },
+          {
+            "hook": "Stop letting screens take over the living room",
+            "score": 71,
+            "parts": {
+              "stakes": 30,
+              "specific_detail": 0,
+              "curiosity": 20,
+              "short_and_clear": 15,
+              "fits_buyer": 6
+            },
+            "source": "gemini"
+          },
+          {
+            "hook": "You don't have to dread rainy afternoons",
+            "score": 71,
+            "parts": {
+              "stakes": 30,
+              "specific_detail": 0,
+              "curiosity": 20,
+              "short_and_clear": 15,
+              "fits_buyer": 6
+            },
+            "source": "gemini"
+          }
+        ],
+        "body": "Get the Back to the 80s colouring book for some quiet time. It is full of fun pictures to fill with colour. Perfect for a cosy afternoon at home.",
+        "ig_caption": "1 book for boring journeys\n\nGet the Back to the 80s colouring book for some quiet time. It is full of fun pictures to fill with colour. Perfect for a cosy afternoon at home.\n\nTell me in the comments: what's your rainy-day trick?\n\nFind them at thepolarbearsgrotto.co.uk",
+        "ask_kind": "comment",
+        "caption_source": "gemini",
+        "pin_title": "Colouring book for the holidays from The Polar Bear's Grotto",
+        "pin_description": "Colouring book: Our Back to the 80's colouring book is perfect for keeping little ones busy on rainy days, school holidays, travel or quiet time. Screen-free fun without needing anything fancy. Dispatched within 24 hours, UK only. thepolarbearsgrotto.co.uk",
+        "story_line": "Retro colouring book for cosy days",
+        "tip": "Pop a colouring book into a stocking with some new pencils for a simple gift.",
+        "tiktok_caption": "1 book for boring journeys. Here is the 80s colouring book for quiet time at home. thepolarbearsgrotto.co.uk #colouringbook #80sstyle #stockingfillers #giftideas",
+        "ask_line": "Tell me in the comments: what's your rainy-day trick?",
+        "search_words": [
+          "colouring",
+          "colouring book",
+          "colour"
+        ],
+        "qc_score": 97,
+        "qc_parts": {
+          "hook": 27,
+          "search_words": 20,
+          "one_ask": 15,
+          "sounds_human": 15,
+          "visual": 10,
+          "channel_rules": 10
+        },
+        "qc_notes": []
+      },
+      "files": {
+        "video": "reel-Sun.mp4",
+        "cover": "reel-Sun-cover.jpg",
+        "cover_offset_ms": 16600,
+        "seconds": 20.4
+      },
+      "ai_label": true,
+      "link": "https://thepolarbearsgrotto.co.uk/collections/colouring-books"
+    }
+  ],
+  "held": [],
+  "notes": [
+    "Not enough unused videos for the Wed reel.",
+    "Not enough unused videos for the Thu reel.",
+    "Not enough unused videos for the Sat reel."
+  ],
+  "library_left": {
+    "videos": 0,
+    "photos": 19
+  },
+  "live": true,
+  "extra": true
+}
