@@ -1,0 +1,2291 @@
+{
+  "week_start": "2026-11-16",
+  "season": {
+    "name": "Christmas",
+    "date": "2026-12-25",
+    "products": [
+      "gift tags",
+      "chocolate tub toppers",
+      "baubles",
+      "prints"
+    ],
+    "angle": "personal gifts without hand-writing labels; order in time (dispatched within 24 hours)"
+  },
+  "posts": [
+    {
+      "id": "reel-Tue",
+      "format": "reel",
+      "day": "2026-11-17",
+      "time": "18:30",
+      "video": "1FQ7Ig3AFMTinuxZdYwZOAlClLlxpGD01",
+      "finished_photo": "1E9ueo8Vbin5MKb_OUOQl_eZecKDxf2i5",
+      "finished_video": null,
+      "item": {
+        "name": "Colouring Book - Squishy Dumpling - Finished.mp4",
+        "title": "Colouring Book - Squishy Dumpling",
+        "product": "Colouring books",
+        "kind": "video",
+        "mime": "video/mp4",
+        "size": 36480621,
+        "md5": "efa1e4085958f9ca7a382f7acbb49d3f",
+        "added": "2026-11-02",
+        "excluded": false,
+        "ai_made": true,
+        "missing": false
+      },
+      "season": {
+        "name": "Christmas",
+        "date": "2026-12-25",
+        "products": [
+          "gift tags",
+          "chocolate tub toppers",
+          "baubles",
+          "prints"
+        ],
+        "angle": "personal gifts without hand-writing labels; order in time (dispatched within 24 hours)"
+      },
+      "channels": [
+        "instagram",
+        "facebook",
+        "pinterest_video",
+        "tiktok"
+      ],
+      "text": {
+        "hook": "Stop buying boring gifts",
+        "hook_score": 80,
+        "hook_options": [
+          {
+            "hook": "3 ways to stop screen time",
+            "score": 91,
+            "parts": {
+              "stakes": 30,
+              "specific_detail": 20,
+              "curiosity": 20,
+              "short_and_clear": 15,
+              "fits_buyer": 6
+            },
+            "source": "gemini"
+          },
+          {
+            "hook": "3 rainy-day saves for the school holidays",
+            "score": 91,
+            "parts": {
+              "stakes": 30,
+              "specific_detail": 20,
+              "curiosity": 20,
+              "short_and_clear": 15,
+              "fits_buyer": 6
+            },
+            "source": "template"
+          },
+          {
+            "hook": "Stop buying boring gifts",
+            "score": 80,
+            "parts": {
+              "stakes": 30,
+              "specific_detail": 0,
+              "curiosity": 20,
+              "short_and_clear": 15,
+              "fits_buyer": 15
+            },
+            "source": "gemini"
+          },
+          {
+            "hook": "Nobody tells you how long school holidays feel",
+            "score": 71,
+            "parts": {
+              "stakes": 30,
+              "specific_detail": 0,
+              "curiosity": 20,
+              "short_and_clear": 15,
+              "fits_buyer": 6
+            },
+            "source": "gemini"
+          },
+          {
+            "hook": "You don't have to fill every single minute",
+            "score": 71,
+            "parts": {
+              "stakes": 30,
+              "specific_detail": 0,
+              "curiosity": 20,
+              "short_and_clear": 15,
+              "fits_buyer": 6
+            },
+            "source": "gemini"
+          }
+        ],
+        "body": "This squishy dumpling colouring book is perfect for children. It helps fill rainy days and school holidays.",
+        "ig_caption": "Stop buying boring gifts\n\nThis squishy dumpling colouring book is perfect for children. It helps fill rainy days and school holidays.\n\nSend this to someone who needs a rainy-day plan.\n\nFind them at thepolarbearsgrotto.co.uk",
+        "ask_kind": "send",
+        "caption_source": "gemini",
+        "pin_title": "Colouring book for children with squishy dumpling theme",
+        "pin_description": "Colouring book featuring a squishy dumpling design for children. Great for rainy days and school holidays. Fun activity book for kids. thepolarbearsgrotto.co.uk",
+        "story_line": "Squishy dumpling colouring book for children",
+        "tip": "Keep a spare colouring book in the bag for quiet time while out.",
+        "tiktok_caption": "Stop buying boring gifts. This squishy dumpling colouring book is made for children to enjoy on rainy days. thepolarbearsgrotto.co.uk #colouringbook #kidsactivities #colouring #childrensgift",
+        "ask_line": "Send this to someone who needs a rainy-day plan",
+        "search_words": [
+          "colouring",
+          "colouring book",
+          "colouring books"
+        ],
+        "qc_score": 94,
+        "qc_parts": {
+          "hook": 24,
+          "search_words": 20,
+          "one_ask": 15,
+          "sounds_human": 15,
+          "visual": 10,
+          "channel_rules": 10
+        },
+        "qc_notes": []
+      },
+      "files": {
+        "video": "reel-Tue.mp4",
+        "cover": "reel-Tue-cover.jpg",
+        "cover_offset_ms": 16600,
+        "seconds": 20.4
+      },
+      "ai_label": true,
+      "link": "https://thepolarbearsgrotto.co.uk/collections/colouring-books"
+    },
+    {
+      "id": "reel-Fri",
+      "format": "reel",
+      "day": "2026-11-20",
+      "time": "18:30",
+      "video": "1UJleXYsksRk5UTvZoQfC-uFOBO3yxpjH",
+      "finished_photo": "1HehiRQ9tkCvvgoaPXdtBYHZmSvob-9ph",
+      "finished_video": null,
+      "item": {
+        "name": "Colouring Book - Gamer - Finished.mp4",
+        "title": "Colouring Book - Gamer",
+        "product": "Colouring books",
+        "kind": "video",
+        "mime": "video/mp4",
+        "size": 35578323,
+        "md5": "19a62c41bcff1ac32578dfe892a3e970",
+        "added": "2026-11-02",
+        "excluded": false,
+        "ai_made": true,
+        "missing": false
+      },
+      "season": {
+        "name": "Christmas",
+        "date": "2026-12-25",
+        "products": [
+          "gift tags",
+          "chocolate tub toppers",
+          "baubles",
+          "prints"
+        ],
+        "angle": "personal gifts without hand-writing labels; order in time (dispatched within 24 hours)"
+      },
+      "channels": [
+        "instagram",
+        "facebook",
+        "pinterest_video",
+        "tiktok"
+      ],
+      "text": {
+        "hook": "3 screen-free rainy days with this gamer book",
+        "hook_score": 91,
+        "hook_options": [
+          {
+            "hook": "3 screen-free rainy days with this gamer book",
+            "score": 91,
+            "parts": {
+              "stakes": 30,
+              "specific_detail": 20,
+              "curiosity": 20,
+              "short_and_clear": 15,
+              "fits_buyer": 6
+            },
+            "source": "gemini"
+          },
+          {
+            "hook": "Nobody tells you how loud 2 bored gamers get",
+            "score": 91,
+            "parts": {
+              "stakes": 30,
+              "specific_detail": 20,
+              "curiosity": 20,
+              "short_and_clear": 15,
+              "fits_buyer": 6
+            },
+            "source": "gemini"
+          },
+          {
+            "hook": "1 gamer, 0 screens, 2 quiet hours at home",
+            "score": 91,
+            "parts": {
+              "stakes": 30,
+              "specific_detail": 20,
+              "curiosity": 20,
+              "short_and_clear": 15,
+              "fits_buyer": 6
+            },
+            "source": "gemini"
+          },
+          {
+            "hook": "5 rainy school holiday days without screens",
+            "score": 91,
+            "parts": {
+              "stakes": 30,
+              "specific_detail": 20,
+              "curiosity": 20,
+              "short_and_clear": 15,
+              "fits_buyer": 6
+            },
+            "source": "gemini"
+          },
+          {
+            "hook": "3 rainy-day saves for the school holidays",
+            "score": 91,
+            "parts": {
+              "stakes": 30,
+              "specific_detail": 20,
+              "curiosity": 20,
+              "short_and_clear": 15,
+              "fits_buyer": 6
+            },
+            "source": "template"
+          }
+        ],
+        "body": "This gamer colouring book is printed for children who love gaming. It gives little ones screen-free fun on rainy days, school holidays and long car trips without needing anything fancy. Kids can colour gaming pages whenever they need quiet time.",
+        "ig_caption": "3 screen-free rainy days with this gamer book\n\nThis gamer colouring book is printed for children who love gaming. It gives little ones screen-free fun on rainy days, school holidays and long car trips without needing anything fancy. Kids can colour gaming pages whenever they need quiet time.\n\nTell me in the comments: what's your rainy-day trick?\n\nFind them at thepolarbearsgrotto.co.uk",
+        "ask_kind": "comment",
+        "caption_source": "gemini",
+        "pin_title": "Gamer Colouring Book for Kids and Children",
+        "pin_description": "Gamer colouring book fun for children. Keep kids busy with screen-free fun and children colouring pages during school holidays or travel. Find fun colouring books for kids at thepolarbearsgrotto.co.uk",
+        "story_line": "Screen-free gamer colouring book for children",
+        "tip": "Pair a new colouring book with a fresh pack of felt tips for an instant Christmas activity.",
+        "tiktok_caption": "3 screen-free rainy days with this gamer book. This gamer colouring book is a fun printed activity book for children who love gaming. thepolarbearsgrotto.co.uk #gamercolouringbook #screenfreekids #colouringbookforkids #kidsactivitybook",
+        "ask_line": "Tell me in the comments: what's your rainy-day trick?",
+        "search_words": [
+          "gamer colouring book",
+          "screen-free fun",
+          "colour gaming pages"
+        ],
+        "qc_score": 97,
+        "qc_parts": {
+          "hook": 27,
+          "search_words": 20,
+          "one_ask": 15,
+          "sounds_human": 15,
+          "visual": 10,
+          "channel_rules": 10
+        },
+        "qc_notes": []
+      },
+      "files": {
+        "video": "reel-Fri.mp4",
+        "cover": "reel-Fri-cover.jpg",
+        "cover_offset_ms": 16600,
+        "seconds": 20.4
+      },
+      "ai_label": true,
+      "link": "https://thepolarbearsgrotto.co.uk/collections/colouring-books"
+    },
+    {
+      "id": "carousel-Wed",
+      "format": "carousel",
+      "day": "2026-11-18",
+      "time": "18:30",
+      "photos": [
+        "1RocQGfc3v6A50yiMDxzfCuvLYdVHgxIv",
+        "1H4GA8uPunO-NClyGtzTfzfwbtxSgfHF_"
+      ],
+      "item": {
+        "name": "Tub Topper - Christmas - Highland Cow - Finished.png",
+        "title": "Tub Topper - Christmas - Highland Cow",
+        "product": "Personalised chocolate tub stickers (toppers)",
+        "kind": "photo",
+        "mime": "image/png",
+        "size": 5869509,
+        "md5": "07e5a61f57b2d95e633ca5d57986a1be",
+        "added": "2026-11-02",
+        "excluded": false,
+        "ai_made": false,
+        "missing": false
+      },
+      "season": {
+        "name": "Christmas",
+        "date": "2026-12-25",
+        "products": [
+          "gift tags",
+          "chocolate tub toppers",
+          "baubles",
+          "prints"
+        ],
+        "angle": "personal gifts without hand-writing labels; order in time (dispatched within 24 hours)"
+      },
+      "channels": [
+        "instagram",
+        "facebook"
+      ],
+      "text": {
+        "hook": "3 chocolate tub stickers ordered for parents and siblings",
+        "hook_score": 100,
+        "hook_options": [
+          {
+            "hook": "3 chocolate tub stickers ordered for parents and siblings",
+            "score": 100,
+            "parts": {
+              "stakes": 30,
+              "specific_detail": 20,
+              "curiosity": 20,
+              "short_and_clear": 15,
+              "fits_buyer": 15
+            },
+            "source": "gemini"
+          },
+          {
+            "hook": "Stop hand-writing labels for Christmas chocolate tubs",
+            "score": 100,
+            "parts": {
+              "stakes": 30,
+              "specific_detail": 20,
+              "curiosity": 20,
+              "short_and_clear": 15,
+              "fits_buyer": 15
+            },
+            "source": "gemini"
+          },
+          {
+            "hook": "Stop handing over a plain chocolate tub this Christmas",
+            "score": 100,
+            "parts": {
+              "stakes": 30,
+              "specific_detail": 20,
+              "curiosity": 20,
+              "short_and_clear": 15,
+              "fits_buyer": 15
+            },
+            "source": "template"
+          },
+          {
+            "hook": "3 chocolate tubs, 3 family members, zero hand-written labels",
+            "score": 100,
+            "parts": {
+              "stakes": 30,
+              "specific_detail": 20,
+              "curiosity": 20,
+              "short_and_clear": 15,
+              "fits_buyer": 15
+            },
+            "source": "template"
+          },
+          {
+            "hook": "Nobody tells you a chocolate tub can feel this personal",
+            "score": 100,
+            "parts": {
+              "stakes": 30,
+              "specific_detail": 20,
+              "curiosity": 20,
+              "short_and_clear": 15,
+              "fits_buyer": 15
+            },
+            "source": "template"
+          }
+        ],
+        "body": "These stickers are made for mums and families giving chocolate tubs as gifts. A plain tub of chocolates feels like an afterthought, and hand-writing labels takes time. Add a name and a Highland Cow to your tub topper.",
+        "ig_caption": "3 chocolate tub stickers ordered for parents and siblings\n\nThese stickers are made for mums and families giving chocolate tubs as gifts. A plain tub of chocolates feels like an afterthought, and hand-writing labels takes time. Add a name and a Highland Cow to your tub topper.\n\nSave this so you have it in December.\n\nFind them at thepolarbearsgrotto.co.uk",
+        "ask_kind": "save",
+        "caption_source": "gemini",
+        "pin_title": "Personalised chocolate tub stickers for Christmas",
+        "pin_description": "Personalised chocolate tub stickers make great Christmas gifts for families. Turn a plain tub of chocolates into a personal gift with a Highland Cow topper. Order from The Polar Bear's Grotto at thepolarbearsgrotto.co.uk",
+        "story_line": "Personalised chocolate tub topper",
+        "tip": "Wrap your gifts early to avoid stress on Christmas Eve.",
+        "tiktok_caption": "3 chocolate tub stickers ordered for parents and siblings. Christmas Highland Cow tub topper, a personalised chocolate tub topper with their name and favourite thing on. Stick it on a tub and it's a personal gift in seconds. thepolarbearsgrotto.co.uk #personalisedgifts #chocolatetubtopper #giftideas #ukcraft",
+        "ask_line": "Save this so you have it in December",
+        "search_words": [
+          "chocolate tub stickers",
+          "tub topper",
+          "chocolate"
+        ],
+        "qc_score": 95,
+        "qc_parts": {
+          "hook": 30,
+          "search_words": 20,
+          "one_ask": 15,
+          "sounds_human": 10,
+          "visual": 10,
+          "channel_rules": 10
+        },
+        "qc_notes": [
+          "wording: repeats 'topper'"
+        ]
+      },
+      "files": {
+        "slides": [
+          "carousel-Wed-1.png",
+          "carousel-Wed-2.png",
+          "carousel-Wed-3.png",
+          "carousel-Wed-4.png",
+          "carousel-Wed-5.png"
+        ]
+      },
+      "ai_label": false,
+      "link": "https://thepolarbearsgrotto.co.uk/collections/personalised-confectionary-tub-stickers"
+    },
+    {
+      "id": "pin-Mon",
+      "format": "pin",
+      "day": "2026-11-16",
+      "time": "20:00",
+      "photo": "1O6Yym7qpQC9ZgTvWX9xqTTHLZH6sNLod",
+      "item": {
+        "name": "Colouring Book - Personalised - Finished.jpg",
+        "title": "Colouring Book - Personalised",
+        "product": "Colouring books",
+        "kind": "photo",
+        "mime": "image/jpeg",
+        "size": 1286299,
+        "md5": "b99c366592504bea2b63f83d9448d446",
+        "added": "2026-11-02",
+        "excluded": false,
+        "ai_made": true,
+        "missing": false
+      },
+      "season": {
+        "name": "Christmas",
+        "date": "2026-12-25",
+        "products": [
+          "gift tags",
+          "chocolate tub toppers",
+          "baubles",
+          "prints"
+        ],
+        "angle": "personal gifts without hand-writing labels; order in time (dispatched within 24 hours)"
+      },
+      "channels": [
+        "pinterest"
+      ],
+      "text": {
+        "hook": "1 wet afternoon and 2 bored children needing quiet fun",
+        "hook_score": 100,
+        "hook_options": [
+          {
+            "hook": "1 wet afternoon and 2 bored children needing quiet fun",
+            "score": 100,
+            "parts": {
+              "stakes": 30,
+              "specific_detail": 20,
+              "curiosity": 20,
+              "short_and_clear": 15,
+              "fits_buyer": 15
+            },
+            "source": "gemini"
+          },
+          {
+            "hook": "3 rainy-day saves for the school holidays",
+            "score": 91,
+            "parts": {
+              "stakes": 30,
+              "specific_detail": 20,
+              "curiosity": 20,
+              "short_and_clear": 15,
+              "fits_buyer": 6
+            },
+            "source": "template"
+          },
+          {
+            "hook": "Too many rainy days bring 4 hours of screen time",
+            "score": 79,
+            "parts": {
+              "stakes": 30,
+              "specific_detail": 20,
+              "curiosity": 8,
+              "short_and_clear": 15,
+              "fits_buyer": 6
+            },
+            "source": "gemini"
+          },
+          {
+            "hook": "Nobody tells you how hard switching off after a long day is",
+            "score": 71,
+            "parts": {
+              "stakes": 30,
+              "specific_detail": 0,
+              "curiosity": 20,
+              "short_and_clear": 15,
+              "fits_buyer": 6
+            },
+            "source": "gemini"
+          },
+          {
+            "hook": "Stop letting rainy school holidays turn into constant screen time",
+            "score": 71,
+            "parts": {
+              "stakes": 30,
+              "specific_detail": 0,
+              "curiosity": 20,
+              "short_and_clear": 15,
+              "fits_buyer": 6
+            },
+            "source": "gemini"
+          }
+        ],
+        "body": "This printed personalised colouring book can feature a child or adult name on the cover. It is made for children needing quiet fun or grown-ups wanting to switch off after work. The pages are printed and possibly made with AI.",
+        "ig_caption": "1 wet afternoon and 2 bored children needing quiet fun\n\nThis printed personalised colouring book can feature a child or adult name on the cover. It is made for children needing quiet fun or grown-ups wanting to switch off after work. The pages are printed and possibly made with AI.\n\nSend this to a parent with a long car journey coming up.\n\nFind them at thepolarbearsgrotto.co.uk",
+        "ask_kind": "send",
+        "caption_source": "gemini",
+        "pin_title": "Personalised Colouring Book for Children and Adults",
+        "pin_description": "Personalised colouring book with a name on the cover. Find lovely personalised gifts and screen-free colouring books for children or grown-ups. Perfect for relaxing at Christmas. Dispatched within 24 hours across the UK from thepolarbearsgrotto.co.uk",
+        "story_line": "A personalised colouring book with their name",
+        "tip": "Pair a colouring book with fresh colouring pencils for a ready-to-use gift on Christmas morning.",
+        "tiktok_caption": "1 wet afternoon and 2 bored children needing quiet fun. This personalised colouring book adds a name to the front and is made for children or grown-ups looking to unwind. thepolarbearsgrotto.co.uk #PersonalisedColouringBook #ColouringBook #ScreenFreeFun #ChristmasGiftsUK",
+        "ask_line": "Send this to a parent with a long car journey coming up",
+        "search_words": [
+          "personalised colouring book",
+          "colouring book",
+          "quiet fun"
+        ],
+        "qc_score": 95,
+        "qc_parts": {
+          "hook": 30,
+          "search_words": 20,
+          "one_ask": 15,
+          "sounds_human": 10,
+          "visual": 10,
+          "channel_rules": 10
+        },
+        "qc_notes": [
+          "wording: journey"
+        ]
+      },
+      "files": {
+        "image": "pin-Mon.png"
+      },
+      "ai_label": true,
+      "link": "https://thepolarbearsgrotto.co.uk/collections/colouring-books"
+    },
+    {
+      "id": "story-Mon",
+      "format": "story",
+      "day": "2026-11-16",
+      "time": "09:00",
+      "photo": "1O6Yym7qpQC9ZgTvWX9xqTTHLZH6sNLod",
+      "item": {
+        "name": "Colouring Book - Personalised - Finished.jpg",
+        "title": "Colouring Book - Personalised",
+        "product": "Colouring books",
+        "kind": "photo",
+        "mime": "image/jpeg",
+        "size": 1286299,
+        "md5": "b99c366592504bea2b63f83d9448d446",
+        "added": "2026-11-02",
+        "excluded": false,
+        "ai_made": true,
+        "missing": false
+      },
+      "season": {
+        "name": "Christmas",
+        "date": "2026-12-25",
+        "products": [
+          "gift tags",
+          "chocolate tub toppers",
+          "baubles",
+          "prints"
+        ],
+        "angle": "personal gifts without hand-writing labels; order in time (dispatched within 24 hours)"
+      },
+      "channels": [
+        "instagram_story"
+      ],
+      "text": {
+        "hook": "1 wet afternoon and 2 bored children needing quiet fun",
+        "hook_score": 100,
+        "hook_options": [
+          {
+            "hook": "1 wet afternoon and 2 bored children needing quiet fun",
+            "score": 100,
+            "parts": {
+              "stakes": 30,
+              "specific_detail": 20,
+              "curiosity": 20,
+              "short_and_clear": 15,
+              "fits_buyer": 15
+            },
+            "source": "gemini"
+          },
+          {
+            "hook": "3 rainy-day saves for the school holidays",
+            "score": 91,
+            "parts": {
+              "stakes": 30,
+              "specific_detail": 20,
+              "curiosity": 20,
+              "short_and_clear": 15,
+              "fits_buyer": 6
+            },
+            "source": "template"
+          },
+          {
+            "hook": "Too many rainy days bring 4 hours of screen time",
+            "score": 79,
+            "parts": {
+              "stakes": 30,
+              "specific_detail": 20,
+              "curiosity": 8,
+              "short_and_clear": 15,
+              "fits_buyer": 6
+            },
+            "source": "gemini"
+          },
+          {
+            "hook": "Nobody tells you how hard switching off after a long day is",
+            "score": 71,
+            "parts": {
+              "stakes": 30,
+              "specific_detail": 0,
+              "curiosity": 20,
+              "short_and_clear": 15,
+              "fits_buyer": 6
+            },
+            "source": "gemini"
+          },
+          {
+            "hook": "Stop letting rainy school holidays turn into constant screen time",
+            "score": 71,
+            "parts": {
+              "stakes": 30,
+              "specific_detail": 0,
+              "curiosity": 20,
+              "short_and_clear": 15,
+              "fits_buyer": 6
+            },
+            "source": "gemini"
+          }
+        ],
+        "body": "This printed personalised colouring book can feature a child or adult name on the cover. It is made for children needing quiet fun or grown-ups wanting to switch off after work. The pages are printed and possibly made with AI.",
+        "ig_caption": "1 wet afternoon and 2 bored children needing quiet fun\n\nThis printed personalised colouring book can feature a child or adult name on the cover. It is made for children needing quiet fun or grown-ups wanting to switch off after work. The pages are printed and possibly made with AI.\n\nSend this to a parent with a long car journey coming up.\n\nFind them at thepolarbearsgrotto.co.uk",
+        "ask_kind": "send",
+        "caption_source": "gemini",
+        "pin_title": "Personalised Colouring Book for Children and Adults",
+        "pin_description": "Personalised colouring book with a name on the cover. Find lovely personalised gifts and screen-free colouring books for children or grown-ups. Perfect for relaxing at Christmas. Dispatched within 24 hours across the UK from thepolarbearsgrotto.co.uk",
+        "story_line": "A personalised colouring book with their name",
+        "tip": "Pair a colouring book with fresh colouring pencils for a ready-to-use gift on Christmas morning.",
+        "tiktok_caption": "1 wet afternoon and 2 bored children needing quiet fun. This personalised colouring book adds a name to the front and is made for children or grown-ups looking to unwind. thepolarbearsgrotto.co.uk #PersonalisedColouringBook #ColouringBook #ScreenFreeFun #ChristmasGiftsUK",
+        "ask_line": "Send this to a parent with a long car journey coming up",
+        "search_words": [
+          "personalised colouring book",
+          "colouring book",
+          "quiet fun"
+        ],
+        "qc_score": 95,
+        "qc_parts": {
+          "hook": 30,
+          "search_words": 20,
+          "one_ask": 15,
+          "sounds_human": 10,
+          "visual": 10,
+          "channel_rules": 10
+        },
+        "qc_notes": [
+          "wording: journey"
+        ]
+      },
+      "files": {
+        "image": "story-Mon.png"
+      },
+      "ai_label": true,
+      "link": "https://thepolarbearsgrotto.co.uk/collections/colouring-books"
+    },
+    {
+      "id": "pin-Tue",
+      "format": "pin",
+      "day": "2026-11-17",
+      "time": "20:00",
+      "photo": "10y33z2BjeWFLOpHjfSQa8Ze_2JCZ43Bd",
+      "item": {
+        "name": "Tub Topper - Christmas - Pudding - Finished.png",
+        "title": "Tub Topper - Christmas - Pudding",
+        "product": "Personalised chocolate tub stickers (toppers)",
+        "kind": "photo",
+        "mime": "image/png",
+        "size": 4378874,
+        "md5": "bf7e2e54bc44e7fc86fdea0842a6a683",
+        "added": "2026-11-05",
+        "excluded": false,
+        "ai_made": false,
+        "missing": false
+      },
+      "season": {
+        "name": "Christmas",
+        "date": "2026-12-25",
+        "products": [
+          "gift tags",
+          "chocolate tub toppers",
+          "baubles",
+          "prints"
+        ],
+        "angle": "personal gifts without hand-writing labels; order in time (dispatched within 24 hours)"
+      },
+      "channels": [
+        "pinterest"
+      ],
+      "text": {
+        "hook": "3 ways to make a tub of chocolates personal",
+        "hook_score": 100,
+        "hook_options": [
+          {
+            "hook": "3 chocolate tub stickers ordered for parents and siblings",
+            "score": 100,
+            "parts": {
+              "stakes": 30,
+              "specific_detail": 20,
+              "curiosity": 20,
+              "short_and_clear": 15,
+              "fits_buyer": 15
+            },
+            "source": "gemini"
+          },
+          {
+            "hook": "3 ways to make a tub of chocolates personal",
+            "score": 100,
+            "parts": {
+              "stakes": 30,
+              "specific_detail": 20,
+              "curiosity": 20,
+              "short_and_clear": 15,
+              "fits_buyer": 15
+            },
+            "source": "gemini"
+          },
+          {
+            "hook": "Stop handing over a plain chocolate tub this Christmas",
+            "score": 100,
+            "parts": {
+              "stakes": 30,
+              "specific_detail": 20,
+              "curiosity": 20,
+              "short_and_clear": 15,
+              "fits_buyer": 15
+            },
+            "source": "template"
+          },
+          {
+            "hook": "3 chocolate tubs, 3 family members, zero hand-written labels",
+            "score": 100,
+            "parts": {
+              "stakes": 30,
+              "specific_detail": 20,
+              "curiosity": 20,
+              "short_and_clear": 15,
+              "fits_buyer": 15
+            },
+            "source": "template"
+          },
+          {
+            "hook": "Nobody tells you a chocolate tub can feel this personal",
+            "score": 100,
+            "parts": {
+              "stakes": 30,
+              "specific_detail": 20,
+              "curiosity": 20,
+              "short_and_clear": 15,
+              "fits_buyer": 15
+            },
+            "source": "template"
+          }
+        ],
+        "body": "These printed chocolate tub stickers go on top of a tub of chocolates with a name and favourite thing on. They are made for mums and families giving chocolate tubs as gifts.",
+        "ig_caption": "3 ways to make a tub of chocolates personal\n\nThese printed chocolate tub stickers go on top of a tub of chocolates with a name and favourite thing on. They are made for mums and families giving chocolate tubs as gifts.\n\nSend this to the mum who does it all.\n\nFind them at thepolarbearsgrotto.co.uk",
+        "ask_kind": "send",
+        "caption_source": "gemini",
+        "pin_title": "Chocolate tub sticker christmas pudding personal gift",
+        "pin_description": "Chocolate tub sticker for Christmas pudding. Personalised chocolate tub topper turns a plain tub into a thoughtful gift. Perfect for mums and families giving chocolate tubs. Dispatched within 24 hours. thepolarbearsgrotto.co.uk",
+        "story_line": "Turn a chocolate tub into a personal gift",
+        "tip": "Wrap your chocolate tub in clear film and tie it with a simple ribbon for a lovely finish.",
+        "tiktok_caption": "3 ways to make a tub of chocolates personal. Christmas Pudding tub topper, a personalised chocolate tub topper with their name and favourite thing on. Stick it on a tub and it's a personal gift in seconds. thepolarbearsgrotto.co.uk #personalisedgifts #chocolatetubtopper #giftideas #ukcraft",
+        "ask_line": "Send this to the mum who does it all",
+        "search_words": [
+          "chocolate tub stickers",
+          "tub of chocolates",
+          "chocolate tub topper"
+        ],
+        "qc_score": 95,
+        "qc_parts": {
+          "hook": 30,
+          "search_words": 20,
+          "one_ask": 15,
+          "sounds_human": 10,
+          "visual": 10,
+          "channel_rules": 10
+        },
+        "qc_notes": [
+          "wording: repeats 'topper'"
+        ]
+      },
+      "files": {
+        "image": "pin-Tue.png"
+      },
+      "ai_label": false,
+      "link": "https://thepolarbearsgrotto.co.uk/collections/personalised-confectionary-tub-stickers"
+    },
+    {
+      "id": "story-Tue",
+      "format": "story",
+      "day": "2026-11-17",
+      "time": "09:00",
+      "photo": "10y33z2BjeWFLOpHjfSQa8Ze_2JCZ43Bd",
+      "item": {
+        "name": "Tub Topper - Christmas - Pudding - Finished.png",
+        "title": "Tub Topper - Christmas - Pudding",
+        "product": "Personalised chocolate tub stickers (toppers)",
+        "kind": "photo",
+        "mime": "image/png",
+        "size": 4378874,
+        "md5": "bf7e2e54bc44e7fc86fdea0842a6a683",
+        "added": "2026-11-05",
+        "excluded": false,
+        "ai_made": false,
+        "missing": false
+      },
+      "season": {
+        "name": "Christmas",
+        "date": "2026-12-25",
+        "products": [
+          "gift tags",
+          "chocolate tub toppers",
+          "baubles",
+          "prints"
+        ],
+        "angle": "personal gifts without hand-writing labels; order in time (dispatched within 24 hours)"
+      },
+      "channels": [
+        "instagram_story"
+      ],
+      "text": {
+        "hook": "3 ways to make a tub of chocolates personal",
+        "hook_score": 100,
+        "hook_options": [
+          {
+            "hook": "3 chocolate tub stickers ordered for parents and siblings",
+            "score": 100,
+            "parts": {
+              "stakes": 30,
+              "specific_detail": 20,
+              "curiosity": 20,
+              "short_and_clear": 15,
+              "fits_buyer": 15
+            },
+            "source": "gemini"
+          },
+          {
+            "hook": "3 ways to make a tub of chocolates personal",
+            "score": 100,
+            "parts": {
+              "stakes": 30,
+              "specific_detail": 20,
+              "curiosity": 20,
+              "short_and_clear": 15,
+              "fits_buyer": 15
+            },
+            "source": "gemini"
+          },
+          {
+            "hook": "Stop handing over a plain chocolate tub this Christmas",
+            "score": 100,
+            "parts": {
+              "stakes": 30,
+              "specific_detail": 20,
+              "curiosity": 20,
+              "short_and_clear": 15,
+              "fits_buyer": 15
+            },
+            "source": "template"
+          },
+          {
+            "hook": "3 chocolate tubs, 3 family members, zero hand-written labels",
+            "score": 100,
+            "parts": {
+              "stakes": 30,
+              "specific_detail": 20,
+              "curiosity": 20,
+              "short_and_clear": 15,
+              "fits_buyer": 15
+            },
+            "source": "template"
+          },
+          {
+            "hook": "Nobody tells you a chocolate tub can feel this personal",
+            "score": 100,
+            "parts": {
+              "stakes": 30,
+              "specific_detail": 20,
+              "curiosity": 20,
+              "short_and_clear": 15,
+              "fits_buyer": 15
+            },
+            "source": "template"
+          }
+        ],
+        "body": "These printed chocolate tub stickers go on top of a tub of chocolates with a name and favourite thing on. They are made for mums and families giving chocolate tubs as gifts.",
+        "ig_caption": "3 ways to make a tub of chocolates personal\n\nThese printed chocolate tub stickers go on top of a tub of chocolates with a name and favourite thing on. They are made for mums and families giving chocolate tubs as gifts.\n\nSend this to the mum who does it all.\n\nFind them at thepolarbearsgrotto.co.uk",
+        "ask_kind": "send",
+        "caption_source": "gemini",
+        "pin_title": "Chocolate tub sticker christmas pudding personal gift",
+        "pin_description": "Chocolate tub sticker for Christmas pudding. Personalised chocolate tub topper turns a plain tub into a thoughtful gift. Perfect for mums and families giving chocolate tubs. Dispatched within 24 hours. thepolarbearsgrotto.co.uk",
+        "story_line": "Turn a chocolate tub into a personal gift",
+        "tip": "Wrap your chocolate tub in clear film and tie it with a simple ribbon for a lovely finish.",
+        "tiktok_caption": "3 ways to make a tub of chocolates personal. Christmas Pudding tub topper, a personalised chocolate tub topper with their name and favourite thing on. Stick it on a tub and it's a personal gift in seconds. thepolarbearsgrotto.co.uk #personalisedgifts #chocolatetubtopper #giftideas #ukcraft",
+        "ask_line": "Send this to the mum who does it all",
+        "search_words": [
+          "chocolate tub stickers",
+          "tub of chocolates",
+          "chocolate tub topper"
+        ],
+        "qc_score": 95,
+        "qc_parts": {
+          "hook": 30,
+          "search_words": 20,
+          "one_ask": 15,
+          "sounds_human": 10,
+          "visual": 10,
+          "channel_rules": 10
+        },
+        "qc_notes": [
+          "wording: repeats 'topper'"
+        ]
+      },
+      "files": {
+        "image": "story-Tue.png"
+      },
+      "ai_label": false,
+      "link": "https://thepolarbearsgrotto.co.uk/collections/personalised-confectionary-tub-stickers"
+    },
+    {
+      "id": "pin-Wed",
+      "format": "pin",
+      "day": "2026-11-18",
+      "time": "20:00",
+      "photo": "1XG05_vBwZDelICQhK3pSMd_EuL8xA_gw",
+      "item": {
+        "name": "Tub Topper - Christmas - Wreath - Finished.png",
+        "title": "Tub Topper - Christmas - Wreath",
+        "product": "Personalised chocolate tub stickers (toppers)",
+        "kind": "photo",
+        "mime": "image/png",
+        "size": 5034092,
+        "md5": "f472ca9a8cd38451c0414cc474d7c576",
+        "added": "2026-11-05",
+        "excluded": false,
+        "ai_made": false,
+        "missing": false
+      },
+      "season": {
+        "name": "Christmas",
+        "date": "2026-12-25",
+        "products": [
+          "gift tags",
+          "chocolate tub toppers",
+          "baubles",
+          "prints"
+        ],
+        "angle": "personal gifts without hand-writing labels; order in time (dispatched within 24 hours)"
+      },
+      "channels": [
+        "pinterest"
+      ],
+      "text": {
+        "hook": "3 chocolate tub stickers ordered to give to family",
+        "hook_score": 100,
+        "hook_options": [
+          {
+            "hook": "3 chocolate tub stickers ordered to give to family",
+            "score": 100,
+            "parts": {
+              "stakes": 30,
+              "specific_detail": 20,
+              "curiosity": 20,
+              "short_and_clear": 15,
+              "fits_buyer": 15
+            },
+            "source": "gemini"
+          },
+          {
+            "hook": "Stop handing over a plain chocolate tub this Christmas",
+            "score": 100,
+            "parts": {
+              "stakes": 30,
+              "specific_detail": 20,
+              "curiosity": 20,
+              "short_and_clear": 15,
+              "fits_buyer": 15
+            },
+            "source": "template"
+          },
+          {
+            "hook": "3 chocolate tubs, 3 family members, zero hand-written labels",
+            "score": 100,
+            "parts": {
+              "stakes": 30,
+              "specific_detail": 20,
+              "curiosity": 20,
+              "short_and_clear": 15,
+              "fits_buyer": 15
+            },
+            "source": "template"
+          },
+          {
+            "hook": "Nobody tells you a chocolate tub can feel this personal",
+            "score": 100,
+            "parts": {
+              "stakes": 30,
+              "specific_detail": 20,
+              "curiosity": 20,
+              "short_and_clear": 15,
+              "fits_buyer": 15
+            },
+            "source": "template"
+          },
+          {
+            "hook": "Nobody tells you how plain a tub of chocolates looks",
+            "score": 91,
+            "parts": {
+              "stakes": 30,
+              "specific_detail": 20,
+              "curiosity": 20,
+              "short_and_clear": 15,
+              "fits_buyer": 6
+            },
+            "source": "gemini"
+          }
+        ],
+        "body": "Christmas Wreath tub topper, a personalised chocolate tub topper with their name and favourite thing on. Stick it on a tub and it's a personal gift in seconds. Dispatched within 24 hours, UK only.",
+        "ig_caption": "3 chocolate tub stickers ordered to give to family\n\nChristmas Wreath tub topper, a personalised chocolate tub topper with their name and favourite thing on. Stick it on a tub and it's a personal gift in seconds. Dispatched within 24 hours, UK only.\n\nSend this to someone who always leaves wrapping to the last minute.\n\nFind them at thepolarbearsgrotto.co.uk",
+        "ask_kind": "send",
+        "caption_source": "template",
+        "pin_title": "Chocolate tub topper for Christmas gifts",
+        "pin_description": "Chocolate tub topper stickers for Christmas gifts. A plain tub of chocolates feels like an afterthought; hand-writing labels takes time. Personalised chocolate tub stickers with a name and favourite thing on top. thepolarbearsgrotto.co.uk",
+        "story_line": "Personalised chocolate tub topper",
+        "tip": "Wrap your chocolate tub early so you are not rushing on Christmas Eve.",
+        "tiktok_caption": "3 chocolate tub stickers ordered to give to family. Christmas Wreath tub topper, a personalised chocolate tub topper with their name and favourite thing on. Stick it on a tub and it's a personal gift in seconds. thepolarbearsgrotto.co.uk #personalisedgifts #chocolatetubtopper #giftideas #ukcraft",
+        "ask_line": "Send this to someone who always leaves wrapping to the last minute",
+        "search_words": [
+          "chocolate tub",
+          "topper",
+          "tub"
+        ],
+        "qc_score": 90,
+        "qc_parts": {
+          "hook": 30,
+          "search_words": 20,
+          "one_ask": 15,
+          "sounds_human": 5,
+          "visual": 10,
+          "channel_rules": 10
+        },
+        "qc_notes": [
+          "wording: repeats 'topper', repeats 'topper'"
+        ]
+      },
+      "files": {
+        "image": "pin-Wed.png"
+      },
+      "ai_label": false,
+      "link": "https://thepolarbearsgrotto.co.uk/collections/personalised-confectionary-tub-stickers"
+    },
+    {
+      "id": "story-Wed",
+      "format": "story",
+      "day": "2026-11-18",
+      "time": "09:00",
+      "photo": "1XG05_vBwZDelICQhK3pSMd_EuL8xA_gw",
+      "item": {
+        "name": "Tub Topper - Christmas - Wreath - Finished.png",
+        "title": "Tub Topper - Christmas - Wreath",
+        "product": "Personalised chocolate tub stickers (toppers)",
+        "kind": "photo",
+        "mime": "image/png",
+        "size": 5034092,
+        "md5": "f472ca9a8cd38451c0414cc474d7c576",
+        "added": "2026-11-05",
+        "excluded": false,
+        "ai_made": false,
+        "missing": false
+      },
+      "season": {
+        "name": "Christmas",
+        "date": "2026-12-25",
+        "products": [
+          "gift tags",
+          "chocolate tub toppers",
+          "baubles",
+          "prints"
+        ],
+        "angle": "personal gifts without hand-writing labels; order in time (dispatched within 24 hours)"
+      },
+      "channels": [
+        "instagram_story"
+      ],
+      "text": {
+        "hook": "3 chocolate tub stickers ordered to give to family",
+        "hook_score": 100,
+        "hook_options": [
+          {
+            "hook": "3 chocolate tub stickers ordered to give to family",
+            "score": 100,
+            "parts": {
+              "stakes": 30,
+              "specific_detail": 20,
+              "curiosity": 20,
+              "short_and_clear": 15,
+              "fits_buyer": 15
+            },
+            "source": "gemini"
+          },
+          {
+            "hook": "Stop handing over a plain chocolate tub this Christmas",
+            "score": 100,
+            "parts": {
+              "stakes": 30,
+              "specific_detail": 20,
+              "curiosity": 20,
+              "short_and_clear": 15,
+              "fits_buyer": 15
+            },
+            "source": "template"
+          },
+          {
+            "hook": "3 chocolate tubs, 3 family members, zero hand-written labels",
+            "score": 100,
+            "parts": {
+              "stakes": 30,
+              "specific_detail": 20,
+              "curiosity": 20,
+              "short_and_clear": 15,
+              "fits_buyer": 15
+            },
+            "source": "template"
+          },
+          {
+            "hook": "Nobody tells you a chocolate tub can feel this personal",
+            "score": 100,
+            "parts": {
+              "stakes": 30,
+              "specific_detail": 20,
+              "curiosity": 20,
+              "short_and_clear": 15,
+              "fits_buyer": 15
+            },
+            "source": "template"
+          },
+          {
+            "hook": "Nobody tells you how plain a tub of chocolates looks",
+            "score": 91,
+            "parts": {
+              "stakes": 30,
+              "specific_detail": 20,
+              "curiosity": 20,
+              "short_and_clear": 15,
+              "fits_buyer": 6
+            },
+            "source": "gemini"
+          }
+        ],
+        "body": "Christmas Wreath tub topper, a personalised chocolate tub topper with their name and favourite thing on. Stick it on a tub and it's a personal gift in seconds. Dispatched within 24 hours, UK only.",
+        "ig_caption": "3 chocolate tub stickers ordered to give to family\n\nChristmas Wreath tub topper, a personalised chocolate tub topper with their name and favourite thing on. Stick it on a tub and it's a personal gift in seconds. Dispatched within 24 hours, UK only.\n\nSend this to someone who always leaves wrapping to the last minute.\n\nFind them at thepolarbearsgrotto.co.uk",
+        "ask_kind": "send",
+        "caption_source": "template",
+        "pin_title": "Chocolate tub topper for Christmas gifts",
+        "pin_description": "Chocolate tub topper stickers for Christmas gifts. A plain tub of chocolates feels like an afterthought; hand-writing labels takes time. Personalised chocolate tub stickers with a name and favourite thing on top. thepolarbearsgrotto.co.uk",
+        "story_line": "Personalised chocolate tub topper",
+        "tip": "Wrap your chocolate tub early so you are not rushing on Christmas Eve.",
+        "tiktok_caption": "3 chocolate tub stickers ordered to give to family. Christmas Wreath tub topper, a personalised chocolate tub topper with their name and favourite thing on. Stick it on a tub and it's a personal gift in seconds. thepolarbearsgrotto.co.uk #personalisedgifts #chocolatetubtopper #giftideas #ukcraft",
+        "ask_line": "Send this to someone who always leaves wrapping to the last minute",
+        "search_words": [
+          "chocolate tub",
+          "topper",
+          "tub"
+        ],
+        "qc_score": 90,
+        "qc_parts": {
+          "hook": 30,
+          "search_words": 20,
+          "one_ask": 15,
+          "sounds_human": 5,
+          "visual": 10,
+          "channel_rules": 10
+        },
+        "qc_notes": [
+          "wording: repeats 'topper', repeats 'topper'"
+        ]
+      },
+      "files": {
+        "image": "story-Wed.png"
+      },
+      "ai_label": false,
+      "link": "https://thepolarbearsgrotto.co.uk/collections/personalised-confectionary-tub-stickers"
+    },
+    {
+      "id": "pin-Thu",
+      "format": "pin",
+      "day": "2026-11-19",
+      "time": "20:00",
+      "photo": "1kiusAwf8HzMnOQmEYnYQlFb6yTn6MvgZ",
+      "item": {
+        "name": "Tub Topper - Christmas - Gonk - Finished",
+        "title": "Tub Topper - Christmas - Gonk",
+        "product": "Personalised chocolate tub stickers (toppers)",
+        "kind": "photo",
+        "mime": "image/png",
+        "size": 4188297,
+        "md5": "c00731fed6c1fa186c92f2e0cbb96174",
+        "added": "2026-11-05",
+        "excluded": false,
+        "ai_made": false,
+        "missing": false
+      },
+      "season": {
+        "name": "Christmas",
+        "date": "2026-12-25",
+        "products": [
+          "gift tags",
+          "chocolate tub toppers",
+          "baubles",
+          "prints"
+        ],
+        "angle": "personal gifts without hand-writing labels; order in time (dispatched within 24 hours)"
+      },
+      "channels": [
+        "pinterest"
+      ],
+      "text": {
+        "hook": "Stop giving plain tubs of chocolates this Christmas",
+        "hook_score": 100,
+        "hook_options": [
+          {
+            "hook": "Stop giving plain tubs of chocolates this Christmas",
+            "score": 100,
+            "parts": {
+              "stakes": 30,
+              "specific_detail": 20,
+              "curiosity": 20,
+              "short_and_clear": 15,
+              "fits_buyer": 15
+            },
+            "source": "gemini"
+          },
+          {
+            "hook": "1 a mum ordered three chocolate tub stickers for her family",
+            "score": 100,
+            "parts": {
+              "stakes": 30,
+              "specific_detail": 20,
+              "curiosity": 20,
+              "short_and_clear": 15,
+              "fits_buyer": 15
+            },
+            "source": "gemini"
+          },
+          {
+            "hook": "Stop handing over a plain chocolate tub this Christmas",
+            "score": 100,
+            "parts": {
+              "stakes": 30,
+              "specific_detail": 20,
+              "curiosity": 20,
+              "short_and_clear": 15,
+              "fits_buyer": 15
+            },
+            "source": "template"
+          },
+          {
+            "hook": "3 chocolate tubs, 3 family members, zero hand-written labels",
+            "score": 100,
+            "parts": {
+              "stakes": 30,
+              "specific_detail": 20,
+              "curiosity": 20,
+              "short_and_clear": 15,
+              "fits_buyer": 15
+            },
+            "source": "template"
+          },
+          {
+            "hook": "Nobody tells you a chocolate tub can feel this personal",
+            "score": 100,
+            "parts": {
+              "stakes": 30,
+              "specific_detail": 20,
+              "curiosity": 20,
+              "short_and_clear": 15,
+              "fits_buyer": 15
+            },
+            "source": "template"
+          }
+        ],
+        "body": "Christmas Gonk tub topper, a personalised chocolate tub topper with their name and favourite thing on. Stick it on a tub and it's a personal gift in seconds. Dispatched within 24 hours, UK only.",
+        "ig_caption": "Stop giving plain tubs of chocolates this Christmas\n\nChristmas Gonk tub topper, a personalised chocolate tub topper with their name and favourite thing on. Stick it on a tub and it's a personal gift in seconds. Dispatched within 24 hours, UK only.\n\nSend this to someone who always leaves wrapping to the last minute.\n\nFind them at thepolarbearsgrotto.co.uk",
+        "ask_kind": "send",
+        "caption_source": "template",
+        "pin_title": "Chocolate tub sticker for Christmas gifts",
+        "pin_description": "Chocolate tub sticker for Christmas gifts. Turn a plain tub of chocolates into a personal gift with our printed topper. Perfect for mums and families giving chocolate tubs as gifts. Dispatched within 24 hours to the UK. thepolarbearsgrotto.co.uk",
+        "story_line": "Turn your chocolate tub into a personal gift",
+        "tip": "Wrap your chocolate tub sticker early so you are ready for Christmas.",
+        "tiktok_caption": "Stop giving plain tubs of chocolates this Christmas. Christmas Gonk tub topper, a personalised chocolate tub topper with their name and favourite thing on. Stick it on a tub and it's a personal gift in seconds. thepolarbearsgrotto.co.uk #personalisedgifts #chocolatetubtopper #giftideas #ukcraft",
+        "ask_line": "Send this to someone who always leaves wrapping to the last minute",
+        "search_words": [
+          "chocolate tub",
+          "tub",
+          "topper"
+        ],
+        "qc_score": 90,
+        "qc_parts": {
+          "hook": 30,
+          "search_words": 20,
+          "one_ask": 15,
+          "sounds_human": 5,
+          "visual": 10,
+          "channel_rules": 10
+        },
+        "qc_notes": [
+          "wording: repeats 'topper', repeats 'topper'"
+        ]
+      },
+      "files": {
+        "image": "pin-Thu.png"
+      },
+      "ai_label": false,
+      "link": "https://thepolarbearsgrotto.co.uk/collections/personalised-confectionary-tub-stickers"
+    },
+    {
+      "id": "story-Thu",
+      "format": "story",
+      "day": "2026-11-19",
+      "time": "09:00",
+      "photo": "1kiusAwf8HzMnOQmEYnYQlFb6yTn6MvgZ",
+      "item": {
+        "name": "Tub Topper - Christmas - Gonk - Finished",
+        "title": "Tub Topper - Christmas - Gonk",
+        "product": "Personalised chocolate tub stickers (toppers)",
+        "kind": "photo",
+        "mime": "image/png",
+        "size": 4188297,
+        "md5": "c00731fed6c1fa186c92f2e0cbb96174",
+        "added": "2026-11-05",
+        "excluded": false,
+        "ai_made": false,
+        "missing": false
+      },
+      "season": {
+        "name": "Christmas",
+        "date": "2026-12-25",
+        "products": [
+          "gift tags",
+          "chocolate tub toppers",
+          "baubles",
+          "prints"
+        ],
+        "angle": "personal gifts without hand-writing labels; order in time (dispatched within 24 hours)"
+      },
+      "channels": [
+        "instagram_story"
+      ],
+      "text": {
+        "hook": "Stop giving plain tubs of chocolates this Christmas",
+        "hook_score": 100,
+        "hook_options": [
+          {
+            "hook": "Stop giving plain tubs of chocolates this Christmas",
+            "score": 100,
+            "parts": {
+              "stakes": 30,
+              "specific_detail": 20,
+              "curiosity": 20,
+              "short_and_clear": 15,
+              "fits_buyer": 15
+            },
+            "source": "gemini"
+          },
+          {
+            "hook": "1 a mum ordered three chocolate tub stickers for her family",
+            "score": 100,
+            "parts": {
+              "stakes": 30,
+              "specific_detail": 20,
+              "curiosity": 20,
+              "short_and_clear": 15,
+              "fits_buyer": 15
+            },
+            "source": "gemini"
+          },
+          {
+            "hook": "Stop handing over a plain chocolate tub this Christmas",
+            "score": 100,
+            "parts": {
+              "stakes": 30,
+              "specific_detail": 20,
+              "curiosity": 20,
+              "short_and_clear": 15,
+              "fits_buyer": 15
+            },
+            "source": "template"
+          },
+          {
+            "hook": "3 chocolate tubs, 3 family members, zero hand-written labels",
+            "score": 100,
+            "parts": {
+              "stakes": 30,
+              "specific_detail": 20,
+              "curiosity": 20,
+              "short_and_clear": 15,
+              "fits_buyer": 15
+            },
+            "source": "template"
+          },
+          {
+            "hook": "Nobody tells you a chocolate tub can feel this personal",
+            "score": 100,
+            "parts": {
+              "stakes": 30,
+              "specific_detail": 20,
+              "curiosity": 20,
+              "short_and_clear": 15,
+              "fits_buyer": 15
+            },
+            "source": "template"
+          }
+        ],
+        "body": "Christmas Gonk tub topper, a personalised chocolate tub topper with their name and favourite thing on. Stick it on a tub and it's a personal gift in seconds. Dispatched within 24 hours, UK only.",
+        "ig_caption": "Stop giving plain tubs of chocolates this Christmas\n\nChristmas Gonk tub topper, a personalised chocolate tub topper with their name and favourite thing on. Stick it on a tub and it's a personal gift in seconds. Dispatched within 24 hours, UK only.\n\nSend this to someone who always leaves wrapping to the last minute.\n\nFind them at thepolarbearsgrotto.co.uk",
+        "ask_kind": "send",
+        "caption_source": "template",
+        "pin_title": "Chocolate tub sticker for Christmas gifts",
+        "pin_description": "Chocolate tub sticker for Christmas gifts. Turn a plain tub of chocolates into a personal gift with our printed topper. Perfect for mums and families giving chocolate tubs as gifts. Dispatched within 24 hours to the UK. thepolarbearsgrotto.co.uk",
+        "story_line": "Turn your chocolate tub into a personal gift",
+        "tip": "Wrap your chocolate tub sticker early so you are ready for Christmas.",
+        "tiktok_caption": "Stop giving plain tubs of chocolates this Christmas. Christmas Gonk tub topper, a personalised chocolate tub topper with their name and favourite thing on. Stick it on a tub and it's a personal gift in seconds. thepolarbearsgrotto.co.uk #personalisedgifts #chocolatetubtopper #giftideas #ukcraft",
+        "ask_line": "Send this to someone who always leaves wrapping to the last minute",
+        "search_words": [
+          "chocolate tub",
+          "tub",
+          "topper"
+        ],
+        "qc_score": 90,
+        "qc_parts": {
+          "hook": 30,
+          "search_words": 20,
+          "one_ask": 15,
+          "sounds_human": 5,
+          "visual": 10,
+          "channel_rules": 10
+        },
+        "qc_notes": [
+          "wording: repeats 'topper', repeats 'topper'"
+        ]
+      },
+      "files": {
+        "image": "story-Thu.png"
+      },
+      "ai_label": false,
+      "link": "https://thepolarbearsgrotto.co.uk/collections/personalised-confectionary-tub-stickers"
+    },
+    {
+      "id": "pin-Fri",
+      "format": "pin",
+      "day": "2026-11-20",
+      "time": "20:00",
+      "photo": "1f4Bw0ZtIN4bQBKSYQH0N6880w6-TREOV",
+      "item": {
+        "name": "Tub Topper - Christmas - Cosy Christmas Fireplace - Finished",
+        "title": "Tub Topper - Christmas - Cosy Christmas Fireplace",
+        "product": "Personalised chocolate tub stickers (toppers)",
+        "kind": "photo",
+        "mime": "image/png",
+        "size": 4299487,
+        "md5": "c45e8464183e03d8254279c4180b82e0",
+        "added": "2026-11-05",
+        "excluded": false,
+        "ai_made": false,
+        "missing": false
+      },
+      "season": {
+        "name": "Christmas",
+        "date": "2026-12-25",
+        "products": [
+          "gift tags",
+          "chocolate tub toppers",
+          "baubles",
+          "prints"
+        ],
+        "angle": "personal gifts without hand-writing labels; order in time (dispatched within 24 hours)"
+      },
+      "channels": [
+        "pinterest"
+      ],
+      "text": {
+        "hook": "Stop giving plain chocolate tubs this Christmas",
+        "hook_score": 100,
+        "hook_options": [
+          {
+            "hook": "Stop giving plain chocolate tubs this Christmas",
+            "score": 100,
+            "parts": {
+              "stakes": 30,
+              "specific_detail": 20,
+              "curiosity": 20,
+              "short_and_clear": 15,
+              "fits_buyer": 15
+            },
+            "source": "gemini"
+          },
+          {
+            "hook": "Stop handing over a plain chocolate tub this Christmas",
+            "score": 100,
+            "parts": {
+              "stakes": 30,
+              "specific_detail": 20,
+              "curiosity": 20,
+              "short_and_clear": 15,
+              "fits_buyer": 15
+            },
+            "source": "template"
+          },
+          {
+            "hook": "3 chocolate tubs, 3 family members, zero hand-written labels",
+            "score": 100,
+            "parts": {
+              "stakes": 30,
+              "specific_detail": 20,
+              "curiosity": 20,
+              "short_and_clear": 15,
+              "fits_buyer": 15
+            },
+            "source": "template"
+          },
+          {
+            "hook": "Nobody tells you a chocolate tub can feel this personal",
+            "score": 100,
+            "parts": {
+              "stakes": 30,
+              "specific_detail": 20,
+              "curiosity": 20,
+              "short_and_clear": 15,
+              "fits_buyer": 15
+            },
+            "source": "template"
+          },
+          {
+            "hook": "Nobody tells you how hard it is to make a tub of chocolates feel personal",
+            "score": 92,
+            "parts": {
+              "stakes": 30,
+              "specific_detail": 20,
+              "curiosity": 20,
+              "short_and_clear": 7,
+              "fits_buyer": 15
+            },
+            "source": "gemini"
+          }
+        ],
+        "body": "Christmas Cosy Christmas Fireplace tub topper, a personalised chocolate tub topper with their name and favourite thing on. Stick it on a tub and it's a personal gift in seconds. Dispatched within 24 hours, UK only.",
+        "ig_caption": "Stop giving plain chocolate tubs this Christmas\n\nChristmas Cosy Christmas Fireplace tub topper, a personalised chocolate tub topper with their name and favourite thing on. Stick it on a tub and it's a personal gift in seconds. Dispatched within 24 hours, UK only.\n\nSend this to someone who always leaves wrapping to the last minute.\n\nFind them at thepolarbearsgrotto.co.uk",
+        "ask_kind": "send",
+        "caption_source": "template",
+        "pin_title": "Personalised chocolate tub stickers for Christmas",
+        "pin_description": "Personalised chocolate tub stickers make a great Christmas gift for family. Turn a plain tub into a personal present with a chocolate topper. thepolarbearsgrotto.co.uk",
+        "story_line": "Turn your chocolate tub into a personal gift",
+        "tip": "Wrap your gift early so you can relax on Christmas Day.",
+        "tiktok_caption": "Stop giving plain chocolate tubs this Christmas. Christmas Cosy Christmas Fireplace tub topper, a personalised chocolate tub topper with their name and favourite thing on. Stick it on a tub and it's a personal gift in seconds. thepolarbearsgrotto.co.uk #personalisedgifts #chocolatetubtopper #giftideas #ukcraft",
+        "ask_line": "Send this to someone who always leaves wrapping to the last minute",
+        "search_words": [
+          "tub",
+          "topper",
+          "chocolate"
+        ],
+        "qc_score": 90,
+        "qc_parts": {
+          "hook": 30,
+          "search_words": 20,
+          "one_ask": 15,
+          "sounds_human": 5,
+          "visual": 10,
+          "channel_rules": 10
+        },
+        "qc_notes": [
+          "wording: repeats 'topper', repeats 'topper'"
+        ]
+      },
+      "files": {
+        "image": "pin-Fri.png"
+      },
+      "ai_label": false,
+      "link": "https://thepolarbearsgrotto.co.uk/collections/personalised-confectionary-tub-stickers"
+    },
+    {
+      "id": "story-Fri",
+      "format": "story",
+      "day": "2026-11-20",
+      "time": "09:00",
+      "photo": "1f4Bw0ZtIN4bQBKSYQH0N6880w6-TREOV",
+      "item": {
+        "name": "Tub Topper - Christmas - Cosy Christmas Fireplace - Finished",
+        "title": "Tub Topper - Christmas - Cosy Christmas Fireplace",
+        "product": "Personalised chocolate tub stickers (toppers)",
+        "kind": "photo",
+        "mime": "image/png",
+        "size": 4299487,
+        "md5": "c45e8464183e03d8254279c4180b82e0",
+        "added": "2026-11-05",
+        "excluded": false,
+        "ai_made": false,
+        "missing": false
+      },
+      "season": {
+        "name": "Christmas",
+        "date": "2026-12-25",
+        "products": [
+          "gift tags",
+          "chocolate tub toppers",
+          "baubles",
+          "prints"
+        ],
+        "angle": "personal gifts without hand-writing labels; order in time (dispatched within 24 hours)"
+      },
+      "channels": [
+        "instagram_story"
+      ],
+      "text": {
+        "hook": "Stop giving plain chocolate tubs this Christmas",
+        "hook_score": 100,
+        "hook_options": [
+          {
+            "hook": "Stop giving plain chocolate tubs this Christmas",
+            "score": 100,
+            "parts": {
+              "stakes": 30,
+              "specific_detail": 20,
+              "curiosity": 20,
+              "short_and_clear": 15,
+              "fits_buyer": 15
+            },
+            "source": "gemini"
+          },
+          {
+            "hook": "Stop handing over a plain chocolate tub this Christmas",
+            "score": 100,
+            "parts": {
+              "stakes": 30,
+              "specific_detail": 20,
+              "curiosity": 20,
+              "short_and_clear": 15,
+              "fits_buyer": 15
+            },
+            "source": "template"
+          },
+          {
+            "hook": "3 chocolate tubs, 3 family members, zero hand-written labels",
+            "score": 100,
+            "parts": {
+              "stakes": 30,
+              "specific_detail": 20,
+              "curiosity": 20,
+              "short_and_clear": 15,
+              "fits_buyer": 15
+            },
+            "source": "template"
+          },
+          {
+            "hook": "Nobody tells you a chocolate tub can feel this personal",
+            "score": 100,
+            "parts": {
+              "stakes": 30,
+              "specific_detail": 20,
+              "curiosity": 20,
+              "short_and_clear": 15,
+              "fits_buyer": 15
+            },
+            "source": "template"
+          },
+          {
+            "hook": "Nobody tells you how hard it is to make a tub of chocolates feel personal",
+            "score": 92,
+            "parts": {
+              "stakes": 30,
+              "specific_detail": 20,
+              "curiosity": 20,
+              "short_and_clear": 7,
+              "fits_buyer": 15
+            },
+            "source": "gemini"
+          }
+        ],
+        "body": "Christmas Cosy Christmas Fireplace tub topper, a personalised chocolate tub topper with their name and favourite thing on. Stick it on a tub and it's a personal gift in seconds. Dispatched within 24 hours, UK only.",
+        "ig_caption": "Stop giving plain chocolate tubs this Christmas\n\nChristmas Cosy Christmas Fireplace tub topper, a personalised chocolate tub topper with their name and favourite thing on. Stick it on a tub and it's a personal gift in seconds. Dispatched within 24 hours, UK only.\n\nSend this to someone who always leaves wrapping to the last minute.\n\nFind them at thepolarbearsgrotto.co.uk",
+        "ask_kind": "send",
+        "caption_source": "template",
+        "pin_title": "Personalised chocolate tub stickers for Christmas",
+        "pin_description": "Personalised chocolate tub stickers make a great Christmas gift for family. Turn a plain tub into a personal present with a chocolate topper. thepolarbearsgrotto.co.uk",
+        "story_line": "Turn your chocolate tub into a personal gift",
+        "tip": "Wrap your gift early so you can relax on Christmas Day.",
+        "tiktok_caption": "Stop giving plain chocolate tubs this Christmas. Christmas Cosy Christmas Fireplace tub topper, a personalised chocolate tub topper with their name and favourite thing on. Stick it on a tub and it's a personal gift in seconds. thepolarbearsgrotto.co.uk #personalisedgifts #chocolatetubtopper #giftideas #ukcraft",
+        "ask_line": "Send this to someone who always leaves wrapping to the last minute",
+        "search_words": [
+          "tub",
+          "topper",
+          "chocolate"
+        ],
+        "qc_score": 90,
+        "qc_parts": {
+          "hook": 30,
+          "search_words": 20,
+          "one_ask": 15,
+          "sounds_human": 5,
+          "visual": 10,
+          "channel_rules": 10
+        },
+        "qc_notes": [
+          "wording: repeats 'topper', repeats 'topper'"
+        ]
+      },
+      "files": {
+        "image": "story-Fri.png"
+      },
+      "ai_label": false,
+      "link": "https://thepolarbearsgrotto.co.uk/collections/personalised-confectionary-tub-stickers"
+    },
+    {
+      "id": "pin-Sat",
+      "format": "pin",
+      "day": "2026-11-21",
+      "time": "20:00",
+      "photo": "1Ql89c01_Y49pm8W6FGQL0iW67zwSycov",
+      "item": {
+        "name": "Tub Topper - Christmas - Sweet Jar - Finished.png",
+        "title": "Tub Topper - Christmas - Sweet Jar",
+        "product": "Personalised chocolate tub stickers (toppers)",
+        "kind": "photo",
+        "mime": "image/png",
+        "size": 3769479,
+        "md5": "1410bef6d4fda7203eba36a1ab3c1a2c",
+        "added": "2026-11-05",
+        "excluded": false,
+        "ai_made": false,
+        "missing": false
+      },
+      "season": {
+        "name": "Christmas",
+        "date": "2026-12-25",
+        "products": [
+          "gift tags",
+          "chocolate tub toppers",
+          "baubles",
+          "prints"
+        ],
+        "angle": "personal gifts without hand-writing labels; order in time (dispatched within 24 hours)"
+      },
+      "channels": [
+        "pinterest"
+      ],
+      "text": {
+        "hook": "1 simple chocolate tub sticker transforms a plain gift into something special",
+        "hook_score": 100,
+        "hook_options": [
+          {
+            "hook": "Stop giving plain chocolate tubs that look like every other gift",
+            "score": 100,
+            "parts": {
+              "stakes": 30,
+              "specific_detail": 20,
+              "curiosity": 20,
+              "short_and_clear": 15,
+              "fits_buyer": 15
+            },
+            "source": "gemini"
+          },
+          {
+            "hook": "1 simple chocolate tub sticker transforms a plain gift into something special",
+            "score": 100,
+            "parts": {
+              "stakes": 30,
+              "specific_detail": 20,
+              "curiosity": 20,
+              "short_and_clear": 15,
+              "fits_buyer": 15
+            },
+            "source": "gemini"
+          },
+          {
+            "hook": "Stop handing over a plain chocolate tub this Christmas",
+            "score": 100,
+            "parts": {
+              "stakes": 30,
+              "specific_detail": 20,
+              "curiosity": 20,
+              "short_and_clear": 15,
+              "fits_buyer": 15
+            },
+            "source": "template"
+          },
+          {
+            "hook": "3 chocolate tubs, 3 family members, zero hand-written labels",
+            "score": 100,
+            "parts": {
+              "stakes": 30,
+              "specific_detail": 20,
+              "curiosity": 20,
+              "short_and_clear": 15,
+              "fits_buyer": 15
+            },
+            "source": "template"
+          },
+          {
+            "hook": "Nobody tells you a chocolate tub can feel this personal",
+            "score": 100,
+            "parts": {
+              "stakes": 30,
+              "specific_detail": 20,
+              "curiosity": 20,
+              "short_and_clear": 15,
+              "fits_buyer": 15
+            },
+            "source": "template"
+          }
+        ],
+        "body": "Christmas Sweet Jar tub topper, a personalised chocolate tub topper with their name and favourite thing on. Stick it on a tub and it's a personal gift in seconds. Dispatched within 24 hours, UK only.",
+        "ig_caption": "1 simple chocolate tub sticker transforms a plain gift into something special\n\nChristmas Sweet Jar tub topper, a personalised chocolate tub topper with their name and favourite thing on. Stick it on a tub and it's a personal gift in seconds. Dispatched within 24 hours, UK only.\n\nSend this to the friend who still hand-writes every tag.\n\nFind them at thepolarbearsgrotto.co.uk",
+        "ask_kind": "send",
+        "caption_source": "template",
+        "pin_title": "Personalised chocolate tub stickers for Christmas gifts",
+        "pin_description": "Personalised chocolate tub stickers make a great gift for family and friends. Turn a plain tub of chocolates into a personal gift with a name and favourite thing on the topper. Dispatched within 24 hours. UK only. thepolarbearsgrotto.co.uk",
+        "story_line": "Personalised chocolate tub stickers for special gifts",
+        "tip": "Wrap a ribbon around your chocolate tub for an extra touch.",
+        "tiktok_caption": "1 simple chocolate tub sticker transforms a plain gift into something special. Christmas Sweet Jar tub topper, a personalised chocolate tub topper with their name and favourite thing on. Stick it on a tub and it's a personal gift in seconds. thepolarbearsgrotto.co.uk #personalisedgifts #chocolatetubtopper #giftideas #ukcraft",
+        "ask_line": "Send this to the friend who still hand-writes every tag",
+        "search_words": [
+          "tub",
+          "topper",
+          "chocolate"
+        ],
+        "qc_score": 90,
+        "qc_parts": {
+          "hook": 30,
+          "search_words": 20,
+          "one_ask": 15,
+          "sounds_human": 5,
+          "visual": 10,
+          "channel_rules": 10
+        },
+        "qc_notes": [
+          "wording: repeats 'topper', repeats 'topper'"
+        ]
+      },
+      "files": {
+        "image": "pin-Sat.png"
+      },
+      "ai_label": false,
+      "link": "https://thepolarbearsgrotto.co.uk/collections/personalised-confectionary-tub-stickers"
+    },
+    {
+      "id": "story-Sat",
+      "format": "story",
+      "day": "2026-11-21",
+      "time": "09:00",
+      "photo": "1Ql89c01_Y49pm8W6FGQL0iW67zwSycov",
+      "item": {
+        "name": "Tub Topper - Christmas - Sweet Jar - Finished.png",
+        "title": "Tub Topper - Christmas - Sweet Jar",
+        "product": "Personalised chocolate tub stickers (toppers)",
+        "kind": "photo",
+        "mime": "image/png",
+        "size": 3769479,
+        "md5": "1410bef6d4fda7203eba36a1ab3c1a2c",
+        "added": "2026-11-05",
+        "excluded": false,
+        "ai_made": false,
+        "missing": false
+      },
+      "season": {
+        "name": "Christmas",
+        "date": "2026-12-25",
+        "products": [
+          "gift tags",
+          "chocolate tub toppers",
+          "baubles",
+          "prints"
+        ],
+        "angle": "personal gifts without hand-writing labels; order in time (dispatched within 24 hours)"
+      },
+      "channels": [
+        "instagram_story"
+      ],
+      "text": {
+        "hook": "1 simple chocolate tub sticker transforms a plain gift into something special",
+        "hook_score": 100,
+        "hook_options": [
+          {
+            "hook": "Stop giving plain chocolate tubs that look like every other gift",
+            "score": 100,
+            "parts": {
+              "stakes": 30,
+              "specific_detail": 20,
+              "curiosity": 20,
+              "short_and_clear": 15,
+              "fits_buyer": 15
+            },
+            "source": "gemini"
+          },
+          {
+            "hook": "1 simple chocolate tub sticker transforms a plain gift into something special",
+            "score": 100,
+            "parts": {
+              "stakes": 30,
+              "specific_detail": 20,
+              "curiosity": 20,
+              "short_and_clear": 15,
+              "fits_buyer": 15
+            },
+            "source": "gemini"
+          },
+          {
+            "hook": "Stop handing over a plain chocolate tub this Christmas",
+            "score": 100,
+            "parts": {
+              "stakes": 30,
+              "specific_detail": 20,
+              "curiosity": 20,
+              "short_and_clear": 15,
+              "fits_buyer": 15
+            },
+            "source": "template"
+          },
+          {
+            "hook": "3 chocolate tubs, 3 family members, zero hand-written labels",
+            "score": 100,
+            "parts": {
+              "stakes": 30,
+              "specific_detail": 20,
+              "curiosity": 20,
+              "short_and_clear": 15,
+              "fits_buyer": 15
+            },
+            "source": "template"
+          },
+          {
+            "hook": "Nobody tells you a chocolate tub can feel this personal",
+            "score": 100,
+            "parts": {
+              "stakes": 30,
+              "specific_detail": 20,
+              "curiosity": 20,
+              "short_and_clear": 15,
+              "fits_buyer": 15
+            },
+            "source": "template"
+          }
+        ],
+        "body": "Christmas Sweet Jar tub topper, a personalised chocolate tub topper with their name and favourite thing on. Stick it on a tub and it's a personal gift in seconds. Dispatched within 24 hours, UK only.",
+        "ig_caption": "1 simple chocolate tub sticker transforms a plain gift into something special\n\nChristmas Sweet Jar tub topper, a personalised chocolate tub topper with their name and favourite thing on. Stick it on a tub and it's a personal gift in seconds. Dispatched within 24 hours, UK only.\n\nSend this to the friend who still hand-writes every tag.\n\nFind them at thepolarbearsgrotto.co.uk",
+        "ask_kind": "send",
+        "caption_source": "template",
+        "pin_title": "Personalised chocolate tub stickers for Christmas gifts",
+        "pin_description": "Personalised chocolate tub stickers make a great gift for family and friends. Turn a plain tub of chocolates into a personal gift with a name and favourite thing on the topper. Dispatched within 24 hours. UK only. thepolarbearsgrotto.co.uk",
+        "story_line": "Personalised chocolate tub stickers for special gifts",
+        "tip": "Wrap a ribbon around your chocolate tub for an extra touch.",
+        "tiktok_caption": "1 simple chocolate tub sticker transforms a plain gift into something special. Christmas Sweet Jar tub topper, a personalised chocolate tub topper with their name and favourite thing on. Stick it on a tub and it's a personal gift in seconds. thepolarbearsgrotto.co.uk #personalisedgifts #chocolatetubtopper #giftideas #ukcraft",
+        "ask_line": "Send this to the friend who still hand-writes every tag",
+        "search_words": [
+          "tub",
+          "topper",
+          "chocolate"
+        ],
+        "qc_score": 90,
+        "qc_parts": {
+          "hook": 30,
+          "search_words": 20,
+          "one_ask": 15,
+          "sounds_human": 5,
+          "visual": 10,
+          "channel_rules": 10
+        },
+        "qc_notes": [
+          "wording: repeats 'topper', repeats 'topper'"
+        ]
+      },
+      "files": {
+        "image": "story-Sat.png"
+      },
+      "ai_label": false,
+      "link": "https://thepolarbearsgrotto.co.uk/collections/personalised-confectionary-tub-stickers"
+    },
+    {
+      "id": "pin-Sun",
+      "format": "pin",
+      "day": "2026-11-22",
+      "time": "20:00",
+      "photo": "1_8Gr7TEkGQgAYpaOtQEtPxm4UpwMhq1P",
+      "item": {
+        "name": "Tub Topper - Christmas - Squirrel - Finished.png",
+        "title": "Tub Topper - Christmas - Squirrel",
+        "product": "Personalised chocolate tub stickers (toppers)",
+        "kind": "photo",
+        "mime": "image/png",
+        "size": 4250415,
+        "md5": "5a5079db370dbc023baacf076f0cf940",
+        "added": "2026-11-05",
+        "excluded": false,
+        "ai_made": false,
+        "missing": false
+      },
+      "season": {
+        "name": "Christmas",
+        "date": "2026-12-25",
+        "products": [
+          "gift tags",
+          "chocolate tub toppers",
+          "baubles",
+          "prints"
+        ],
+        "angle": "personal gifts without hand-writing labels; order in time (dispatched within 24 hours)"
+      },
+      "channels": [
+        "pinterest"
+      ],
+      "text": {
+        "hook": "3 chocolate tubs, 3 family members, zero hand-written labels",
+        "hook_score": 100,
+        "hook_options": [
+          {
+            "hook": "Stop handing over a plain chocolate tub this Christmas",
+            "score": 100,
+            "parts": {
+              "stakes": 30,
+              "specific_detail": 20,
+              "curiosity": 20,
+              "short_and_clear": 15,
+              "fits_buyer": 15
+            },
+            "source": "template"
+          },
+          {
+            "hook": "3 chocolate tubs, 3 family members, zero hand-written labels",
+            "score": 100,
+            "parts": {
+              "stakes": 30,
+              "specific_detail": 20,
+              "curiosity": 20,
+              "short_and_clear": 15,
+              "fits_buyer": 15
+            },
+            "source": "template"
+          },
+          {
+            "hook": "Nobody tells you a chocolate tub can feel this personal",
+            "score": 100,
+            "parts": {
+              "stakes": 30,
+              "specific_detail": 20,
+              "curiosity": 20,
+              "short_and_clear": 15,
+              "fits_buyer": 15
+            },
+            "source": "template"
+          },
+          {
+            "hook": "Nobody tells you how hard it is to make a tub of chocolates feel personal",
+            "score": 92,
+            "parts": {
+              "stakes": 30,
+              "specific_detail": 20,
+              "curiosity": 20,
+              "short_and_clear": 7,
+              "fits_buyer": 15
+            },
+            "source": "gemini"
+          },
+          {
+            "hook": "1 a mum ordered three chocolate tub stickers to give to her parents and siblings",
+            "score": 92,
+            "parts": {
+              "stakes": 30,
+              "specific_detail": 20,
+              "curiosity": 20,
+              "short_and_clear": 7,
+              "fits_buyer": 15
+            },
+            "source": "gemini"
+          }
+        ],
+        "body": "Christmas Squirrel tub topper, a personalised chocolate tub topper with their name and favourite thing on. Stick it on a tub and it's a personal gift in seconds. Dispatched within 24 hours, UK only.",
+        "ig_caption": "3 chocolate tubs, 3 family members, zero hand-written labels\n\nChristmas Squirrel tub topper, a personalised chocolate tub topper with their name and favourite thing on. Stick it on a tub and it's a personal gift in seconds. Dispatched within 24 hours, UK only.\n\nSend this to someone who always leaves wrapping to the last minute.\n\nFind them at thepolarbearsgrotto.co.uk",
+        "ask_kind": "send",
+        "caption_source": "template",
+        "pin_title": "Chocolate tub topper for Christmas gifts",
+        "pin_description": "Chocolate tub topper with a squirrel design for your Christmas gifts. A plain tub of chocolates feels like an afterthought and hand writing labels takes time. Make your gift personal for family. thepolarbearsgrotto.co.uk",
+        "story_line": "Personalised squirrel chocolate tub topper",
+        "tip": "Wrap your chocolate tub with a ribbon after adding your topper for a lovely finishing touch.",
+        "tiktok_caption": "3 chocolate tubs, 3 family members, zero hand-written labels. Christmas Squirrel tub topper, a personalised chocolate tub topper with their name and favourite thing on. Stick it on a tub and it's a personal gift in seconds. thepolarbearsgrotto.co.uk #personalisedgifts #chocolatetubtopper #giftideas #ukcraft",
+        "ask_line": "Send this to someone who always leaves wrapping to the last minute",
+        "search_words": [
+          "tub",
+          "topper",
+          "chocolate"
+        ],
+        "qc_score": 90,
+        "qc_parts": {
+          "hook": 30,
+          "search_words": 20,
+          "one_ask": 15,
+          "sounds_human": 5,
+          "visual": 10,
+          "channel_rules": 10
+        },
+        "qc_notes": [
+          "wording: repeats 'topper', repeats 'topper'"
+        ]
+      },
+      "files": {
+        "image": "pin-Sun.png"
+      },
+      "ai_label": false,
+      "link": "https://thepolarbearsgrotto.co.uk/collections/personalised-confectionary-tub-stickers"
+    },
+    {
+      "id": "story-Sun",
+      "format": "story",
+      "day": "2026-11-22",
+      "time": "09:00",
+      "photo": "1_8Gr7TEkGQgAYpaOtQEtPxm4UpwMhq1P",
+      "item": {
+        "name": "Tub Topper - Christmas - Squirrel - Finished.png",
+        "title": "Tub Topper - Christmas - Squirrel",
+        "product": "Personalised chocolate tub stickers (toppers)",
+        "kind": "photo",
+        "mime": "image/png",
+        "size": 4250415,
+        "md5": "5a5079db370dbc023baacf076f0cf940",
+        "added": "2026-11-05",
+        "excluded": false,
+        "ai_made": false,
+        "missing": false
+      },
+      "season": {
+        "name": "Christmas",
+        "date": "2026-12-25",
+        "products": [
+          "gift tags",
+          "chocolate tub toppers",
+          "baubles",
+          "prints"
+        ],
+        "angle": "personal gifts without hand-writing labels; order in time (dispatched within 24 hours)"
+      },
+      "channels": [
+        "instagram_story"
+      ],
+      "text": {
+        "hook": "3 chocolate tubs, 3 family members, zero hand-written labels",
+        "hook_score": 100,
+        "hook_options": [
+          {
+            "hook": "Stop handing over a plain chocolate tub this Christmas",
+            "score": 100,
+            "parts": {
+              "stakes": 30,
+              "specific_detail": 20,
+              "curiosity": 20,
+              "short_and_clear": 15,
+              "fits_buyer": 15
+            },
+            "source": "template"
+          },
+          {
+            "hook": "3 chocolate tubs, 3 family members, zero hand-written labels",
+            "score": 100,
+            "parts": {
+              "stakes": 30,
+              "specific_detail": 20,
+              "curiosity": 20,
+              "short_and_clear": 15,
+              "fits_buyer": 15
+            },
+            "source": "template"
+          },
+          {
+            "hook": "Nobody tells you a chocolate tub can feel this personal",
+            "score": 100,
+            "parts": {
+              "stakes": 30,
+              "specific_detail": 20,
+              "curiosity": 20,
+              "short_and_clear": 15,
+              "fits_buyer": 15
+            },
+            "source": "template"
+          },
+          {
+            "hook": "Nobody tells you how hard it is to make a tub of chocolates feel personal",
+            "score": 92,
+            "parts": {
+              "stakes": 30,
+              "specific_detail": 20,
+              "curiosity": 20,
+              "short_and_clear": 7,
+              "fits_buyer": 15
+            },
+            "source": "gemini"
+          },
+          {
+            "hook": "1 a mum ordered three chocolate tub stickers to give to her parents and siblings",
+            "score": 92,
+            "parts": {
+              "stakes": 30,
+              "specific_detail": 20,
+              "curiosity": 20,
+              "short_and_clear": 7,
+              "fits_buyer": 15
+            },
+            "source": "gemini"
+          }
+        ],
+        "body": "Christmas Squirrel tub topper, a personalised chocolate tub topper with their name and favourite thing on. Stick it on a tub and it's a personal gift in seconds. Dispatched within 24 hours, UK only.",
+        "ig_caption": "3 chocolate tubs, 3 family members, zero hand-written labels\n\nChristmas Squirrel tub topper, a personalised chocolate tub topper with their name and favourite thing on. Stick it on a tub and it's a personal gift in seconds. Dispatched within 24 hours, UK only.\n\nSend this to someone who always leaves wrapping to the last minute.\n\nFind them at thepolarbearsgrotto.co.uk",
+        "ask_kind": "send",
+        "caption_source": "template",
+        "pin_title": "Chocolate tub topper for Christmas gifts",
+        "pin_description": "Chocolate tub topper with a squirrel design for your Christmas gifts. A plain tub of chocolates feels like an afterthought and hand writing labels takes time. Make your gift personal for family. thepolarbearsgrotto.co.uk",
+        "story_line": "Personalised squirrel chocolate tub topper",
+        "tip": "Wrap your chocolate tub with a ribbon after adding your topper for a lovely finishing touch.",
+        "tiktok_caption": "3 chocolate tubs, 3 family members, zero hand-written labels. Christmas Squirrel tub topper, a personalised chocolate tub topper with their name and favourite thing on. Stick it on a tub and it's a personal gift in seconds. thepolarbearsgrotto.co.uk #personalisedgifts #chocolatetubtopper #giftideas #ukcraft",
+        "ask_line": "Send this to someone who always leaves wrapping to the last minute",
+        "search_words": [
+          "tub",
+          "topper",
+          "chocolate"
+        ],
+        "qc_score": 90,
+        "qc_parts": {
+          "hook": 30,
+          "search_words": 20,
+          "one_ask": 15,
+          "sounds_human": 5,
+          "visual": 10,
+          "channel_rules": 10
+        },
+        "qc_notes": [
+          "wording: repeats 'topper', repeats 'topper'"
+        ]
+      },
+      "files": {
+        "image": "story-Sun.png"
+      },
+      "ai_label": false,
+      "link": "https://thepolarbearsgrotto.co.uk/collections/personalised-confectionary-tub-stickers"
+    }
+  ],
+  "held": [],
+  "notes": [
+    "Not enough unused videos for the Sun reel."
+  ],
+  "library_left": {
+    "videos": 0,
+    "photos": 28
+  },
+  "live": true
+}
