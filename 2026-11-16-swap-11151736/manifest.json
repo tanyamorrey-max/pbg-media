@@ -1,0 +1,424 @@
+{
+  "week_start": "2026-11-16",
+  "season": {
+    "name": "Christmas",
+    "date": "2026-12-25",
+    "products": [
+      "gift tags",
+      "chocolate tub toppers",
+      "baubles",
+      "prints"
+    ],
+    "angle": "personal gifts without hand-writing labels; order in time (dispatched within 24 hours)"
+  },
+  "posts": [
+    {
+      "id": "reel-Wed",
+      "format": "reel",
+      "day": "2026-11-18",
+      "time": "18:30",
+      "video": "1eWANB-CFXEpb6YvCDrajpqEvEBUsqGiV",
+      "finished_photo": "18oPmEU6iwrrSaFWnKhinJKLHb3gKj_xm",
+      "finished_video": null,
+      "item": {
+        "name": "Planner - Chaotic Mum Christmas Present Planner - Finished.mp4",
+        "title": "Planner - Chaotic Mum Christmas Present Planner",
+        "product": "Christmas present planner",
+        "kind": "video",
+        "mime": "video/mp4",
+        "size": 26949576,
+        "md5": "8244ce941751b6fd77f313c895b250a1",
+        "added": "2026-11-15",
+        "excluded": false,
+        "ai_made": true
+      },
+      "season": {
+        "name": "Christmas",
+        "date": "2026-12-25",
+        "products": [
+          "gift tags",
+          "chocolate tub toppers",
+          "baubles",
+          "prints"
+        ],
+        "angle": "personal gifts without hand-writing labels; order in time (dispatched within 24 hours)"
+      },
+      "channels": [
+        "tiktok"
+      ],
+      "text": {
+        "hook": "47 lists won't stop you losing the presents",
+        "hook_score": 100,
+        "hook_options": [
+          {
+            "hook": "47 lists won't stop you losing the presents",
+            "score": 100,
+            "parts": {
+              "stakes": 30,
+              "specific_detail": 20,
+              "curiosity": 20,
+              "short_and_clear": 15,
+              "fits_buyer": 15
+            },
+            "source": "gemini"
+          },
+          {
+            "hook": "Stop keeping 47 Christmas lists in your head",
+            "score": 100,
+            "parts": {
+              "stakes": 30,
+              "specific_detail": 20,
+              "curiosity": 20,
+              "short_and_clear": 15,
+              "fits_buyer": 15
+            },
+            "source": "template"
+          },
+          {
+            "hook": "Nobody tells you where you hid 10 parcels",
+            "score": 91,
+            "parts": {
+              "stakes": 30,
+              "specific_detail": 20,
+              "curiosity": 20,
+              "short_and_clear": 15,
+              "fits_buyer": 6
+            },
+            "source": "gemini"
+          },
+          {
+            "hook": "Stop writing lists on 6 scraps of paper",
+            "score": 91,
+            "parts": {
+              "stakes": 30,
+              "specific_detail": 20,
+              "curiosity": 20,
+              "short_and_clear": 15,
+              "fits_buyer": 6
+            },
+            "source": "gemini"
+          },
+          {
+            "hook": "You don't have to track 20 parcels alone",
+            "score": 91,
+            "parts": {
+              "stakes": 30,
+              "specific_detail": 20,
+              "curiosity": 20,
+              "short_and_clear": 15,
+              "fits_buyer": 6
+            },
+            "source": "gemini"
+          }
+        ],
+        "body": "Chaotic Mum Christmas Present Planner planner, personalised gift tags with their favourite thing or hobby on. Peel, stick, done. No hand-writing. Dispatched within 24 hours, UK only.",
+        "ig_caption": "47 lists won't stop you losing the presents\n\nChaotic Mum Christmas Present Planner planner, personalised gift tags with their favourite thing or hobby on. Peel, stick, done. No hand-writing. Dispatched within 24 hours, UK only.\n\nSave this so you have it in December.\n\nFind them at thepolarbearsgrotto.co.uk",
+        "ask_kind": "save",
+        "caption_source": "template",
+        "pin_title": "Christmas present planner for busy mums organising gifts",
+        "pin_description": "Our Christmas present planner helps busy mums stay organised. This 20-page printed planner includes a gift tracker, budget pages, and space for hiding spots. Order yours at thepolarbearsgrotto.co.uk",
+        "story_line": "Keep track of every hidden Christmas present",
+        "tip": "Write down where you hide every Christmas present the moment you put it away.",
+        "tiktok_caption": "47 lists won't stop you losing the presents. This 20-page printed Christmas present planner is made for busy mums organising Christmas who want to track gifts and hiding spots without the stress. thepolarbearsgrotto.co.uk #ChristmasPlanner #ChristmasOrganiser #GiftTracker #MumLifeUK",
+        "ask_line": "Save this so you have it in December",
+        "search_words": [
+          "Christmas present planner",
+          "printed planner",
+          "busy mums organising Christmas"
+        ],
+        "qc_score": 85,
+        "qc_parts": {
+          "hook": 30,
+          "search_words": 10,
+          "one_ask": 15,
+          "sounds_human": 10,
+          "visual": 10,
+          "channel_rules": 10
+        },
+        "qc_notes": [
+          "few plain search words in caption",
+          "wording: repeats 'planner'"
+        ]
+      },
+      "files": {
+        "video": "reel-Wed.mp4",
+        "cover": "reel-Wed-cover.jpg",
+        "cover_offset_ms": 16600,
+        "seconds": 20.4
+      },
+      "ai_label": true,
+      "link": "https://thepolarbearsgrotto.co.uk/products/chaotic-mum-christmas-present-planner"
+    },
+    {
+      "id": "pin-Thu",
+      "format": "pin",
+      "day": "2026-11-19",
+      "time": "20:00",
+      "photo": "18oPmEU6iwrrSaFWnKhinJKLHb3gKj_xm",
+      "item": {
+        "name": "Planner - Chaotic Mum Christmas Present Planner - Finished.jpg",
+        "title": "Planner - Chaotic Mum Christmas Present Planner",
+        "product": "Christmas present planner",
+        "kind": "photo",
+        "mime": "image/jpeg",
+        "size": 1101453,
+        "md5": "27c0970b016675b663d03d58c8f03178",
+        "added": "2026-11-15",
+        "excluded": false,
+        "ai_made": true
+      },
+      "season": {
+        "name": "Christmas",
+        "date": "2026-12-25",
+        "products": [
+          "gift tags",
+          "chocolate tub toppers",
+          "baubles",
+          "prints"
+        ],
+        "angle": "personal gifts without hand-writing labels; order in time (dispatched within 24 hours)"
+      },
+      "channels": [
+        "pinterest"
+      ],
+      "text": {
+        "hook": "Stop keeping 47 Christmas lists in your head",
+        "hook_score": 100,
+        "hook_options": [
+          {
+            "hook": "Stop keeping 47 Christmas lists in your head",
+            "score": 100,
+            "parts": {
+              "stakes": 30,
+              "specific_detail": 20,
+              "curiosity": 20,
+              "short_and_clear": 15,
+              "fits_buyer": 15
+            },
+            "source": "template"
+          },
+          {
+            "hook": "You don't have to remember everyone except yourself",
+            "score": 83,
+            "parts": {
+              "stakes": 30,
+              "specific_detail": 12,
+              "curiosity": 20,
+              "short_and_clear": 15,
+              "fits_buyer": 6
+            },
+            "source": "template"
+          },
+          {
+            "hook": "Nobody tells you how easy it is to lose hidden Christmas presents",
+            "score": 80,
+            "parts": {
+              "stakes": 30,
+              "specific_detail": 0,
+              "curiosity": 20,
+              "short_and_clear": 15,
+              "fits_buyer": 15
+            },
+            "source": "gemini"
+          },
+          {
+            "hook": "You don't have to turn into a spreadsheet robot this Christmas",
+            "score": 80,
+            "parts": {
+              "stakes": 30,
+              "specific_detail": 0,
+              "curiosity": 20,
+              "short_and_clear": 15,
+              "fits_buyer": 15
+            },
+            "source": "gemini"
+          },
+          {
+            "hook": "Nobody tells you where you hid the presents in October",
+            "score": 80,
+            "parts": {
+              "stakes": 30,
+              "specific_detail": 0,
+              "curiosity": 20,
+              "short_and_clear": 15,
+              "fits_buyer": 15
+            },
+            "source": "template"
+          }
+        ],
+        "body": "Chaotic Mum Christmas Present Planner planner, personalised gift tags with their favourite thing or hobby on. Peel, stick, done. No hand-writing. Dispatched within 24 hours, UK only.",
+        "ig_caption": "Stop keeping 47 Christmas lists in your head\n\nChaotic Mum Christmas Present Planner planner, personalised gift tags with their favourite thing or hobby on. Peel, stick, done. No hand-writing. Dispatched within 24 hours, UK only.\n\nSend this to the mum who does it all.\n\nFind them at thepolarbearsgrotto.co.uk",
+        "ask_kind": "send",
+        "caption_source": "template",
+        "pin_title": "Personalised gift tags: Chaotic Mum Christmas Present Planner planner",
+        "pin_description": "Our Christmas present planner keeps festive shopping calm. This 20-page Christmas planner includes gift trackers, budget checklists and online order logs for busy mums organising family gifts. Printed and bound in the UK. thepolarbearsgrotto.co.uk",
+        "story_line": "Keep your festive gift lists in one place",
+        "tip": "Write down your secret present hiding spots as soon as you stash them away.",
+        "tiktok_caption": "Stop keeping 47 Christmas lists in your head. The Chaotic Mum Christmas Present Panic Planner is a colourful 20-page printed organiser for busy mums organising Christmas for the family. thepolarbearsgrotto.co.uk #ChristmasPlanner #ChristmasOrganiser #MumChristmas #ChristmasPlanning",
+        "ask_line": "Send this to the mum who does it all",
+        "search_words": [
+          "personalised gift tags",
+          "gift tags",
+          "hand-writing"
+        ],
+        "qc_score": 90,
+        "qc_parts": {
+          "hook": 30,
+          "search_words": 20,
+          "one_ask": 15,
+          "sounds_human": 5,
+          "visual": 10,
+          "channel_rules": 10
+        },
+        "qc_notes": [
+          "wording: repeats 'planner', repeats 'planner'"
+        ]
+      },
+      "files": {
+        "image": "pin-Thu.png"
+      },
+      "ai_label": true,
+      "link": "https://thepolarbearsgrotto.co.uk/products/chaotic-mum-christmas-present-planner"
+    },
+    {
+      "id": "story-Thu",
+      "format": "story",
+      "day": "2026-11-19",
+      "time": "09:00",
+      "photo": "18oPmEU6iwrrSaFWnKhinJKLHb3gKj_xm",
+      "item": {
+        "name": "Planner - Chaotic Mum Christmas Present Planner - Finished.jpg",
+        "title": "Planner - Chaotic Mum Christmas Present Planner",
+        "product": "Christmas present planner",
+        "kind": "photo",
+        "mime": "image/jpeg",
+        "size": 1101453,
+        "md5": "27c0970b016675b663d03d58c8f03178",
+        "added": "2026-11-15",
+        "excluded": false,
+        "ai_made": true
+      },
+      "season": {
+        "name": "Christmas",
+        "date": "2026-12-25",
+        "products": [
+          "gift tags",
+          "chocolate tub toppers",
+          "baubles",
+          "prints"
+        ],
+        "angle": "personal gifts without hand-writing labels; order in time (dispatched within 24 hours)"
+      },
+      "channels": [
+        "instagram_story"
+      ],
+      "text": {
+        "hook": "Stop keeping 47 Christmas lists in your head",
+        "hook_score": 100,
+        "hook_options": [
+          {
+            "hook": "Stop keeping 47 Christmas lists in your head",
+            "score": 100,
+            "parts": {
+              "stakes": 30,
+              "specific_detail": 20,
+              "curiosity": 20,
+              "short_and_clear": 15,
+              "fits_buyer": 15
+            },
+            "source": "template"
+          },
+          {
+            "hook": "You don't have to remember everyone except yourself",
+            "score": 83,
+            "parts": {
+              "stakes": 30,
+              "specific_detail": 12,
+              "curiosity": 20,
+              "short_and_clear": 15,
+              "fits_buyer": 6
+            },
+            "source": "template"
+          },
+          {
+            "hook": "Nobody tells you how easy it is to lose hidden Christmas presents",
+            "score": 80,
+            "parts": {
+              "stakes": 30,
+              "specific_detail": 0,
+              "curiosity": 20,
+              "short_and_clear": 15,
+              "fits_buyer": 15
+            },
+            "source": "gemini"
+          },
+          {
+            "hook": "You don't have to turn into a spreadsheet robot this Christmas",
+            "score": 80,
+            "parts": {
+              "stakes": 30,
+              "specific_detail": 0,
+              "curiosity": 20,
+              "short_and_clear": 15,
+              "fits_buyer": 15
+            },
+            "source": "gemini"
+          },
+          {
+            "hook": "Nobody tells you where you hid the presents in October",
+            "score": 80,
+            "parts": {
+              "stakes": 30,
+              "specific_detail": 0,
+              "curiosity": 20,
+              "short_and_clear": 15,
+              "fits_buyer": 15
+            },
+            "source": "template"
+          }
+        ],
+        "body": "Chaotic Mum Christmas Present Planner planner, personalised gift tags with their favourite thing or hobby on. Peel, stick, done. No hand-writing. Dispatched within 24 hours, UK only.",
+        "ig_caption": "Stop keeping 47 Christmas lists in your head\n\nChaotic Mum Christmas Present Planner planner, personalised gift tags with their favourite thing or hobby on. Peel, stick, done. No hand-writing. Dispatched within 24 hours, UK only.\n\nSend this to the mum who does it all.\n\nFind them at thepolarbearsgrotto.co.uk",
+        "ask_kind": "send",
+        "caption_source": "template",
+        "pin_title": "Personalised gift tags: Chaotic Mum Christmas Present Planner planner",
+        "pin_description": "Our Christmas present planner keeps festive shopping calm. This 20-page Christmas planner includes gift trackers, budget checklists and online order logs for busy mums organising family gifts. Printed and bound in the UK. thepolarbearsgrotto.co.uk",
+        "story_line": "Keep your festive gift lists in one place",
+        "tip": "Write down your secret present hiding spots as soon as you stash them away.",
+        "tiktok_caption": "Stop keeping 47 Christmas lists in your head. The Chaotic Mum Christmas Present Panic Planner is a colourful 20-page printed organiser for busy mums organising Christmas for the family. thepolarbearsgrotto.co.uk #ChristmasPlanner #ChristmasOrganiser #MumChristmas #ChristmasPlanning",
+        "ask_line": "Send this to the mum who does it all",
+        "search_words": [
+          "personalised gift tags",
+          "gift tags",
+          "hand-writing"
+        ],
+        "qc_score": 90,
+        "qc_parts": {
+          "hook": 30,
+          "search_words": 20,
+          "one_ask": 15,
+          "sounds_human": 5,
+          "visual": 10,
+          "channel_rules": 10
+        },
+        "qc_notes": [
+          "wording: repeats 'planner', repeats 'planner'"
+        ]
+      },
+      "files": {
+        "image": "story-Thu.png"
+      },
+      "ai_label": true,
+      "link": "https://thepolarbearsgrotto.co.uk/products/chaotic-mum-christmas-present-planner"
+    }
+  ],
+  "held": [],
+  "notes": [],
+  "library_left": {
+    "videos": 0,
+    "photos": 0
+  },
+  "live": true,
+  "extra": true,
+  "swap": "Christmas present planner"
+}
