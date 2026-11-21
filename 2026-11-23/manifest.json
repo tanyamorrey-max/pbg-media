@@ -1,0 +1,2695 @@
+{
+  "week_start": "2026-11-23",
+  "season": {
+    "name": "Christmas",
+    "date": "2026-12-25",
+    "products": [
+      "gift tags",
+      "chocolate tub toppers",
+      "baubles",
+      "prints",
+      "place mats"
+    ],
+    "angle": "personal gifts without hand-writing labels; order in time (dispatched within 24 hours)"
+  },
+  "posts": [
+    {
+      "id": "reel-Mon",
+      "format": "reel",
+      "day": "2026-11-23",
+      "time": "18:30",
+      "video": "1_k3lx_XFP3oAIPhptD9t9XUE5QpT97Ku",
+      "finished_photo": null,
+      "finished_video": null,
+      "item": {
+        "name": "Activity Book - Football - Making.mp4",
+        "title": "Activity Book - Football",
+        "product": "Activity books",
+        "kind": "video",
+        "mime": "video/mp4",
+        "size": 30821860,
+        "md5": "a4fc0cb01e92375ad4be4be6bb6b3284",
+        "added": "2026-11-15",
+        "excluded": false,
+        "ai_made": true,
+        "missing": false
+      },
+      "season": {
+        "name": "Christmas",
+        "date": "2026-12-25",
+        "products": [
+          "gift tags",
+          "chocolate tub toppers",
+          "baubles",
+          "prints",
+          "place mats"
+        ],
+        "angle": "personal gifts without hand-writing labels; order in time (dispatched within 24 hours)"
+      },
+      "channels": [
+        "tiktok"
+      ],
+      "text": {
+        "hook": "1 activity book, 1 quiet afternoon away from screens",
+        "hook_score": 91,
+        "hook_options": [
+          {
+            "hook": "3 ways to stop boredom",
+            "score": 91,
+            "parts": {
+              "stakes": 30,
+              "specific_detail": 20,
+              "curiosity": 20,
+              "short_and_clear": 15,
+              "fits_buyer": 6
+            },
+            "source": "gemini"
+          },
+          {
+            "hook": "1 activity book, 1 quiet afternoon away from screens",
+            "score": 91,
+            "parts": {
+              "stakes": 30,
+              "specific_detail": 20,
+              "curiosity": 20,
+              "short_and_clear": 15,
+              "fits_buyer": 6
+            },
+            "source": "template"
+          },
+          {
+            "hook": "Nobody tells you how bored kids get",
+            "score": 80,
+            "parts": {
+              "stakes": 30,
+              "specific_detail": 0,
+              "curiosity": 20,
+              "short_and_clear": 15,
+              "fits_buyer": 15
+            },
+            "source": "gemini"
+          },
+          {
+            "hook": "Nobody tells you how long rainy days feel",
+            "score": 71,
+            "parts": {
+              "stakes": 30,
+              "specific_detail": 0,
+              "curiosity": 20,
+              "short_and_clear": 15,
+              "fits_buyer": 6
+            },
+            "source": "gemini"
+          },
+          {
+            "hook": "Stop letting screens take over",
+            "score": 71,
+            "parts": {
+              "stakes": 30,
+              "specific_detail": 0,
+              "curiosity": 20,
+              "short_and_clear": 15,
+              "fits_buyer": 6
+            },
+            "source": "gemini"
+          }
+        ],
+        "body": "Got a football-mad little one? This activity book is full of puzzles and drawing for children. It makes a great stocking filler in the run-up to Christmas.",
+        "ig_caption": "1 activity book, 1 quiet afternoon away from screens\n\nGot a football-mad little one? This activity book is full of puzzles and drawing for children. It makes a great stocking filler in the run-up to Christmas.\n\nSend this to the friend who still hand-writes every tag.\n\nFind them at thepolarbearsgrotto.co.uk",
+        "ask_kind": "send",
+        "caption_source": "gemini",
+        "pin_title": "Football activity book for children stocking filler",
+        "pin_description": "Football activity book for kids featuring puzzles and drawing. A brilliant Christmas gift and stocking filler to keep little ones busy. Order today from thepolarbearsgrotto.co.uk",
+        "story_line": "Football activity book for kids",
+        "tip": "Keep a spare activity book in the bag for unexpected waiting times.",
+        "tiktok_caption": "1 activity book, 1 quiet afternoon away from screens. This football activity book is perfect for keeping children entertained on long journeys. thepolarbearsgrotto.co.uk #footballkids #activitybook #stockingfiller #childrenstoys",
+        "ask_line": "Send this to the friend who still hand-writes every tag",
+        "search_words": [
+          "football-mad little one",
+          "activity book",
+          "children"
+        ],
+        "qc_score": 97,
+        "qc_parts": {
+          "hook": 27,
+          "search_words": 20,
+          "one_ask": 15,
+          "sounds_human": 15,
+          "visual": 10,
+          "channel_rules": 10
+        },
+        "qc_notes": []
+      },
+      "files": {
+        "video": "reel-Mon.mp4",
+        "cover": "reel-Mon-cover.jpg",
+        "cover_offset_ms": 16600,
+        "seconds": 20.4
+      },
+      "ai_label": true,
+      "link": "https://thepolarbearsgrotto.co.uk/products/activity-book-football"
+    },
+    {
+      "id": "reel-Tue",
+      "format": "reel",
+      "day": "2026-11-24",
+      "time": "18:30",
+      "video": "176KJmUkCVKRnge0IjzGuxNfeOBH-sOAX",
+      "finished_photo": "1JZF8hMZCWn11YHNtAnmYq55M_rI3TRbN",
+      "finished_video": null,
+      "item": {
+        "name": "Planner - Christmas - Making.mp4",
+        "title": "Planner - Christmas",
+        "product": "Christmas present planner",
+        "kind": "video",
+        "mime": "video/mp4",
+        "size": 36793450,
+        "md5": "19cae0a4fd90bfb1fdb63b5e6d833fd3",
+        "added": "2026-11-21",
+        "excluded": false,
+        "ai_made": true
+      },
+      "season": {
+        "name": "Christmas",
+        "date": "2026-12-25",
+        "products": [
+          "gift tags",
+          "chocolate tub toppers",
+          "baubles",
+          "prints",
+          "place mats"
+        ],
+        "angle": "personal gifts without hand-writing labels; order in time (dispatched within 24 hours)"
+      },
+      "channels": [
+        "instagram",
+        "facebook",
+        "pinterest_video",
+        "tiktok"
+      ],
+      "text": {
+        "hook": "You don't have to juggle 47 lists",
+        "hook_score": 91,
+        "hook_options": [
+          {
+            "hook": "Stop keeping 47 Christmas lists in your head",
+            "score": 100,
+            "parts": {
+              "stakes": 30,
+              "specific_detail": 20,
+              "curiosity": 20,
+              "short_and_clear": 15,
+              "fits_buyer": 15
+            },
+            "source": "template"
+          },
+          {
+            "hook": "You don't have to juggle 47 lists",
+            "score": 91,
+            "parts": {
+              "stakes": 30,
+              "specific_detail": 20,
+              "curiosity": 20,
+              "short_and_clear": 15,
+              "fits_buyer": 6
+            },
+            "source": "gemini"
+          },
+          {
+            "hook": "You don't have to remember everyone except yourself",
+            "score": 83,
+            "parts": {
+              "stakes": 30,
+              "specific_detail": 12,
+              "curiosity": 20,
+              "short_and_clear": 15,
+              "fits_buyer": 6
+            },
+            "source": "template"
+          },
+          {
+            "hook": "Stop losing gifts in your wardrobe",
+            "score": 80,
+            "parts": {
+              "stakes": 30,
+              "specific_detail": 0,
+              "curiosity": 20,
+              "short_and_clear": 15,
+              "fits_buyer": 15
+            },
+            "source": "gemini"
+          },
+          {
+            "hook": "Nobody tells you where you hid the presents in October",
+            "score": 80,
+            "parts": {
+              "stakes": 30,
+              "specific_detail": 0,
+              "curiosity": 20,
+              "short_and_clear": 15,
+              "fits_buyer": 15
+            },
+            "source": "template"
+          }
+        ],
+        "body": "The Christmas planner is a 20-page printed and bound planner for mums keeping Christmas organised: wishlists, budgets, gift and delivery trackers, and where you hid the presents. Dispatched within 24 hours, UK only.",
+        "ig_caption": "You don't have to juggle 47 lists\n\nThe Christmas planner is a 20-page printed and bound planner for mums keeping Christmas organised: wishlists, budgets, gift and delivery trackers, and where you hid the presents. Dispatched within 24 hours, UK only.\n\nTell me in the comments: who's on your list this year?\n\nFind them at thepolarbearsgrotto.co.uk",
+        "ask_kind": "comment",
+        "caption_source": "template",
+        "pin_title": "Christmas Present Planner: Chaotic Mum 20-Page A4 Printed Gift Organiser",
+        "pin_description": "This Christmas present planner helps busy mums stay organised. Keep track of gifts, hiding spots and deliveries with this printed Christmas planner and Christmas gift organiser. Made in the UK with handy checklist pages. thepolarbearsgrotto.co.uk",
+        "story_line": "Organise the Christmas chaos in one place",
+        "tip": "Write down where you hide each present as soon as you stash it away.",
+        "tiktok_caption": "You don't have to juggle 47 lists. The Chaotic Mum Christmas Present Panic Planner is a 20-page printed A4 organiser for busy mums tackling the festive chaos. thepolarbearsgrotto.co.uk #ChristmasPlanner #ChristmasOrganiser #MumLifeChristmas #GiftPlanner",
+        "ask_line": "Tell me in the comments: who's on your list this year?",
+        "search_words": [
+          "Christmas planner",
+          "printed planner",
+          "planner"
+        ],
+        "qc_score": 92,
+        "qc_parts": {
+          "hook": 27,
+          "search_words": 20,
+          "one_ask": 15,
+          "sounds_human": 10,
+          "visual": 10,
+          "channel_rules": 10
+        },
+        "qc_notes": [
+          "wording: repeats 'planner'"
+        ]
+      },
+      "files": {
+        "video": "reel-Tue.mp4",
+        "cover": "reel-Tue-cover.jpg",
+        "cover_offset_ms": 16600,
+        "seconds": 20.4
+      },
+      "ai_label": true,
+      "link": "https://thepolarbearsgrotto.co.uk/products/chaotic-mum-christmas-present-planner"
+    },
+    {
+      "id": "reel-Wed",
+      "format": "reel",
+      "day": "2026-11-25",
+      "time": "18:30",
+      "video": "1jWixgstG7nCj2Crp7hDilhy74B628s2P",
+      "finished_photo": null,
+      "finished_video": null,
+      "item": {
+        "name": "Colouring Book - My Calm Christmas Book - Finished.mp4",
+        "title": "Colouring Book - My Calm Christmas Book",
+        "product": "Colouring books",
+        "kind": "video",
+        "mime": "video/mp4",
+        "size": 25783104,
+        "md5": "fbc83ce0dc39a483e2466f2afdb552c8",
+        "added": "2026-11-15",
+        "excluded": false,
+        "ai_made": true,
+        "missing": false
+      },
+      "season": {
+        "name": "Christmas",
+        "date": "2026-12-25",
+        "products": [
+          "gift tags",
+          "chocolate tub toppers",
+          "baubles",
+          "prints",
+          "place mats"
+        ],
+        "angle": "personal gifts without hand-writing labels; order in time (dispatched within 24 hours)"
+      },
+      "channels": [
+        "tiktok"
+      ],
+      "text": {
+        "hook": "3 rainy-day saves for the school holidays",
+        "hook_score": 91,
+        "hook_options": [
+          {
+            "hook": "3 rainy-day saves for the school holidays",
+            "score": 91,
+            "parts": {
+              "stakes": 30,
+              "specific_detail": 20,
+              "curiosity": 20,
+              "short_and_clear": 15,
+              "fits_buyer": 6
+            },
+            "source": "template"
+          },
+          {
+            "hook": "Nobody tells you how hard it is to switch off",
+            "score": 71,
+            "parts": {
+              "stakes": 30,
+              "specific_detail": 0,
+              "curiosity": 20,
+              "short_and_clear": 15,
+              "fits_buyer": 6
+            },
+            "source": "gemini"
+          },
+          {
+            "hook": "Stop staring at the ceiling when you need rest",
+            "score": 71,
+            "parts": {
+              "stakes": 30,
+              "specific_detail": 0,
+              "curiosity": 20,
+              "short_and_clear": 15,
+              "fits_buyer": 6
+            },
+            "source": "gemini"
+          },
+          {
+            "hook": "You don't have to stay stressed all December",
+            "score": 71,
+            "parts": {
+              "stakes": 30,
+              "specific_detail": 0,
+              "curiosity": 20,
+              "short_and_clear": 15,
+              "fits_buyer": 6
+            },
+            "source": "gemini"
+          },
+          {
+            "hook": "Stop rushing and take a breath",
+            "score": 71,
+            "parts": {
+              "stakes": 30,
+              "specific_detail": 0,
+              "curiosity": 20,
+              "short_and_clear": 15,
+              "fits_buyer": 6
+            },
+            "source": "gemini"
+          }
+        ],
+        "body": "This is a lovely colouring book for quiet moments at home. It is wonderful for anyone wanting a simple way to unwind during a busy December.",
+        "ig_caption": "3 rainy-day saves for the school holidays\n\nThis is a lovely colouring book for quiet moments at home. It is wonderful for anyone wanting a simple way to unwind during a busy December.\n\nSave this for the school holidays.\n\nFind them at thepolarbearsgrotto.co.uk",
+        "ask_kind": "save",
+        "caption_source": "gemini",
+        "pin_title": "Colouring book for Christmas calm and quiet festive moments",
+        "pin_description": "Colouring book for quiet festive moments and winter relaxation. Perfect for peaceful colouring when you need to unwind. Find more calm gifts at thepolarbearsgrotto.co.uk",
+        "story_line": "Find your calm this Christmas with colouring",
+        "tip": "Keep a colouring book by your favourite chair for a quick five minute break.",
+        "tiktok_caption": "3 rainy-day saves for the school holidays. This calm Christmas colouring book is wonderful for quiet moments at home when you need to unwind. thepolarbearsgrotto.co.uk #ColouringBook #ChristmasGifts #CalmChristmas #FestiveRelaxation",
+        "ask_line": "Save this for the school holidays",
+        "search_words": [
+          "colouring book",
+          "quiet moments",
+          "unwind"
+        ],
+        "qc_score": 97,
+        "qc_parts": {
+          "hook": 27,
+          "search_words": 20,
+          "one_ask": 15,
+          "sounds_human": 15,
+          "visual": 10,
+          "channel_rules": 10
+        },
+        "qc_notes": []
+      },
+      "files": {
+        "video": "reel-Wed.mp4",
+        "cover": "reel-Wed-cover.jpg",
+        "cover_offset_ms": 16600,
+        "seconds": 20.4
+      },
+      "ai_label": true,
+      "link": "https://thepolarbearsgrotto.co.uk/collections/colouring-books"
+    },
+    {
+      "id": "reel-Fri",
+      "format": "reel",
+      "day": "2026-11-27",
+      "time": "18:30",
+      "video": "14Ptrzi8_co3oM5v6MyQBZylCSXa_nm-Z",
+      "finished_photo": "1HkX75I91Vjb-d8yvxSVr2CoZQMsgyBts",
+      "finished_video": null,
+      "item": {
+        "name": "Penguin Placemat - Christmas - Making.mp4",
+        "title": "Penguin Placemat - Christmas",
+        "product": "Personalised Christmas place mats",
+        "kind": "video",
+        "mime": "video/mp4",
+        "size": 24723140,
+        "md5": "7d96ab9dbc11d2c8dde80cf973527133",
+        "added": "2026-11-21",
+        "excluded": false,
+        "ai_made": false
+      },
+      "season": {
+        "name": "Christmas",
+        "date": "2026-12-25",
+        "products": [
+          "gift tags",
+          "chocolate tub toppers",
+          "baubles",
+          "prints",
+          "place mats"
+        ],
+        "angle": "personal gifts without hand-writing labels; order in time (dispatched within 24 hours)"
+      },
+      "channels": [
+        "instagram",
+        "facebook",
+        "pinterest_video",
+        "tiktok"
+      ],
+      "text": {
+        "hook": "1 bored child and 20 minutes to tend sprouts",
+        "hook_score": 100,
+        "hook_options": [
+          {
+            "hook": "1 bored child and 20 minutes to tend sprouts",
+            "score": 100,
+            "parts": {
+              "stakes": 30,
+              "specific_detail": 20,
+              "curiosity": 20,
+              "short_and_clear": 15,
+              "fits_buyer": 15
+            },
+            "source": "gemini"
+          },
+          {
+            "hook": "Bored kids wait 20 minutes while you do sprouts",
+            "score": 88,
+            "parts": {
+              "stakes": 30,
+              "specific_detail": 20,
+              "curiosity": 8,
+              "short_and_clear": 15,
+              "fits_buyer": 15
+            },
+            "source": "gemini"
+          },
+          {
+            "hook": "Nobody tells you kids get bored waiting for lunch",
+            "score": 80,
+            "parts": {
+              "stakes": 30,
+              "specific_detail": 0,
+              "curiosity": 20,
+              "short_and_clear": 15,
+              "fits_buyer": 15
+            },
+            "source": "gemini"
+          },
+          {
+            "hook": "Stop bored kids fussing at the Christmas table",
+            "score": 80,
+            "parts": {
+              "stakes": 30,
+              "specific_detail": 0,
+              "curiosity": 20,
+              "short_and_clear": 15,
+              "fits_buyer": 15
+            },
+            "source": "gemini"
+          },
+          {
+            "hook": "You don't have to dread restless kids at the table",
+            "score": 80,
+            "parts": {
+              "stakes": 30,
+              "specific_detail": 0,
+              "curiosity": 20,
+              "short_and_clear": 15,
+              "fits_buyer": 15
+            },
+            "source": "gemini"
+          }
+        ],
+        "body": "This personalised penguin placemat is printed on A4 paper and laminated for drawing with washable pens. It is a wipe-clean place mat for families at the Christmas table, keeping bored kids and Grandad occupied while lunch is dished up. Wipe clean and reuse next year.",
+        "ig_caption": "1 bored child and 20 minutes to tend sprouts\n\nThis personalised penguin placemat is printed on A4 paper and laminated for drawing with washable pens. It is a wipe-clean place mat for families at the Christmas table, keeping bored kids and Grandad occupied while lunch is dished up. Wipe clean and reuse next year.\n\nSend this to whoever's hosting Christmas lunch.\n\nFind them at thepolarbearsgrotto.co.uk",
+        "ask_kind": "send",
+        "caption_source": "gemini",
+        "pin_title": "Personalised Christmas placemat for kids dinner table",
+        "pin_description": "Personalised Christmas placemat for children. This wipe clean Christmas place mat keeps kids and Grandad busy at the dinner table while lunch is dished up. Use washable pens, wipe clean, and reuse next year. Dispatched within 24 hours in the UK from thepolarbearsgrotto.co.uk",
+        "story_line": "Wipe-clean penguin placemat for Christmas lunch",
+        "tip": "Add a pack of washable pens to tableware gifts so children can start drawing right away.",
+        "tiktok_caption": "1 bored child and 20 minutes to tend sprouts. This personalised penguin Christmas placemat is a wipe-clean table mat made for kids and grown-ups to draw on during Christmas lunch. thepolarbearsgrotto.co.uk #christmasplacemat #personalisedplacemat #kidschristmastable #christmasactivitiesforkids",
+        "ask_line": "Send this to whoever's hosting Christmas lunch",
+        "search_words": [
+          "placemat",
+          "place mat",
+          "Christmas table"
+        ],
+        "qc_score": 100,
+        "qc_parts": {
+          "hook": 30,
+          "search_words": 20,
+          "one_ask": 15,
+          "sounds_human": 15,
+          "visual": 10,
+          "channel_rules": 10
+        },
+        "qc_notes": []
+      },
+      "files": {
+        "video": "reel-Fri.mp4",
+        "cover": "reel-Fri-cover.jpg",
+        "cover_offset_ms": 16600,
+        "seconds": 20.4
+      },
+      "ai_label": false,
+      "link": "https://thepolarbearsgrotto.co.uk"
+    },
+    {
+      "id": "reel-Sun",
+      "format": "reel",
+      "day": "2026-11-29",
+      "time": "18:30",
+      "video": "1xDLGGJR5NwxaHGT0Gk-5naMOT9mvHKYy",
+      "finished_photo": null,
+      "finished_video": null,
+      "item": {
+        "name": "Colouring Book - Christmas Christmas Dumplings - Making.mp4",
+        "title": "Colouring Book - Christmas Christmas Dumplings",
+        "product": "Colouring books",
+        "kind": "video",
+        "mime": "video/mp4",
+        "size": 23738120,
+        "md5": "6aef363a1c7bd1c5a4d12dcf487fd932",
+        "added": "2026-11-14",
+        "excluded": false,
+        "ai_made": true,
+        "missing": false
+      },
+      "season": {
+        "name": "Christmas",
+        "date": "2026-12-25",
+        "products": [
+          "gift tags",
+          "chocolate tub toppers",
+          "baubles",
+          "prints",
+          "place mats"
+        ],
+        "angle": "personal gifts without hand-writing labels; order in time (dispatched within 24 hours)"
+      },
+      "channels": [
+        "instagram",
+        "facebook",
+        "pinterest_video",
+        "tiktok"
+      ],
+      "text": {
+        "hook": "Stop letting screen time ruin the Christmas holidays",
+        "hook_score": 80,
+        "hook_options": [
+          {
+            "hook": "3 rainy-day saves for the school holidays",
+            "score": 91,
+            "parts": {
+              "stakes": 30,
+              "specific_detail": 20,
+              "curiosity": 20,
+              "short_and_clear": 15,
+              "fits_buyer": 6
+            },
+            "source": "template"
+          },
+          {
+            "hook": "Stop letting screen time ruin the Christmas holidays",
+            "score": 80,
+            "parts": {
+              "stakes": 30,
+              "specific_detail": 0,
+              "curiosity": 20,
+              "short_and_clear": 15,
+              "fits_buyer": 15
+            },
+            "source": "gemini"
+          },
+          {
+            "hook": "You don't have to manage rainy days alone",
+            "score": 71,
+            "parts": {
+              "stakes": 30,
+              "specific_detail": 0,
+              "curiosity": 20,
+              "short_and_clear": 15,
+              "fits_buyer": 6
+            },
+            "source": "gemini"
+          },
+          {
+            "hook": "3 ways to keep little hands busy this Christmas",
+            "score": 70,
+            "parts": {
+              "stakes": 0,
+              "specific_detail": 20,
+              "curiosity": 20,
+              "short_and_clear": 15,
+              "fits_buyer": 15
+            },
+            "source": "gemini"
+          },
+          {
+            "hook": "21 pages of Christmas cuteness",
+            "score": 70,
+            "parts": {
+              "stakes": 0,
+              "specific_detail": 20,
+              "curiosity": 20,
+              "short_and_clear": 15,
+              "fits_buyer": 15
+            },
+            "source": "gemini"
+          }
+        ],
+        "body": "This Christmas dumpling colouring book is made for children. It has 21 pages to colour with a set of 12 colouring pencils. Perfect for festive craft afternoons and Christmas Eve activities.",
+        "ig_caption": "Stop letting screen time ruin the Christmas holidays\n\nThis Christmas dumpling colouring book is made for children. It has 21 pages to colour with a set of 12 colouring pencils. Perfect for festive craft afternoons and Christmas Eve activities.\n\nTell me in the comments: what's your rainy-day trick?\n\nFind them at thepolarbearsgrotto.co.uk",
+        "ask_kind": "comment",
+        "caption_source": "gemini",
+        "pin_title": "Christmas dumpling colouring book for children",
+        "pin_description": "Christmas dumpling colouring book for children with 21 pages and 12 colouring pencils. Great for Christmas Eve boxes and festive activities. thepolarbearsgrotto.co.uk",
+        "story_line": "Christmas dumpling colouring book for children",
+        "tip": "Pair a new colouring book with a fresh box of pencils for hours of quiet festive fun.",
+        "tiktok_caption": "Stop letting screen time ruin the Christmas holidays. This Christmas dumpling colouring book is perfect for children during the holidays. thepolarbearsgrotto.co.uk #ChristmasColouring #ChildrensActivity #StockingFiller #ChristmasEveBox",
+        "ask_line": "Tell me in the comments: what's your rainy-day trick?",
+        "search_words": [
+          "colouring book",
+          "festive craft afternoons",
+          "Christmas Eve activities"
+        ],
+        "qc_score": 94,
+        "qc_parts": {
+          "hook": 24,
+          "search_words": 20,
+          "one_ask": 15,
+          "sounds_human": 15,
+          "visual": 10,
+          "channel_rules": 10
+        },
+        "qc_notes": []
+      },
+      "files": {
+        "video": "reel-Sun.mp4",
+        "cover": "reel-Sun-cover.jpg",
+        "cover_offset_ms": 14200,
+        "seconds": 18.0
+      },
+      "ai_label": true,
+      "link": "https://thepolarbearsgrotto.co.uk/products/colouring-book-christmas-dumplings"
+    },
+    {
+      "id": "carousel-Wed",
+      "format": "carousel",
+      "day": "2026-11-25",
+      "time": "18:30",
+      "photos": [
+        "1kiusAwf8HzMnOQmEYnYQlFb6yTn6MvgZ",
+        "1rPatbnbnozxkxm7wyynV5nw3BW2DTJVo"
+      ],
+      "item": {
+        "name": "Tub Topper - Christmas - Gonk - Finished",
+        "title": "Tub Topper - Christmas - Gonk",
+        "product": "Personalised chocolate tub stickers (toppers)",
+        "kind": "photo",
+        "mime": "image/png",
+        "size": 4188297,
+        "md5": "c00731fed6c1fa186c92f2e0cbb96174",
+        "added": "2026-11-05",
+        "excluded": false,
+        "ai_made": false,
+        "missing": false
+      },
+      "season": {
+        "name": "Christmas",
+        "date": "2026-12-25",
+        "products": [
+          "gift tags",
+          "chocolate tub toppers",
+          "baubles",
+          "prints",
+          "place mats"
+        ],
+        "angle": "personal gifts without hand-writing labels; order in time (dispatched within 24 hours)"
+      },
+      "channels": [
+        "instagram",
+        "facebook"
+      ],
+      "text": {
+        "hook": "Stop giving a plain tub of chocolates this Christmas",
+        "hook_score": 100,
+        "hook_options": [
+          {
+            "hook": "3 chocolate tub stickers ordered to give to family",
+            "score": 100,
+            "parts": {
+              "stakes": 30,
+              "specific_detail": 20,
+              "curiosity": 20,
+              "short_and_clear": 15,
+              "fits_buyer": 15
+            },
+            "source": "gemini"
+          },
+          {
+            "hook": "Stop giving a plain tub of chocolates this Christmas",
+            "score": 100,
+            "parts": {
+              "stakes": 30,
+              "specific_detail": 20,
+              "curiosity": 20,
+              "short_and_clear": 15,
+              "fits_buyer": 15
+            },
+            "source": "gemini"
+          },
+          {
+            "hook": "1 simple sticker turns a chocolate tub personal",
+            "score": 100,
+            "parts": {
+              "stakes": 30,
+              "specific_detail": 20,
+              "curiosity": 20,
+              "short_and_clear": 15,
+              "fits_buyer": 15
+            },
+            "source": "gemini"
+          },
+          {
+            "hook": "Stop handing over a plain chocolate tub this Christmas",
+            "score": 100,
+            "parts": {
+              "stakes": 30,
+              "specific_detail": 20,
+              "curiosity": 20,
+              "short_and_clear": 15,
+              "fits_buyer": 15
+            },
+            "source": "template"
+          },
+          {
+            "hook": "3 chocolate tubs, 3 family members, zero hand-written labels",
+            "score": 100,
+            "parts": {
+              "stakes": 30,
+              "specific_detail": 20,
+              "curiosity": 20,
+              "short_and_clear": 15,
+              "fits_buyer": 15
+            },
+            "source": "template"
+          }
+        ],
+        "body": "Christmas Gonk tub topper, a personalised chocolate tub topper with their name and favourite thing on. Stick it on a tub and it's a personal gift in seconds. Dispatched within 24 hours, UK only.",
+        "ig_caption": "Stop giving a plain tub of chocolates this Christmas\n\nChristmas Gonk tub topper, a personalised chocolate tub topper with their name and favourite thing on. Stick it on a tub and it's a personal gift in seconds. Dispatched within 24 hours, UK only.\n\nSave this for when the wrapping starts.\n\nFind them at thepolarbearsgrotto.co.uk",
+        "ask_kind": "save",
+        "caption_source": "template",
+        "pin_title": "Personalised chocolate tub stickers for family gifts",
+        "pin_description": "Personalised chocolate tub stickers help mums and families turn a plain tub of chocolates into a personal gift. Perfect chocolate tub toppers with names and favourite things. Avoid hand-writing labels and make festive gifts special. thepolarbearsgrotto.co.uk",
+        "story_line": "Personalised chocolate tub stickers",
+        "tip": "Wrap a ribbon around your chocolate tub sticker gift for a cheerful touch.",
+        "tiktok_caption": "Stop giving a plain tub of chocolates this Christmas. Christmas Gonk tub topper, a personalised chocolate tub topper with their name and favourite thing on. Stick it on a tub and it's a personal gift in seconds. thepolarbearsgrotto.co.uk #personalisedgifts #chocolatetubtopper #giftideas #ukcraft",
+        "ask_line": "Save this for when the wrapping starts",
+        "search_words": [
+          "tub",
+          "topper",
+          "chocolate"
+        ],
+        "qc_score": 90,
+        "qc_parts": {
+          "hook": 30,
+          "search_words": 20,
+          "one_ask": 15,
+          "sounds_human": 5,
+          "visual": 10,
+          "channel_rules": 10
+        },
+        "qc_notes": [
+          "wording: repeats 'topper', repeats 'topper'"
+        ]
+      },
+      "files": {
+        "slides": [
+          "carousel-Wed-1.png",
+          "carousel-Wed-2.png",
+          "carousel-Wed-3.png",
+          "carousel-Wed-4.png",
+          "carousel-Wed-5.png"
+        ]
+      },
+      "ai_label": false,
+      "link": "https://thepolarbearsgrotto.co.uk/collections/personalised-confectionary-tub-stickers"
+    },
+    {
+      "id": "pin-Mon",
+      "format": "pin",
+      "day": "2026-11-23",
+      "time": "20:00",
+      "photo": "1W2irz8C_o6c8mAL5GIwPrYKQB4G_a-L_",
+      "item": {
+        "name": "Planner - Christmas - photo - Finished - 1.jpg",
+        "title": "Planner - Christmas",
+        "product": "Christmas present planner",
+        "kind": "photo",
+        "mime": "image/jpeg",
+        "size": 1194769,
+        "md5": "f42bd3321c2a172a54c0ef3a2d3418fd",
+        "added": "2026-11-21",
+        "excluded": false,
+        "ai_made": true
+      },
+      "season": {
+        "name": "Christmas",
+        "date": "2026-12-25",
+        "products": [
+          "gift tags",
+          "chocolate tub toppers",
+          "baubles",
+          "prints",
+          "place mats"
+        ],
+        "angle": "personal gifts without hand-writing labels; order in time (dispatched within 24 hours)"
+      },
+      "channels": [
+        "pinterest"
+      ],
+      "text": {
+        "hook": "You don't have to remember everyone except yourself",
+        "hook_score": 83,
+        "hook_options": [
+          {
+            "hook": "Stop keeping 47 Christmas lists in your head",
+            "score": 100,
+            "parts": {
+              "stakes": 30,
+              "specific_detail": 20,
+              "curiosity": 20,
+              "short_and_clear": 15,
+              "fits_buyer": 15
+            },
+            "source": "template"
+          },
+          {
+            "hook": "You don't have to remember everyone except yourself",
+            "score": 83,
+            "parts": {
+              "stakes": 30,
+              "specific_detail": 12,
+              "curiosity": 20,
+              "short_and_clear": 15,
+              "fits_buyer": 6
+            },
+            "source": "template"
+          },
+          {
+            "hook": "Nobody tells you where you hid the presents in October",
+            "score": 80,
+            "parts": {
+              "stakes": 30,
+              "specific_detail": 0,
+              "curiosity": 20,
+              "short_and_clear": 15,
+              "fits_buyer": 15
+            },
+            "source": "template"
+          },
+          {
+            "hook": "Nobody tells you about the budget creeping up on you",
+            "score": 71,
+            "parts": {
+              "stakes": 30,
+              "specific_detail": 0,
+              "curiosity": 20,
+              "short_and_clear": 15,
+              "fits_buyer": 6
+            },
+            "source": "gemini"
+          },
+          {
+            "hook": "Stop letting the festive chaos get the better of your home",
+            "score": 71,
+            "parts": {
+              "stakes": 30,
+              "specific_detail": 0,
+              "curiosity": 20,
+              "short_and_clear": 15,
+              "fits_buyer": 6
+            },
+            "source": "gemini"
+          }
+        ],
+        "body": "This 20-page planner is made for busy mums organising Christmas. It helps you keep track of your budget, wishlists and hidden gifts.",
+        "ig_caption": "You don't have to remember everyone except yourself\n\nThis 20-page planner is made for busy mums organising Christmas. It helps you keep track of your budget, wishlists and hidden gifts.\n\nSend this to the mum who does it all.\n\nFind them at thepolarbearsgrotto.co.uk",
+        "ask_kind": "send",
+        "caption_source": "gemini",
+        "pin_title": "Christmas present planner for busy mums",
+        "pin_description": "Christmas present planner designed to help busy mums organise lists, budgets, and gifts. Keep track of online orders and hidden items easily. thepolarbearsgrotto.co.uk",
+        "story_line": "Organise your Christmas chaos with a handy planner.",
+        "tip": "Write down where you hide every single present as soon as you buy it.",
+        "tiktok_caption": "You don't have to remember everyone except yourself. This 20-page planner is made for busy mums organising Christmas. thepolarbearsgrotto.co.uk #ChristmasPlanner #ChristmasOrganisation #MumLife #FestivePrep",
+        "ask_line": "Send this to the mum who does it all",
+        "search_words": [
+          "planner",
+          "Christmas present",
+          "busy mums"
+        ],
+        "qc_score": 95,
+        "qc_parts": {
+          "hook": 25,
+          "search_words": 20,
+          "one_ask": 15,
+          "sounds_human": 15,
+          "visual": 10,
+          "channel_rules": 10
+        },
+        "qc_notes": []
+      },
+      "files": {
+        "image": "pin-Mon.png"
+      },
+      "ai_label": true,
+      "link": "https://thepolarbearsgrotto.co.uk/products/chaotic-mum-christmas-present-planner"
+    },
+    {
+      "id": "story-Mon",
+      "format": "story",
+      "day": "2026-11-23",
+      "time": "09:00",
+      "photo": "1W2irz8C_o6c8mAL5GIwPrYKQB4G_a-L_",
+      "item": {
+        "name": "Planner - Christmas - photo - Finished - 1.jpg",
+        "title": "Planner - Christmas",
+        "product": "Christmas present planner",
+        "kind": "photo",
+        "mime": "image/jpeg",
+        "size": 1194769,
+        "md5": "f42bd3321c2a172a54c0ef3a2d3418fd",
+        "added": "2026-11-21",
+        "excluded": false,
+        "ai_made": true
+      },
+      "season": {
+        "name": "Christmas",
+        "date": "2026-12-25",
+        "products": [
+          "gift tags",
+          "chocolate tub toppers",
+          "baubles",
+          "prints",
+          "place mats"
+        ],
+        "angle": "personal gifts without hand-writing labels; order in time (dispatched within 24 hours)"
+      },
+      "channels": [
+        "instagram_story"
+      ],
+      "text": {
+        "hook": "You don't have to remember everyone except yourself",
+        "hook_score": 83,
+        "hook_options": [
+          {
+            "hook": "Stop keeping 47 Christmas lists in your head",
+            "score": 100,
+            "parts": {
+              "stakes": 30,
+              "specific_detail": 20,
+              "curiosity": 20,
+              "short_and_clear": 15,
+              "fits_buyer": 15
+            },
+            "source": "template"
+          },
+          {
+            "hook": "You don't have to remember everyone except yourself",
+            "score": 83,
+            "parts": {
+              "stakes": 30,
+              "specific_detail": 12,
+              "curiosity": 20,
+              "short_and_clear": 15,
+              "fits_buyer": 6
+            },
+            "source": "template"
+          },
+          {
+            "hook": "Nobody tells you where you hid the presents in October",
+            "score": 80,
+            "parts": {
+              "stakes": 30,
+              "specific_detail": 0,
+              "curiosity": 20,
+              "short_and_clear": 15,
+              "fits_buyer": 15
+            },
+            "source": "template"
+          },
+          {
+            "hook": "Nobody tells you about the budget creeping up on you",
+            "score": 71,
+            "parts": {
+              "stakes": 30,
+              "specific_detail": 0,
+              "curiosity": 20,
+              "short_and_clear": 15,
+              "fits_buyer": 6
+            },
+            "source": "gemini"
+          },
+          {
+            "hook": "Stop letting the festive chaos get the better of your home",
+            "score": 71,
+            "parts": {
+              "stakes": 30,
+              "specific_detail": 0,
+              "curiosity": 20,
+              "short_and_clear": 15,
+              "fits_buyer": 6
+            },
+            "source": "gemini"
+          }
+        ],
+        "body": "This 20-page planner is made for busy mums organising Christmas. It helps you keep track of your budget, wishlists and hidden gifts.",
+        "ig_caption": "You don't have to remember everyone except yourself\n\nThis 20-page planner is made for busy mums organising Christmas. It helps you keep track of your budget, wishlists and hidden gifts.\n\nSend this to the mum who does it all.\n\nFind them at thepolarbearsgrotto.co.uk",
+        "ask_kind": "send",
+        "caption_source": "gemini",
+        "pin_title": "Christmas present planner for busy mums",
+        "pin_description": "Christmas present planner designed to help busy mums organise lists, budgets, and gifts. Keep track of online orders and hidden items easily. thepolarbearsgrotto.co.uk",
+        "story_line": "Organise your Christmas chaos with a handy planner.",
+        "tip": "Write down where you hide every single present as soon as you buy it.",
+        "tiktok_caption": "You don't have to remember everyone except yourself. This 20-page planner is made for busy mums organising Christmas. thepolarbearsgrotto.co.uk #ChristmasPlanner #ChristmasOrganisation #MumLife #FestivePrep",
+        "ask_line": "Send this to the mum who does it all",
+        "search_words": [
+          "planner",
+          "Christmas present",
+          "busy mums"
+        ],
+        "qc_score": 95,
+        "qc_parts": {
+          "hook": 25,
+          "search_words": 20,
+          "one_ask": 15,
+          "sounds_human": 15,
+          "visual": 10,
+          "channel_rules": 10
+        },
+        "qc_notes": []
+      },
+      "files": {
+        "image": "story-Mon.png"
+      },
+      "ai_label": true,
+      "link": "https://thepolarbearsgrotto.co.uk/products/chaotic-mum-christmas-present-planner"
+    },
+    {
+      "id": "pin-Tue",
+      "format": "pin",
+      "day": "2026-11-24",
+      "time": "20:00",
+      "photo": "1u_R6qfK9-YAe-OervzgaaP67KFfn1_el",
+      "item": {
+        "name": "planner - Christmas - Mock up - Finished.jpg",
+        "title": "planner - Christmas",
+        "product": "Christmas present planner",
+        "kind": "photo",
+        "mime": "image/png",
+        "size": 2559914,
+        "md5": "a288bebe0f49f08d81e70170f5eda29d",
+        "added": "2026-11-21",
+        "excluded": false,
+        "ai_made": true
+      },
+      "season": {
+        "name": "Christmas",
+        "date": "2026-12-25",
+        "products": [
+          "gift tags",
+          "chocolate tub toppers",
+          "baubles",
+          "prints",
+          "place mats"
+        ],
+        "angle": "personal gifts without hand-writing labels; order in time (dispatched within 24 hours)"
+      },
+      "channels": [
+        "pinterest"
+      ],
+      "text": {
+        "hook": "Nobody tells you about hiding presents and tracking 20 parcels",
+        "hook_score": 100,
+        "hook_options": [
+          {
+            "hook": "Nobody tells you about hiding presents and tracking 20 parcels",
+            "score": 100,
+            "parts": {
+              "stakes": 30,
+              "specific_detail": 20,
+              "curiosity": 20,
+              "short_and_clear": 15,
+              "fits_buyer": 15
+            },
+            "source": "gemini"
+          },
+          {
+            "hook": "Stop keeping 47 Christmas lists in your head",
+            "score": 100,
+            "parts": {
+              "stakes": 30,
+              "specific_detail": 20,
+              "curiosity": 20,
+              "short_and_clear": 15,
+              "fits_buyer": 15
+            },
+            "source": "template"
+          },
+          {
+            "hook": "You don't have to remember everyone except yourself",
+            "score": 83,
+            "parts": {
+              "stakes": 30,
+              "specific_detail": 12,
+              "curiosity": 20,
+              "short_and_clear": 15,
+              "fits_buyer": 6
+            },
+            "source": "template"
+          },
+          {
+            "hook": "Stop letting the Christmas budget creep up on you",
+            "score": 80,
+            "parts": {
+              "stakes": 30,
+              "specific_detail": 0,
+              "curiosity": 20,
+              "short_and_clear": 15,
+              "fits_buyer": 15
+            },
+            "source": "gemini"
+          },
+          {
+            "hook": "Nobody tells you where you hid the presents in October",
+            "score": 80,
+            "parts": {
+              "stakes": 30,
+              "specific_detail": 0,
+              "curiosity": 20,
+              "short_and_clear": 15,
+              "fits_buyer": 15
+            },
+            "source": "template"
+          }
+        ],
+        "body": "This 20-page printed and bound planner helps mums keep Christmas organised. It is packed with useful trackers for gifts and budgets.",
+        "ig_caption": "Nobody tells you about hiding presents and tracking 20 parcels\n\nThis 20-page printed and bound planner helps mums keep Christmas organised. It is packed with useful trackers for gifts and budgets.\n\nSend this to someone who always leaves wrapping to the last minute.\n\nFind them at thepolarbearsgrotto.co.uk",
+        "ask_kind": "send",
+        "caption_source": "gemini",
+        "pin_title": "Christmas present planner for busy mums",
+        "pin_description": "Christmas present planner to help mums organise the festive chaos. Track your gift budget, parcels and wishlists easily with this printed A4 planner from thepolarbearsgrotto.co.uk.",
+        "story_line": "Keep Christmas organised without the stress",
+        "tip": "Write down where you hide presents so you actually find them later.",
+        "tiktok_caption": "Nobody tells you about hiding presents and tracking 20 parcels. This Christmas present planner helps mums organise the festive chaos. thepolarbearsgrotto.co.uk #ChristmasPlanner #MumLife #ChristmasPrep #OrganisedChristmas",
+        "ask_line": "Send this to someone who always leaves wrapping to the last minute",
+        "search_words": [
+          "planner",
+          "Christmas",
+          "mums"
+        ],
+        "qc_score": 100,
+        "qc_parts": {
+          "hook": 30,
+          "search_words": 20,
+          "one_ask": 15,
+          "sounds_human": 15,
+          "visual": 10,
+          "channel_rules": 10
+        },
+        "qc_notes": []
+      },
+      "files": {
+        "image": "pin-Tue.png"
+      },
+      "ai_label": true,
+      "link": "https://thepolarbearsgrotto.co.uk/products/chaotic-mum-christmas-present-planner"
+    },
+    {
+      "id": "story-Tue",
+      "format": "story",
+      "day": "2026-11-24",
+      "time": "09:00",
+      "photo": "1u_R6qfK9-YAe-OervzgaaP67KFfn1_el",
+      "item": {
+        "name": "planner - Christmas - Mock up - Finished.jpg",
+        "title": "planner - Christmas",
+        "product": "Christmas present planner",
+        "kind": "photo",
+        "mime": "image/png",
+        "size": 2559914,
+        "md5": "a288bebe0f49f08d81e70170f5eda29d",
+        "added": "2026-11-21",
+        "excluded": false,
+        "ai_made": true
+      },
+      "season": {
+        "name": "Christmas",
+        "date": "2026-12-25",
+        "products": [
+          "gift tags",
+          "chocolate tub toppers",
+          "baubles",
+          "prints",
+          "place mats"
+        ],
+        "angle": "personal gifts without hand-writing labels; order in time (dispatched within 24 hours)"
+      },
+      "channels": [
+        "instagram_story"
+      ],
+      "text": {
+        "hook": "Nobody tells you about hiding presents and tracking 20 parcels",
+        "hook_score": 100,
+        "hook_options": [
+          {
+            "hook": "Nobody tells you about hiding presents and tracking 20 parcels",
+            "score": 100,
+            "parts": {
+              "stakes": 30,
+              "specific_detail": 20,
+              "curiosity": 20,
+              "short_and_clear": 15,
+              "fits_buyer": 15
+            },
+            "source": "gemini"
+          },
+          {
+            "hook": "Stop keeping 47 Christmas lists in your head",
+            "score": 100,
+            "parts": {
+              "stakes": 30,
+              "specific_detail": 20,
+              "curiosity": 20,
+              "short_and_clear": 15,
+              "fits_buyer": 15
+            },
+            "source": "template"
+          },
+          {
+            "hook": "You don't have to remember everyone except yourself",
+            "score": 83,
+            "parts": {
+              "stakes": 30,
+              "specific_detail": 12,
+              "curiosity": 20,
+              "short_and_clear": 15,
+              "fits_buyer": 6
+            },
+            "source": "template"
+          },
+          {
+            "hook": "Stop letting the Christmas budget creep up on you",
+            "score": 80,
+            "parts": {
+              "stakes": 30,
+              "specific_detail": 0,
+              "curiosity": 20,
+              "short_and_clear": 15,
+              "fits_buyer": 15
+            },
+            "source": "gemini"
+          },
+          {
+            "hook": "Nobody tells you where you hid the presents in October",
+            "score": 80,
+            "parts": {
+              "stakes": 30,
+              "specific_detail": 0,
+              "curiosity": 20,
+              "short_and_clear": 15,
+              "fits_buyer": 15
+            },
+            "source": "template"
+          }
+        ],
+        "body": "This 20-page printed and bound planner helps mums keep Christmas organised. It is packed with useful trackers for gifts and budgets.",
+        "ig_caption": "Nobody tells you about hiding presents and tracking 20 parcels\n\nThis 20-page printed and bound planner helps mums keep Christmas organised. It is packed with useful trackers for gifts and budgets.\n\nSend this to someone who always leaves wrapping to the last minute.\n\nFind them at thepolarbearsgrotto.co.uk",
+        "ask_kind": "send",
+        "caption_source": "gemini",
+        "pin_title": "Christmas present planner for busy mums",
+        "pin_description": "Christmas present planner to help mums organise the festive chaos. Track your gift budget, parcels and wishlists easily with this printed A4 planner from thepolarbearsgrotto.co.uk.",
+        "story_line": "Keep Christmas organised without the stress",
+        "tip": "Write down where you hide presents so you actually find them later.",
+        "tiktok_caption": "Nobody tells you about hiding presents and tracking 20 parcels. This Christmas present planner helps mums organise the festive chaos. thepolarbearsgrotto.co.uk #ChristmasPlanner #MumLife #ChristmasPrep #OrganisedChristmas",
+        "ask_line": "Send this to someone who always leaves wrapping to the last minute",
+        "search_words": [
+          "planner",
+          "Christmas",
+          "mums"
+        ],
+        "qc_score": 100,
+        "qc_parts": {
+          "hook": 30,
+          "search_words": 20,
+          "one_ask": 15,
+          "sounds_human": 15,
+          "visual": 10,
+          "channel_rules": 10
+        },
+        "qc_notes": []
+      },
+      "files": {
+        "image": "story-Tue.png"
+      },
+      "ai_label": true,
+      "link": "https://thepolarbearsgrotto.co.uk/products/chaotic-mum-christmas-present-planner"
+    },
+    {
+      "id": "pin-Wed",
+      "format": "pin",
+      "day": "2026-11-25",
+      "time": "20:00",
+      "photo": "1hUKKvKiUyWdvn-6Kyut7ZgbzaPRANuXD",
+      "item": {
+        "name": "Tub Topper - Christmas - Owl - Finished.png",
+        "title": "Tub Topper - Christmas - Owl",
+        "product": "Personalised chocolate tub stickers (toppers)",
+        "kind": "photo",
+        "mime": "image/png",
+        "size": 3459573,
+        "md5": "5e61ad04d536b19ca1f5e0f778fd19ff",
+        "added": "2026-11-05",
+        "excluded": false,
+        "ai_made": false,
+        "missing": false
+      },
+      "season": {
+        "name": "Christmas",
+        "date": "2026-12-25",
+        "products": [
+          "gift tags",
+          "chocolate tub toppers",
+          "baubles",
+          "prints",
+          "place mats"
+        ],
+        "angle": "personal gifts without hand-writing labels; order in time (dispatched within 24 hours)"
+      },
+      "channels": [
+        "pinterest"
+      ],
+      "text": {
+        "hook": "Nobody tells you a chocolate tub can feel this personal",
+        "hook_score": 100,
+        "hook_options": [
+          {
+            "hook": "Stop giving a plain tub of chocolates this Christmas",
+            "score": 100,
+            "parts": {
+              "stakes": 30,
+              "specific_detail": 20,
+              "curiosity": 20,
+              "short_and_clear": 15,
+              "fits_buyer": 15
+            },
+            "source": "gemini"
+          },
+          {
+            "hook": "Stop handing over a plain chocolate tub this Christmas",
+            "score": 100,
+            "parts": {
+              "stakes": 30,
+              "specific_detail": 20,
+              "curiosity": 20,
+              "short_and_clear": 15,
+              "fits_buyer": 15
+            },
+            "source": "template"
+          },
+          {
+            "hook": "3 chocolate tubs, 3 family members, zero hand-written labels",
+            "score": 100,
+            "parts": {
+              "stakes": 30,
+              "specific_detail": 20,
+              "curiosity": 20,
+              "short_and_clear": 15,
+              "fits_buyer": 15
+            },
+            "source": "template"
+          },
+          {
+            "hook": "Nobody tells you a chocolate tub can feel this personal",
+            "score": 100,
+            "parts": {
+              "stakes": 30,
+              "specific_detail": 20,
+              "curiosity": 20,
+              "short_and_clear": 15,
+              "fits_buyer": 15
+            },
+            "source": "template"
+          },
+          {
+            "hook": "Nobody tells you how hard it is to make a tub of chocolates feel personal",
+            "score": 92,
+            "parts": {
+              "stakes": 30,
+              "specific_detail": 20,
+              "curiosity": 20,
+              "short_and_clear": 7,
+              "fits_buyer": 15
+            },
+            "source": "gemini"
+          }
+        ],
+        "body": "These printed stickers go right on the top of your chocolate tub. They are made for mums and families giving chocolate tubs as gifts.",
+        "ig_caption": "Nobody tells you a chocolate tub can feel this personal\n\nThese printed stickers go right on the top of your chocolate tub. They are made for mums and families giving chocolate tubs as gifts.\n\nSend this to someone who always leaves wrapping to the last minute.\n\nFind them at thepolarbearsgrotto.co.uk",
+        "ask_kind": "send",
+        "caption_source": "gemini",
+        "pin_title": "Personalised chocolate tub stickers for Christmas gifts",
+        "pin_description": "Personalised chocolate tub stickers turn a plain tub of chocolates into a thoughtful gift. Great for mums and families giving chocolate tubs to loved ones. No hand-writing required for your Christmas gifting. thepolarbearsgrotto.co.uk",
+        "story_line": "Turn a plain tub of chocolates personal",
+        "tip": "Wrap a ribbon around your chocolate tub to make it look extra special.",
+        "tiktok_caption": "Nobody tells you a chocolate tub can feel this personal. Christmas Owl tub topper, a personalised chocolate tub topper with their name and favourite thing on. Stick it on a tub and it's a personal gift in seconds. thepolarbearsgrotto.co.uk #personalisedgifts #chocolatetubtopper #giftideas #ukcraft",
+        "ask_line": "Send this to someone who always leaves wrapping to the last minute",
+        "search_words": [
+          "tub",
+          "topper",
+          "chocolate"
+        ],
+        "qc_score": 95,
+        "qc_parts": {
+          "hook": 30,
+          "search_words": 20,
+          "one_ask": 15,
+          "sounds_human": 10,
+          "visual": 10,
+          "channel_rules": 10
+        },
+        "qc_notes": [
+          "wording: repeats 'topper'"
+        ]
+      },
+      "files": {
+        "image": "pin-Wed.png"
+      },
+      "ai_label": false,
+      "link": "https://thepolarbearsgrotto.co.uk/collections/personalised-confectionary-tub-stickers"
+    },
+    {
+      "id": "story-Wed",
+      "format": "story",
+      "day": "2026-11-25",
+      "time": "09:00",
+      "photo": "1hUKKvKiUyWdvn-6Kyut7ZgbzaPRANuXD",
+      "item": {
+        "name": "Tub Topper - Christmas - Owl - Finished.png",
+        "title": "Tub Topper - Christmas - Owl",
+        "product": "Personalised chocolate tub stickers (toppers)",
+        "kind": "photo",
+        "mime": "image/png",
+        "size": 3459573,
+        "md5": "5e61ad04d536b19ca1f5e0f778fd19ff",
+        "added": "2026-11-05",
+        "excluded": false,
+        "ai_made": false,
+        "missing": false
+      },
+      "season": {
+        "name": "Christmas",
+        "date": "2026-12-25",
+        "products": [
+          "gift tags",
+          "chocolate tub toppers",
+          "baubles",
+          "prints",
+          "place mats"
+        ],
+        "angle": "personal gifts without hand-writing labels; order in time (dispatched within 24 hours)"
+      },
+      "channels": [
+        "instagram_story"
+      ],
+      "text": {
+        "hook": "Nobody tells you a chocolate tub can feel this personal",
+        "hook_score": 100,
+        "hook_options": [
+          {
+            "hook": "Stop giving a plain tub of chocolates this Christmas",
+            "score": 100,
+            "parts": {
+              "stakes": 30,
+              "specific_detail": 20,
+              "curiosity": 20,
+              "short_and_clear": 15,
+              "fits_buyer": 15
+            },
+            "source": "gemini"
+          },
+          {
+            "hook": "Stop handing over a plain chocolate tub this Christmas",
+            "score": 100,
+            "parts": {
+              "stakes": 30,
+              "specific_detail": 20,
+              "curiosity": 20,
+              "short_and_clear": 15,
+              "fits_buyer": 15
+            },
+            "source": "template"
+          },
+          {
+            "hook": "3 chocolate tubs, 3 family members, zero hand-written labels",
+            "score": 100,
+            "parts": {
+              "stakes": 30,
+              "specific_detail": 20,
+              "curiosity": 20,
+              "short_and_clear": 15,
+              "fits_buyer": 15
+            },
+            "source": "template"
+          },
+          {
+            "hook": "Nobody tells you a chocolate tub can feel this personal",
+            "score": 100,
+            "parts": {
+              "stakes": 30,
+              "specific_detail": 20,
+              "curiosity": 20,
+              "short_and_clear": 15,
+              "fits_buyer": 15
+            },
+            "source": "template"
+          },
+          {
+            "hook": "Nobody tells you how hard it is to make a tub of chocolates feel personal",
+            "score": 92,
+            "parts": {
+              "stakes": 30,
+              "specific_detail": 20,
+              "curiosity": 20,
+              "short_and_clear": 7,
+              "fits_buyer": 15
+            },
+            "source": "gemini"
+          }
+        ],
+        "body": "These printed stickers go right on the top of your chocolate tub. They are made for mums and families giving chocolate tubs as gifts.",
+        "ig_caption": "Nobody tells you a chocolate tub can feel this personal\n\nThese printed stickers go right on the top of your chocolate tub. They are made for mums and families giving chocolate tubs as gifts.\n\nSend this to someone who always leaves wrapping to the last minute.\n\nFind them at thepolarbearsgrotto.co.uk",
+        "ask_kind": "send",
+        "caption_source": "gemini",
+        "pin_title": "Personalised chocolate tub stickers for Christmas gifts",
+        "pin_description": "Personalised chocolate tub stickers turn a plain tub of chocolates into a thoughtful gift. Great for mums and families giving chocolate tubs to loved ones. No hand-writing required for your Christmas gifting. thepolarbearsgrotto.co.uk",
+        "story_line": "Turn a plain tub of chocolates personal",
+        "tip": "Wrap a ribbon around your chocolate tub to make it look extra special.",
+        "tiktok_caption": "Nobody tells you a chocolate tub can feel this personal. Christmas Owl tub topper, a personalised chocolate tub topper with their name and favourite thing on. Stick it on a tub and it's a personal gift in seconds. thepolarbearsgrotto.co.uk #personalisedgifts #chocolatetubtopper #giftideas #ukcraft",
+        "ask_line": "Send this to someone who always leaves wrapping to the last minute",
+        "search_words": [
+          "tub",
+          "topper",
+          "chocolate"
+        ],
+        "qc_score": 95,
+        "qc_parts": {
+          "hook": 30,
+          "search_words": 20,
+          "one_ask": 15,
+          "sounds_human": 10,
+          "visual": 10,
+          "channel_rules": 10
+        },
+        "qc_notes": [
+          "wording: repeats 'topper'"
+        ]
+      },
+      "files": {
+        "image": "story-Wed.png"
+      },
+      "ai_label": false,
+      "link": "https://thepolarbearsgrotto.co.uk/collections/personalised-confectionary-tub-stickers"
+    },
+    {
+      "id": "pin-Thu",
+      "format": "pin",
+      "day": "2026-11-26",
+      "time": "20:00",
+      "photo": "1ha6vXrOQyQK2zPiiBmKQoXKQ2tccJQrq",
+      "item": {
+        "name": "Tub Topper - Christmas - Llama - Finished.png",
+        "title": "Tub Topper - Christmas - Llama",
+        "product": "Personalised chocolate tub stickers (toppers)",
+        "kind": "photo",
+        "mime": "image/png",
+        "size": 4144849,
+        "md5": "fd40756e87988a6ec3337fd707e4c88f",
+        "added": "2026-11-05",
+        "excluded": false,
+        "ai_made": false,
+        "missing": false
+      },
+      "season": {
+        "name": "Christmas",
+        "date": "2026-12-25",
+        "products": [
+          "gift tags",
+          "chocolate tub toppers",
+          "baubles",
+          "prints",
+          "place mats"
+        ],
+        "angle": "personal gifts without hand-writing labels; order in time (dispatched within 24 hours)"
+      },
+      "channels": [
+        "pinterest"
+      ],
+      "text": {
+        "hook": "Stop giving a plain tub of chocolates as a gift",
+        "hook_score": 100,
+        "hook_options": [
+          {
+            "hook": "3 chocolate tub stickers ordered to give to family",
+            "score": 100,
+            "parts": {
+              "stakes": 30,
+              "specific_detail": 20,
+              "curiosity": 20,
+              "short_and_clear": 15,
+              "fits_buyer": 15
+            },
+            "source": "gemini"
+          },
+          {
+            "hook": "Stop giving a plain tub of chocolates as a gift",
+            "score": 100,
+            "parts": {
+              "stakes": 30,
+              "specific_detail": 20,
+              "curiosity": 20,
+              "short_and_clear": 15,
+              "fits_buyer": 15
+            },
+            "source": "gemini"
+          },
+          {
+            "hook": "Stop handing over a plain chocolate tub this Christmas",
+            "score": 100,
+            "parts": {
+              "stakes": 30,
+              "specific_detail": 20,
+              "curiosity": 20,
+              "short_and_clear": 15,
+              "fits_buyer": 15
+            },
+            "source": "template"
+          },
+          {
+            "hook": "3 chocolate tubs, 3 family members, zero hand-written labels",
+            "score": 100,
+            "parts": {
+              "stakes": 30,
+              "specific_detail": 20,
+              "curiosity": 20,
+              "short_and_clear": 15,
+              "fits_buyer": 15
+            },
+            "source": "template"
+          },
+          {
+            "hook": "Nobody tells you a chocolate tub can feel this personal",
+            "score": 100,
+            "parts": {
+              "stakes": 30,
+              "specific_detail": 20,
+              "curiosity": 20,
+              "short_and_clear": 15,
+              "fits_buyer": 15
+            },
+            "source": "template"
+          }
+        ],
+        "body": "A plain tub of chocolates feels like an afterthought, and hand-writing labels takes time. These stickers are for mums and families giving chocolate tubs as gifts. Turn your chocolate tub into a personal gift with a name and favourite thing on top.",
+        "ig_caption": "Stop giving a plain tub of chocolates as a gift\n\nA plain tub of chocolates feels like an afterthought, and hand-writing labels takes time. These stickers are for mums and families giving chocolate tubs as gifts. Turn your chocolate tub into a personal gift with a name and favourite thing on top.\n\nSend this to the friend who still hand-writes every tag.\n\nFind them at thepolarbearsgrotto.co.uk",
+        "ask_kind": "send",
+        "caption_source": "gemini",
+        "pin_title": "Personalised chocolate tub stickers for Christmas",
+        "pin_description": "Personalised chocolate tub stickers turn a plain tub into a thoughtful gift. Great for mums and families giving chocolate tubs to loved ones this Christmas. Add names and favourite things without hand-writing labels. thepolarbearsgrotto.co.uk",
+        "story_line": "Turn a chocolate tub into a personal gift",
+        "tip": "Keep a spare marker in the drawer so you are always ready to write your Christmas cards.",
+        "tiktok_caption": "Stop giving a plain tub of chocolates as a gift. These personalised chocolate tub stickers help mums and families turn a plain tub of chocolates into a personal gift. thepolarbearsgrotto.co.uk #chocolatetub #tubtopper #chocolatefestive #giftsticker",
+        "ask_line": "Send this to the friend who still hand-writes every tag",
+        "search_words": [
+          "tub",
+          "topper",
+          "chocolate"
+        ],
+        "qc_score": 100,
+        "qc_parts": {
+          "hook": 30,
+          "search_words": 20,
+          "one_ask": 15,
+          "sounds_human": 15,
+          "visual": 10,
+          "channel_rules": 10
+        },
+        "qc_notes": []
+      },
+      "files": {
+        "image": "pin-Thu.png"
+      },
+      "ai_label": false,
+      "link": "https://thepolarbearsgrotto.co.uk/collections/personalised-confectionary-tub-stickers"
+    },
+    {
+      "id": "story-Thu",
+      "format": "story",
+      "day": "2026-11-26",
+      "time": "09:00",
+      "photo": "1ha6vXrOQyQK2zPiiBmKQoXKQ2tccJQrq",
+      "item": {
+        "name": "Tub Topper - Christmas - Llama - Finished.png",
+        "title": "Tub Topper - Christmas - Llama",
+        "product": "Personalised chocolate tub stickers (toppers)",
+        "kind": "photo",
+        "mime": "image/png",
+        "size": 4144849,
+        "md5": "fd40756e87988a6ec3337fd707e4c88f",
+        "added": "2026-11-05",
+        "excluded": false,
+        "ai_made": false,
+        "missing": false
+      },
+      "season": {
+        "name": "Christmas",
+        "date": "2026-12-25",
+        "products": [
+          "gift tags",
+          "chocolate tub toppers",
+          "baubles",
+          "prints",
+          "place mats"
+        ],
+        "angle": "personal gifts without hand-writing labels; order in time (dispatched within 24 hours)"
+      },
+      "channels": [
+        "instagram_story"
+      ],
+      "text": {
+        "hook": "Stop giving a plain tub of chocolates as a gift",
+        "hook_score": 100,
+        "hook_options": [
+          {
+            "hook": "3 chocolate tub stickers ordered to give to family",
+            "score": 100,
+            "parts": {
+              "stakes": 30,
+              "specific_detail": 20,
+              "curiosity": 20,
+              "short_and_clear": 15,
+              "fits_buyer": 15
+            },
+            "source": "gemini"
+          },
+          {
+            "hook": "Stop giving a plain tub of chocolates as a gift",
+            "score": 100,
+            "parts": {
+              "stakes": 30,
+              "specific_detail": 20,
+              "curiosity": 20,
+              "short_and_clear": 15,
+              "fits_buyer": 15
+            },
+            "source": "gemini"
+          },
+          {
+            "hook": "Stop handing over a plain chocolate tub this Christmas",
+            "score": 100,
+            "parts": {
+              "stakes": 30,
+              "specific_detail": 20,
+              "curiosity": 20,
+              "short_and_clear": 15,
+              "fits_buyer": 15
+            },
+            "source": "template"
+          },
+          {
+            "hook": "3 chocolate tubs, 3 family members, zero hand-written labels",
+            "score": 100,
+            "parts": {
+              "stakes": 30,
+              "specific_detail": 20,
+              "curiosity": 20,
+              "short_and_clear": 15,
+              "fits_buyer": 15
+            },
+            "source": "template"
+          },
+          {
+            "hook": "Nobody tells you a chocolate tub can feel this personal",
+            "score": 100,
+            "parts": {
+              "stakes": 30,
+              "specific_detail": 20,
+              "curiosity": 20,
+              "short_and_clear": 15,
+              "fits_buyer": 15
+            },
+            "source": "template"
+          }
+        ],
+        "body": "A plain tub of chocolates feels like an afterthought, and hand-writing labels takes time. These stickers are for mums and families giving chocolate tubs as gifts. Turn your chocolate tub into a personal gift with a name and favourite thing on top.",
+        "ig_caption": "Stop giving a plain tub of chocolates as a gift\n\nA plain tub of chocolates feels like an afterthought, and hand-writing labels takes time. These stickers are for mums and families giving chocolate tubs as gifts. Turn your chocolate tub into a personal gift with a name and favourite thing on top.\n\nSend this to the friend who still hand-writes every tag.\n\nFind them at thepolarbearsgrotto.co.uk",
+        "ask_kind": "send",
+        "caption_source": "gemini",
+        "pin_title": "Personalised chocolate tub stickers for Christmas",
+        "pin_description": "Personalised chocolate tub stickers turn a plain tub into a thoughtful gift. Great for mums and families giving chocolate tubs to loved ones this Christmas. Add names and favourite things without hand-writing labels. thepolarbearsgrotto.co.uk",
+        "story_line": "Turn a chocolate tub into a personal gift",
+        "tip": "Keep a spare marker in the drawer so you are always ready to write your Christmas cards.",
+        "tiktok_caption": "Stop giving a plain tub of chocolates as a gift. These personalised chocolate tub stickers help mums and families turn a plain tub of chocolates into a personal gift. thepolarbearsgrotto.co.uk #chocolatetub #tubtopper #chocolatefestive #giftsticker",
+        "ask_line": "Send this to the friend who still hand-writes every tag",
+        "search_words": [
+          "tub",
+          "topper",
+          "chocolate"
+        ],
+        "qc_score": 100,
+        "qc_parts": {
+          "hook": 30,
+          "search_words": 20,
+          "one_ask": 15,
+          "sounds_human": 15,
+          "visual": 10,
+          "channel_rules": 10
+        },
+        "qc_notes": []
+      },
+      "files": {
+        "image": "story-Thu.png"
+      },
+      "ai_label": false,
+      "link": "https://thepolarbearsgrotto.co.uk/collections/personalised-confectionary-tub-stickers"
+    },
+    {
+      "id": "pin-Fri",
+      "format": "pin",
+      "day": "2026-11-27",
+      "time": "20:00",
+      "photo": "1uQ_x36LfeYqOFRq98E5-W4oy5PwFGfGi",
+      "item": {
+        "name": "Colouring Book - Sweary - Page One - Coffee before and After - Blurred - Finished.png",
+        "title": "Colouring Book - Sweary - Page One - Coffee before and After",
+        "product": "Colouring books",
+        "kind": "photo",
+        "mime": "image/png",
+        "size": 1275953,
+        "md5": "47b1dae118fb5b4acbe5d7070c95e704",
+        "added": "2026-11-05",
+        "excluded": false,
+        "ai_made": true,
+        "missing": false
+      },
+      "season": {
+        "name": "Christmas",
+        "date": "2026-12-25",
+        "products": [
+          "gift tags",
+          "chocolate tub toppers",
+          "baubles",
+          "prints",
+          "place mats"
+        ],
+        "angle": "personal gifts without hand-writing labels; order in time (dispatched within 24 hours)"
+      },
+      "channels": [
+        "pinterest"
+      ],
+      "text": {
+        "hook": "1 long day with no way to switch off",
+        "hook_score": 91,
+        "hook_options": [
+          {
+            "hook": "1 long day with no way to switch off",
+            "score": 91,
+            "parts": {
+              "stakes": 30,
+              "specific_detail": 20,
+              "curiosity": 20,
+              "short_and_clear": 15,
+              "fits_buyer": 6
+            },
+            "source": "gemini"
+          },
+          {
+            "hook": "1 way to switch your brain off after a long day",
+            "score": 91,
+            "parts": {
+              "stakes": 30,
+              "specific_detail": 20,
+              "curiosity": 20,
+              "short_and_clear": 15,
+              "fits_buyer": 6
+            },
+            "source": "gemini"
+          },
+          {
+            "hook": "Stop scrolling at 10pm. Colour something rude instead",
+            "score": 91,
+            "parts": {
+              "stakes": 30,
+              "specific_detail": 20,
+              "curiosity": 20,
+              "short_and_clear": 15,
+              "fits_buyer": 6
+            },
+            "source": "template"
+          },
+          {
+            "hook": "Nobody tells you that adults need colouring books too",
+            "score": 83,
+            "parts": {
+              "stakes": 30,
+              "specific_detail": 12,
+              "curiosity": 20,
+              "short_and_clear": 15,
+              "fits_buyer": 6
+            },
+            "source": "gemini"
+          },
+          {
+            "hook": "1: A long day with no way to switch off",
+            "score": 79,
+            "parts": {
+              "stakes": 30,
+              "specific_detail": 20,
+              "curiosity": 8,
+              "short_and_clear": 15,
+              "fits_buyer": 6
+            },
+            "source": "gemini"
+          }
+        ],
+        "body": "This swearing colouring book is for grown-ups. It helps you switch your brain off after a long day.",
+        "ig_caption": "1 long day with no way to switch off\n\nThis swearing colouring book is for grown-ups. It helps you switch your brain off after a long day.\n\nSend this to the friend who'd laugh at this.\n\nFind them at thepolarbearsgrotto.co.uk",
+        "ask_kind": "send",
+        "caption_source": "gemini",
+        "pin_title": "Sweary adult colouring book for relaxing",
+        "pin_description": "Sweary adult colouring book for grown-ups who need to switch off after a long day. A funny gift for friends. Printed in the UK by thepolarbearsgrotto.co.uk",
+        "story_line": "Switch off with a sweary colouring book",
+        "tip": "Pair the book with a mug of tea and a pack of biscuits for a cosy night in.",
+        "tiktok_caption": "1 long day with no way to switch off. This sweary colouring book is for grown-ups who need to switch off after a long day. thepolarbearsgrotto.co.uk #adultcolouring #swearycolouring #colouringbooks #ukgifts",
+        "ask_line": "Send this to the friend who'd laugh at this",
+        "search_words": [
+          "colouring",
+          "grown-ups",
+          "long day"
+        ],
+        "qc_score": 97,
+        "qc_parts": {
+          "hook": 27,
+          "search_words": 20,
+          "one_ask": 15,
+          "sounds_human": 15,
+          "visual": 10,
+          "channel_rules": 10
+        },
+        "qc_notes": []
+      },
+      "files": {
+        "image": "pin-Fri.png"
+      },
+      "ai_label": true,
+      "link": "https://thepolarbearsgrotto.co.uk/collections/colouring-books"
+    },
+    {
+      "id": "story-Fri",
+      "format": "story",
+      "day": "2026-11-27",
+      "time": "09:00",
+      "photo": "1uQ_x36LfeYqOFRq98E5-W4oy5PwFGfGi",
+      "item": {
+        "name": "Colouring Book - Sweary - Page One - Coffee before and After - Blurred - Finished.png",
+        "title": "Colouring Book - Sweary - Page One - Coffee before and After",
+        "product": "Colouring books",
+        "kind": "photo",
+        "mime": "image/png",
+        "size": 1275953,
+        "md5": "47b1dae118fb5b4acbe5d7070c95e704",
+        "added": "2026-11-05",
+        "excluded": false,
+        "ai_made": true,
+        "missing": false
+      },
+      "season": {
+        "name": "Christmas",
+        "date": "2026-12-25",
+        "products": [
+          "gift tags",
+          "chocolate tub toppers",
+          "baubles",
+          "prints",
+          "place mats"
+        ],
+        "angle": "personal gifts without hand-writing labels; order in time (dispatched within 24 hours)"
+      },
+      "channels": [
+        "instagram_story"
+      ],
+      "text": {
+        "hook": "1 long day with no way to switch off",
+        "hook_score": 91,
+        "hook_options": [
+          {
+            "hook": "1 long day with no way to switch off",
+            "score": 91,
+            "parts": {
+              "stakes": 30,
+              "specific_detail": 20,
+              "curiosity": 20,
+              "short_and_clear": 15,
+              "fits_buyer": 6
+            },
+            "source": "gemini"
+          },
+          {
+            "hook": "1 way to switch your brain off after a long day",
+            "score": 91,
+            "parts": {
+              "stakes": 30,
+              "specific_detail": 20,
+              "curiosity": 20,
+              "short_and_clear": 15,
+              "fits_buyer": 6
+            },
+            "source": "gemini"
+          },
+          {
+            "hook": "Stop scrolling at 10pm. Colour something rude instead",
+            "score": 91,
+            "parts": {
+              "stakes": 30,
+              "specific_detail": 20,
+              "curiosity": 20,
+              "short_and_clear": 15,
+              "fits_buyer": 6
+            },
+            "source": "template"
+          },
+          {
+            "hook": "Nobody tells you that adults need colouring books too",
+            "score": 83,
+            "parts": {
+              "stakes": 30,
+              "specific_detail": 12,
+              "curiosity": 20,
+              "short_and_clear": 15,
+              "fits_buyer": 6
+            },
+            "source": "gemini"
+          },
+          {
+            "hook": "1: A long day with no way to switch off",
+            "score": 79,
+            "parts": {
+              "stakes": 30,
+              "specific_detail": 20,
+              "curiosity": 8,
+              "short_and_clear": 15,
+              "fits_buyer": 6
+            },
+            "source": "gemini"
+          }
+        ],
+        "body": "This swearing colouring book is for grown-ups. It helps you switch your brain off after a long day.",
+        "ig_caption": "1 long day with no way to switch off\n\nThis swearing colouring book is for grown-ups. It helps you switch your brain off after a long day.\n\nSend this to the friend who'd laugh at this.\n\nFind them at thepolarbearsgrotto.co.uk",
+        "ask_kind": "send",
+        "caption_source": "gemini",
+        "pin_title": "Sweary adult colouring book for relaxing",
+        "pin_description": "Sweary adult colouring book for grown-ups who need to switch off after a long day. A funny gift for friends. Printed in the UK by thepolarbearsgrotto.co.uk",
+        "story_line": "Switch off with a sweary colouring book",
+        "tip": "Pair the book with a mug of tea and a pack of biscuits for a cosy night in.",
+        "tiktok_caption": "1 long day with no way to switch off. This sweary colouring book is for grown-ups who need to switch off after a long day. thepolarbearsgrotto.co.uk #adultcolouring #swearycolouring #colouringbooks #ukgifts",
+        "ask_line": "Send this to the friend who'd laugh at this",
+        "search_words": [
+          "colouring",
+          "grown-ups",
+          "long day"
+        ],
+        "qc_score": 97,
+        "qc_parts": {
+          "hook": 27,
+          "search_words": 20,
+          "one_ask": 15,
+          "sounds_human": 15,
+          "visual": 10,
+          "channel_rules": 10
+        },
+        "qc_notes": []
+      },
+      "files": {
+        "image": "story-Fri.png"
+      },
+      "ai_label": true,
+      "link": "https://thepolarbearsgrotto.co.uk/collections/colouring-books"
+    },
+    {
+      "id": "pin-Sat",
+      "format": "pin",
+      "day": "2026-11-28",
+      "time": "20:00",
+      "photo": "1JK7UsOGEpvbc96TufR_NeJKXp2lE-SWh",
+      "item": {
+        "name": "Colouring Book - Sweary - Cover - Blurred - Finished.jpg",
+        "title": "Colouring Book - Sweary",
+        "product": "Colouring books",
+        "kind": "photo",
+        "mime": "image/jpeg",
+        "size": 660175,
+        "md5": "aff3200c98288f3d8bee7e8e88236de9",
+        "added": "2026-11-05",
+        "excluded": false,
+        "ai_made": true,
+        "missing": false
+      },
+      "season": {
+        "name": "Christmas",
+        "date": "2026-12-25",
+        "products": [
+          "gift tags",
+          "chocolate tub toppers",
+          "baubles",
+          "prints",
+          "place mats"
+        ],
+        "angle": "personal gifts without hand-writing labels; order in time (dispatched within 24 hours)"
+      },
+      "channels": [
+        "pinterest"
+      ],
+      "text": {
+        "hook": "Stop scrolling at 10pm. Colour something rude instead",
+        "hook_score": 91,
+        "hook_options": [
+          {
+            "hook": "Stop scrolling at 10pm. Colour something rude instead",
+            "score": 91,
+            "parts": {
+              "stakes": 30,
+              "specific_detail": 20,
+              "curiosity": 20,
+              "short_and_clear": 15,
+              "fits_buyer": 6
+            },
+            "source": "template"
+          },
+          {
+            "hook": "Nobody tells you how hard it is to unwind after work",
+            "score": 71,
+            "parts": {
+              "stakes": 30,
+              "specific_detail": 0,
+              "curiosity": 20,
+              "short_and_clear": 15,
+              "fits_buyer": 6
+            },
+            "source": "gemini"
+          },
+          {
+            "hook": "Stop staring at the telly when you need to relax",
+            "score": 71,
+            "parts": {
+              "stakes": 30,
+              "specific_detail": 0,
+              "curiosity": 20,
+              "short_and_clear": 15,
+              "fits_buyer": 6
+            },
+            "source": "gemini"
+          },
+          {
+            "hook": "Sometimes colouring pretty flowers just isn't enough",
+            "score": 71,
+            "parts": {
+              "stakes": 30,
+              "specific_detail": 12,
+              "curiosity": 8,
+              "short_and_clear": 15,
+              "fits_buyer": 6
+            },
+            "source": "template"
+          },
+          {
+            "hook": "You do not have to buy another boring gift",
+            "score": 68,
+            "parts": {
+              "stakes": 30,
+              "specific_detail": 0,
+              "curiosity": 8,
+              "short_and_clear": 15,
+              "fits_buyer": 15
+            },
+            "source": "gemini"
+          }
+        ],
+        "body": "Sometimes colouring pretty flowers just isn't enough. This sweary colouring book is perfect for grown-ups who need to switch their brains off after a long day. It makes a cheeky little gift for a friend.",
+        "ig_caption": "Stop scrolling at 10pm. Colour something rude instead\n\nSometimes colouring pretty flowers just isn't enough. This sweary colouring book is perfect for grown-ups who need to switch their brains off after a long day. It makes a cheeky little gift for a friend.\n\nSend this to someone who needs to switch off.\n\nFind them at thepolarbearsgrotto.co.uk",
+        "ask_kind": "send",
+        "caption_source": "gemini",
+        "pin_title": "Sweary adult colouring book for relaxation",
+        "pin_description": "Sweary adult colouring book for grown-ups who need to switch off after a long day. Perfect for a cheeky gift or relaxing evening at home. Find more fun colouring books at thepolarbearsgrotto.co.uk",
+        "story_line": "Cheaper than therapy and far more colourful",
+        "tip": "Keep your colouring pens in a mug on the table so they are always ready for a quiet evening.",
+        "tiktok_caption": "Stop scrolling at 10pm. Colour something rude instead. This sweary colouring book is perfect for grown-ups who need to switch off after a long day. thepolarbearsgrotto.co.uk #adultcolouring #swearycolouring #colouringforadults #funnygift",
+        "ask_line": "Send this to someone who needs to switch off",
+        "search_words": [
+          "colouring",
+          "grown-ups",
+          "gift"
+        ],
+        "qc_score": 97,
+        "qc_parts": {
+          "hook": 27,
+          "search_words": 20,
+          "one_ask": 15,
+          "sounds_human": 15,
+          "visual": 10,
+          "channel_rules": 10
+        },
+        "qc_notes": []
+      },
+      "files": {
+        "image": "pin-Sat.png"
+      },
+      "ai_label": true,
+      "link": "https://thepolarbearsgrotto.co.uk/collections/colouring-books"
+    },
+    {
+      "id": "story-Sat",
+      "format": "story",
+      "day": "2026-11-28",
+      "time": "09:00",
+      "photo": "1JK7UsOGEpvbc96TufR_NeJKXp2lE-SWh",
+      "item": {
+        "name": "Colouring Book - Sweary - Cover - Blurred - Finished.jpg",
+        "title": "Colouring Book - Sweary",
+        "product": "Colouring books",
+        "kind": "photo",
+        "mime": "image/jpeg",
+        "size": 660175,
+        "md5": "aff3200c98288f3d8bee7e8e88236de9",
+        "added": "2026-11-05",
+        "excluded": false,
+        "ai_made": true,
+        "missing": false
+      },
+      "season": {
+        "name": "Christmas",
+        "date": "2026-12-25",
+        "products": [
+          "gift tags",
+          "chocolate tub toppers",
+          "baubles",
+          "prints",
+          "place mats"
+        ],
+        "angle": "personal gifts without hand-writing labels; order in time (dispatched within 24 hours)"
+      },
+      "channels": [
+        "instagram_story"
+      ],
+      "text": {
+        "hook": "Stop scrolling at 10pm. Colour something rude instead",
+        "hook_score": 91,
+        "hook_options": [
+          {
+            "hook": "Stop scrolling at 10pm. Colour something rude instead",
+            "score": 91,
+            "parts": {
+              "stakes": 30,
+              "specific_detail": 20,
+              "curiosity": 20,
+              "short_and_clear": 15,
+              "fits_buyer": 6
+            },
+            "source": "template"
+          },
+          {
+            "hook": "Nobody tells you how hard it is to unwind after work",
+            "score": 71,
+            "parts": {
+              "stakes": 30,
+              "specific_detail": 0,
+              "curiosity": 20,
+              "short_and_clear": 15,
+              "fits_buyer": 6
+            },
+            "source": "gemini"
+          },
+          {
+            "hook": "Stop staring at the telly when you need to relax",
+            "score": 71,
+            "parts": {
+              "stakes": 30,
+              "specific_detail": 0,
+              "curiosity": 20,
+              "short_and_clear": 15,
+              "fits_buyer": 6
+            },
+            "source": "gemini"
+          },
+          {
+            "hook": "Sometimes colouring pretty flowers just isn't enough",
+            "score": 71,
+            "parts": {
+              "stakes": 30,
+              "specific_detail": 12,
+              "curiosity": 8,
+              "short_and_clear": 15,
+              "fits_buyer": 6
+            },
+            "source": "template"
+          },
+          {
+            "hook": "You do not have to buy another boring gift",
+            "score": 68,
+            "parts": {
+              "stakes": 30,
+              "specific_detail": 0,
+              "curiosity": 8,
+              "short_and_clear": 15,
+              "fits_buyer": 15
+            },
+            "source": "gemini"
+          }
+        ],
+        "body": "Sometimes colouring pretty flowers just isn't enough. This sweary colouring book is perfect for grown-ups who need to switch their brains off after a long day. It makes a cheeky little gift for a friend.",
+        "ig_caption": "Stop scrolling at 10pm. Colour something rude instead\n\nSometimes colouring pretty flowers just isn't enough. This sweary colouring book is perfect for grown-ups who need to switch their brains off after a long day. It makes a cheeky little gift for a friend.\n\nSend this to someone who needs to switch off.\n\nFind them at thepolarbearsgrotto.co.uk",
+        "ask_kind": "send",
+        "caption_source": "gemini",
+        "pin_title": "Sweary adult colouring book for relaxation",
+        "pin_description": "Sweary adult colouring book for grown-ups who need to switch off after a long day. Perfect for a cheeky gift or relaxing evening at home. Find more fun colouring books at thepolarbearsgrotto.co.uk",
+        "story_line": "Cheaper than therapy and far more colourful",
+        "tip": "Keep your colouring pens in a mug on the table so they are always ready for a quiet evening.",
+        "tiktok_caption": "Stop scrolling at 10pm. Colour something rude instead. This sweary colouring book is perfect for grown-ups who need to switch off after a long day. thepolarbearsgrotto.co.uk #adultcolouring #swearycolouring #colouringforadults #funnygift",
+        "ask_line": "Send this to someone who needs to switch off",
+        "search_words": [
+          "colouring",
+          "grown-ups",
+          "gift"
+        ],
+        "qc_score": 97,
+        "qc_parts": {
+          "hook": 27,
+          "search_words": 20,
+          "one_ask": 15,
+          "sounds_human": 15,
+          "visual": 10,
+          "channel_rules": 10
+        },
+        "qc_notes": []
+      },
+      "files": {
+        "image": "story-Sat.png"
+      },
+      "ai_label": true,
+      "link": "https://thepolarbearsgrotto.co.uk/collections/colouring-books"
+    },
+    {
+      "id": "pin-Sun",
+      "format": "pin",
+      "day": "2026-11-29",
+      "time": "20:00",
+      "photo": "1LBiqI34eiJUHmVrvcLkK_TFQUtYFoKn1",
+      "item": {
+        "name": "Colouring Book - Sweary - Page One Portrait - Blurred - Finished.png",
+        "title": "Colouring Book - Sweary - Page One",
+        "product": "Colouring books",
+        "kind": "photo",
+        "mime": "image/png",
+        "size": 2747534,
+        "md5": "83882436758f22e650ec9a9ebea2c6ae",
+        "added": "2026-11-05",
+        "excluded": false,
+        "ai_made": true,
+        "missing": false
+      },
+      "season": {
+        "name": "Christmas",
+        "date": "2026-12-25",
+        "products": [
+          "gift tags",
+          "chocolate tub toppers",
+          "baubles",
+          "prints",
+          "place mats"
+        ],
+        "angle": "personal gifts without hand-writing labels; order in time (dispatched within 24 hours)"
+      },
+      "channels": [
+        "pinterest"
+      ],
+      "text": {
+        "hook": "1 simple colouring book for a long day with no way to switch off",
+        "hook_score": 83,
+        "hook_options": [
+          {
+            "hook": "1 long day with no way to switch off",
+            "score": 91,
+            "parts": {
+              "stakes": 30,
+              "specific_detail": 20,
+              "curiosity": 20,
+              "short_and_clear": 15,
+              "fits_buyer": 6
+            },
+            "source": "gemini"
+          },
+          {
+            "hook": "Stop scrolling at 10pm. Colour something rude instead",
+            "score": 91,
+            "parts": {
+              "stakes": 30,
+              "specific_detail": 20,
+              "curiosity": 20,
+              "short_and_clear": 15,
+              "fits_buyer": 6
+            },
+            "source": "template"
+          },
+          {
+            "hook": "1 simple colouring book for a long day with no way to switch off",
+            "score": 83,
+            "parts": {
+              "stakes": 30,
+              "specific_detail": 20,
+              "curiosity": 20,
+              "short_and_clear": 7,
+              "fits_buyer": 6
+            },
+            "source": "gemini"
+          },
+          {
+            "hook": "1 way to get a laugh when a long day leaves no way to switch off",
+            "score": 76,
+            "parts": {
+              "stakes": 30,
+              "specific_detail": 20,
+              "curiosity": 20,
+              "short_and_clear": 0,
+              "fits_buyer": 6
+            },
+            "source": "gemini"
+          },
+          {
+            "hook": "Stop dealing with a long day and no way to switch off",
+            "score": 71,
+            "parts": {
+              "stakes": 30,
+              "specific_detail": 0,
+              "curiosity": 20,
+              "short_and_clear": 15,
+              "fits_buyer": 6
+            },
+            "source": "gemini"
+          }
+        ],
+        "body": "Sometimes colouring pretty flowers just isn't enough. This swearing colouring book is perfect for grown-ups who need to switch off after a long day.",
+        "ig_caption": "1 simple colouring book for a long day with no way to switch off\n\nSometimes colouring pretty flowers just isn't enough. This swearing colouring book is perfect for grown-ups who need to switch off after a long day.\n\nSend this to the friend who'd laugh at this.\n\nFind them at thepolarbearsgrotto.co.uk",
+        "ask_kind": "send",
+        "caption_source": "gemini",
+        "pin_title": "Sweary adult colouring book for relaxing",
+        "pin_description": "Sweary adult colouring book for grown-ups who need to switch off after a long day. A funny gift for friends who appreciate a laugh. Printed in the UK. thepolarbearsgrotto.co.uk",
+        "story_line": "Switch off with a swearing colouring book",
+        "tip": "Keep a set of pens in a jar by your chair so you are always ready to relax.",
+        "tiktok_caption": "1 simple colouring book for a long day with no way to switch off. This swearing colouring book is for grown-ups who need to switch off after a long day. thepolarbearsgrotto.co.uk #adultcolouring #swearycolouringbook #funnygift #stockingfiller",
+        "ask_line": "Send this to the friend who'd laugh at this",
+        "search_words": [
+          "colouring",
+          "colouring book",
+          "colour"
+        ],
+        "qc_score": 95,
+        "qc_parts": {
+          "hook": 25,
+          "search_words": 20,
+          "one_ask": 15,
+          "sounds_human": 15,
+          "visual": 10,
+          "channel_rules": 10
+        },
+        "qc_notes": []
+      },
+      "files": {
+        "image": "pin-Sun.png"
+      },
+      "ai_label": true,
+      "link": "https://thepolarbearsgrotto.co.uk/collections/colouring-books"
+    },
+    {
+      "id": "story-Sun",
+      "format": "story",
+      "day": "2026-11-29",
+      "time": "09:00",
+      "photo": "1LBiqI34eiJUHmVrvcLkK_TFQUtYFoKn1",
+      "item": {
+        "name": "Colouring Book - Sweary - Page One Portrait - Blurred - Finished.png",
+        "title": "Colouring Book - Sweary - Page One",
+        "product": "Colouring books",
+        "kind": "photo",
+        "mime": "image/png",
+        "size": 2747534,
+        "md5": "83882436758f22e650ec9a9ebea2c6ae",
+        "added": "2026-11-05",
+        "excluded": false,
+        "ai_made": true,
+        "missing": false
+      },
+      "season": {
+        "name": "Christmas",
+        "date": "2026-12-25",
+        "products": [
+          "gift tags",
+          "chocolate tub toppers",
+          "baubles",
+          "prints",
+          "place mats"
+        ],
+        "angle": "personal gifts without hand-writing labels; order in time (dispatched within 24 hours)"
+      },
+      "channels": [
+        "instagram_story"
+      ],
+      "text": {
+        "hook": "1 simple colouring book for a long day with no way to switch off",
+        "hook_score": 83,
+        "hook_options": [
+          {
+            "hook": "1 long day with no way to switch off",
+            "score": 91,
+            "parts": {
+              "stakes": 30,
+              "specific_detail": 20,
+              "curiosity": 20,
+              "short_and_clear": 15,
+              "fits_buyer": 6
+            },
+            "source": "gemini"
+          },
+          {
+            "hook": "Stop scrolling at 10pm. Colour something rude instead",
+            "score": 91,
+            "parts": {
+              "stakes": 30,
+              "specific_detail": 20,
+              "curiosity": 20,
+              "short_and_clear": 15,
+              "fits_buyer": 6
+            },
+            "source": "template"
+          },
+          {
+            "hook": "1 simple colouring book for a long day with no way to switch off",
+            "score": 83,
+            "parts": {
+              "stakes": 30,
+              "specific_detail": 20,
+              "curiosity": 20,
+              "short_and_clear": 7,
+              "fits_buyer": 6
+            },
+            "source": "gemini"
+          },
+          {
+            "hook": "1 way to get a laugh when a long day leaves no way to switch off",
+            "score": 76,
+            "parts": {
+              "stakes": 30,
+              "specific_detail": 20,
+              "curiosity": 20,
+              "short_and_clear": 0,
+              "fits_buyer": 6
+            },
+            "source": "gemini"
+          },
+          {
+            "hook": "Stop dealing with a long day and no way to switch off",
+            "score": 71,
+            "parts": {
+              "stakes": 30,
+              "specific_detail": 0,
+              "curiosity": 20,
+              "short_and_clear": 15,
+              "fits_buyer": 6
+            },
+            "source": "gemini"
+          }
+        ],
+        "body": "Sometimes colouring pretty flowers just isn't enough. This swearing colouring book is perfect for grown-ups who need to switch off after a long day.",
+        "ig_caption": "1 simple colouring book for a long day with no way to switch off\n\nSometimes colouring pretty flowers just isn't enough. This swearing colouring book is perfect for grown-ups who need to switch off after a long day.\n\nSend this to the friend who'd laugh at this.\n\nFind them at thepolarbearsgrotto.co.uk",
+        "ask_kind": "send",
+        "caption_source": "gemini",
+        "pin_title": "Sweary adult colouring book for relaxing",
+        "pin_description": "Sweary adult colouring book for grown-ups who need to switch off after a long day. A funny gift for friends who appreciate a laugh. Printed in the UK. thepolarbearsgrotto.co.uk",
+        "story_line": "Switch off with a swearing colouring book",
+        "tip": "Keep a set of pens in a jar by your chair so you are always ready to relax.",
+        "tiktok_caption": "1 simple colouring book for a long day with no way to switch off. This swearing colouring book is for grown-ups who need to switch off after a long day. thepolarbearsgrotto.co.uk #adultcolouring #swearycolouringbook #funnygift #stockingfiller",
+        "ask_line": "Send this to the friend who'd laugh at this",
+        "search_words": [
+          "colouring",
+          "colouring book",
+          "colour"
+        ],
+        "qc_score": 95,
+        "qc_parts": {
+          "hook": 25,
+          "search_words": 20,
+          "one_ask": 15,
+          "sounds_human": 15,
+          "visual": 10,
+          "channel_rules": 10
+        },
+        "qc_notes": []
+      },
+      "files": {
+        "image": "story-Sun.png"
+      },
+      "ai_label": true,
+      "link": "https://thepolarbearsgrotto.co.uk/collections/colouring-books"
+    }
+  ],
+  "held": [],
+  "notes": [
+    "Not enough unused videos for the Thu reel.",
+    "Not enough unused videos for the Sat reel."
+  ],
+  "library_left": {
+    "videos": 0,
+    "photos": 24
+  },
+  "live": true,
+  "extra": false,
+  "swap": null
+}
